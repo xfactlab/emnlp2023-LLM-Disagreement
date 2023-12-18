@@ -1,0 +1,1202 @@
+{
+  "412": {
+    "label_counter": {
+      "n": 32,
+      "c": 34,
+      "e": 34
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The important thing is to realize that it's way past time to move it.",
+    "hypothesis": "It cannot be moved, now or ever.",
+    "human_ent": 1.098209540353189
+  },
+  "465": {
+    "label_counter": {
+      "e": 31,
+      "n": 35,
+      "c": 34
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "you know your children are going you know you've got five children in school instead of somebody that only has one or none and so you they're paying more income tax to pay for your children to go to school it just you know doesn't make sense",
+    "hypothesis": "People with more children should get lower tax rates than people with less children.",
+    "human_ent": 1.0972997527069064
+  },
+  "327": {
+    "label_counter": {
+      "c": 32,
+      "n": 32,
+      "e": 36
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Also, why Princess Di was like President  The public cared more about her empathy than about her actions.",
+    "hypothesis": "They scared more about empathy than actions.",
+    "human_ent": 1.097032390352067
+  },
+  "1213": {
+    "label_counter": {
+      "e": 36,
+      "n": 34,
+      "c": 30
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The park was established in 1935 and was given Corbett's name after India became independent.",
+    "hypothesis": "The park used to be named after Corbett.",
+    "human_ent": 1.0957815752757503
+  },
+  "936": {
+    "label_counter": {
+      "n": 36,
+      "e": 29,
+      "c": 35
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "For example, if Ovitz's five-year deal was worth, say, $100 million, and if the compensation committee had added to that a front-end grant of free Disney shares worth, say, $50 million, then--assuming that Ovitz finished his five-year contract period--the cost to Disney would be $150 million.",
+    "hypothesis": "The five-year deal will be worth $100 million",
+    "human_ent": 1.0942157559265193
+  },
+  "680": {
+    "label_counter": {
+      "c": 31,
+      "n": 31,
+      "e": 38
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met.",
+    "hypothesis": "The ANC would not be in charge of land reform.",
+    "human_ent": 1.093815378511274
+  },
+  "1572": {
+    "label_counter": {
+      "c": 38,
+      "n": 29,
+      "e": 33
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Specifically, by defining mission improvement objectives, senior executives determine whether their organization needs a CIO who is a networking/marketing specialist, business change agent, operations specialist, policy/oversight manager, or any combination thereof.",
+    "hypothesis": "A CIO does not need to be an operations specialist.",
+    "human_ent": 1.092524159312049
+  },
+  "1101": {
+    "label_counter": {
+      "c": 36,
+      "e": 36,
+      "n": 28
+    },
+    "old_label": "e",
+    "majority_label": "c",
+    "premise": "They won't be killing off George Clooney's character at ER like they did to Jimmy Smits at NYPD . Instead, Dr. Doug Ross is being forced out over the next two episodes because the maverick heartthrob gives an unauthorized painkiller to a terminally ill boy (Thursday, 10 p.m.).",
+    "hypothesis": "George Clooney will not be getting fired from his TV show. ",
+    "human_ent": 1.0920192874506351
+  },
+  "1219": {
+    "label_counter": {
+      "n": 30,
+      "c": 39,
+      "e": 31
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "Of how, when tea was done, and everyone had stood,He reached for my head, put his hands over it,And gently pulled me to his chest, which smelledOf dung smoke and cinnamon and mutton grease.I could hear his wheezy breathing now, like the prophet's Last whispered word repeated by the faithful.Then he prayed for what no one had time to translate--His son interrupted the old man to tell him a groupOf snake charmers sought his blessing, and a blind thief.The saint pushed me away, took one long look,Then straightened my collar and nodded me toward the door.",
+    "hypothesis": "When tea was done, he put his hands on me romantically.",
+    "human_ent": 1.0914858961084872
+  },
+  "1082": {
+    "label_counter": {
+      "c": 33,
+      "n": 39,
+      "e": 28
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "There are no shares of a stock that might someday come back, just piles of options as worthless as those shares of Cook's American Business Alliance.",
+    "hypothesis": "No shares of a stock will come back because of  Cook's American Business Alliance.",
+    "human_ent": 1.0895163858645338
+  },
+  "865": {
+    "label_counter": {
+      "c": 31,
+      "e": 29,
+      "n": 40
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "uh but you could fill a whole bunch of uh holes with these things i used to i used to advertise buying wheat pennies um i'd give a dollar a roll which two cents a piece which is basically overpriced",
+    "hypothesis": "I made a good dollar while selling them.",
+    "human_ent": 1.088566580256044
+  },
+  "928": {
+    "label_counter": {
+      "e": 39,
+      "n": 26,
+      "c": 35
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "uh but you could fill a whole bunch of uh holes with these things i used to i used to advertise buying wheat pennies um i'd give a dollar a roll which two cents a piece which is basically overpriced",
+    "hypothesis": "I used to try to sell wheat pennies.",
+    "human_ent": 1.0849042225906493
+  },
+  "522": {
+    "label_counter": {
+      "e": 26,
+      "n": 35,
+      "c": 39
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "And it needs work too, you know, in case I have to jump out with this parachute from my lil' blue sports plane for real.'",
+    "hypothesis": "It needs to work Incase he needs to jump out of a small window.",
+    "human_ent": 1.0849042225906491
+  },
+  "548": {
+    "label_counter": {
+      "n": 40,
+      "c": 34,
+      "e": 26
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "See the idea?\" 35 \"Then you think\" Tuppence paused to grasp the supposition fully \"that it WAS as Jane Finn that they wanted me to go to Paris?\" Mr. Carter smiled more wearily than ever.",
+    "hypothesis": "Tuppence just couldn't grasp the concept.",
+    "human_ent": 1.0835507260874366
+  },
+  "1107": {
+    "label_counter": {
+      "c": 42,
+      "e": 30,
+      "n": 28
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Specifically, by defining mission improvement objectives, senior executives determine whether their organization needs a CIO who is a networking/marketing specialist, business change agent, operations specialist, policy/oversight manager, or any combination thereof.",
+    "hypothesis": "A CIO must be an operations specialist.",
+    "human_ent": 1.081972468961373
+  },
+  "135": {
+    "label_counter": {
+      "e": 25,
+      "n": 39,
+      "c": 36
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law , Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor.",
+    "hypothesis": "Race should always be considered in judicial decisions.",
+    "human_ent": 1.0815953699362795
+  },
+  "1352": {
+    "label_counter": {
+      "c": 31,
+      "e": 42,
+      "n": 27
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "so i like music i like listening to music so i don't usually listen to KCBI and then there's another one called Journey that's somewhere in between the two of those it's in between ninety and ninety four",
+    "hypothesis": "KCBI does not play music, so I don't listen to it.",
+    "human_ent": 1.0809369590975124
+  },
+  "814": {
+    "label_counter": {
+      "n": 42,
+      "c": 26,
+      "e": 32
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "I take it Americans have a higher opinion of morality than you have even.",
+    "hypothesis": "I take it that you have an unusually high opinion of morality.",
+    "human_ent": 1.0792083575275788
+  },
+  "234": {
+    "label_counter": {
+      "e": 24,
+      "c": 39,
+      "n": 37
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "However, the associated cost is primarily some of the costs of assessing and collecting duties on imported merchandise, such as the salaries of import specialists (who classify merchandise) and the costs of processing paperwork.",
+    "hypothesis": "the associated cost is how much people spend relative to this amount",
+    "human_ent": 1.0776085970356593
+  },
+  "425": {
+    "label_counter": {
+      "e": 24,
+      "c": 39,
+      "n": 37
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "Tommy Thompson of Wisconsin and Mayor Rudolph Giuliani of New York, the conservative vanguard on the issue, show no inclination to exploit research that says, in effect, Why care about day-care quality?",
+    "hypothesis": "Thompson and Giuliani might care about day cares.",
+    "human_ent": 1.0776085970356593
+  },
+  "938": {
+    "label_counter": {
+      "c": 37,
+      "n": 39,
+      "e": 24
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "'Upload him into his body? What body?'",
+    "hypothesis": "He has a body.",
+    "human_ent": 1.0776085970356593
+  },
+  "1560": {
+    "label_counter": {
+      "e": 37,
+      "c": 39,
+      "n": 24
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Closed on the Sabbath.",
+    "hypothesis": "Sabbath is closed.",
+    "human_ent": 1.0776085970356593
+  },
+  "1258": {
+    "label_counter": {
+      "c": 24,
+      "n": 40,
+      "e": 36
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Also, stakeholders may not interpret principles consistently, and it is important for stakeholders to have the same conceptual framework as preparers when interpreting a principle.",
+    "hypothesis": "stakeholders may not interpret how they want to invest their money",
+    "human_ent": 1.0768186672148103
+  },
+  "191": {
+    "label_counter": {
+      "c": 32,
+      "n": 43,
+      "e": 25
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "I think it is important for everyone to understand the extent to which First-Class mail is already carrying a disproportionate share of the institutional cost or overhead burden of the postal system.",
+    "hypothesis": "The burden is enough for first class mail to handle.",
+    "human_ent": 1.074099691126897
+  },
+  "1384": {
+    "label_counter": {
+      "n": 32,
+      "e": 43,
+      "c": 25
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Bauerstein had been at Styles on the fatal night, and added: \"He said twice: 'That alters everything.' And I've been thinking. ",
+    "hypothesis": "The fact that Styles was at Bauerstein changes everything.",
+    "human_ent": 1.074099691126897
+  },
+  "669": {
+    "label_counter": {
+      "c": 28,
+      "e": 44,
+      "n": 28
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "And it needs work too, you know, in case I have to jump out with this parachute from my lil' blue sports plane for real.'",
+    "hypothesis": "It needs to work Incase he has to jump out a window.",
+    "human_ent": 1.0740922213659423
+  },
+  "1416": {
+    "label_counter": {
+      "n": 44,
+      "c": 29,
+      "e": 27
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Shall I tell you what it would be like for your soul to live in the muck of a swamp in a mandrake root?  Dave shook his head.",
+    "hypothesis": "Shall I send your soul into a mandrake root?",
+    "human_ent": 1.07373500254681
+  },
+  "208": {
+    "label_counter": {
+      "n": 33,
+      "e": 43,
+      "c": 24
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The conspiracy-minded allege that the chains also leverage their influence to persuade the big publishers to produce more blockbusters at the expense of moderate-selling books.",
+    "hypothesis": "Big publishers want to produce more high budget films, even if that means badly selling books.",
+    "human_ent": 1.0712737216724142
+  },
+  "109": {
+    "label_counter": {
+      "e": 44,
+      "n": 31,
+      "c": 25
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "For instance, when Clinton cited executive privilege as a reason for holding back a memo from FBI Director Louis Freeh criticizing his drug policies, Bob Dole asserted that the president had no basis for refusing to divulge it.",
+    "hypothesis": "Bob Dole stated that Clinton had no right to privilege for actions not involving the presidency.",
+    "human_ent": 1.070871757456611
+  },
+  "1180": {
+    "label_counter": {
+      "c": 42,
+      "n": 23,
+      "e": 35
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "you know maybe it just wasn't possible at all in the first place you know like the no new taxes thing you know that's uh with the economy going the way it is and everything that was nearly ridiculous thing to",
+    "hypothesis": "it's possible to have no new taxes with the way the economy is right now.",
+    "human_ent": 1.0698134551240777
+  },
+  "231": {
+    "label_counter": {
+      "n": 26,
+      "e": 29,
+      "c": 45
+    },
+    "old_label": "e",
+    "majority_label": "c",
+    "premise": "'These are human lives.",
+    "hypothesis": "These are Hunan lives",
+    "human_ent": 1.0685511750097847
+  },
+  "1223": {
+    "label_counter": {
+      "n": 44,
+      "e": 32,
+      "c": 24
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Rightly or wrongly, America is seen as globalization's prime mover and head cheerleader and will be blamed for its excesses until we start paying official attention to them.",
+    "hypothesis": "America alone is responsible for the excesses of the globalization movement. ",
+    "human_ent": 1.068358338884637
+  },
+  "1529": {
+    "label_counter": {
+      "e": 44,
+      "n": 32,
+      "c": 24
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The media focused on Liggett's admissions of the obvious--that cigarettes are addictive and cause cancer and heart disease--and its agreement to pay the states a quarter of its (relatively small) pretax profits for the next 25 years.",
+    "hypothesis": "The media reported on Lingett's admission that cigarettes cause cancer in all users.",
+    "human_ent": 1.068358338884637
+  },
+  "1328": {
+    "label_counter": {
+      "c": 43,
+      "e": 23,
+      "n": 34
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "yes they would they just wouldn't be able to own the kind of automobiles that they think they deserve to own or the kind of homes that we think we deserve to own we might have to you know just be able to i think if we a generation went without debt then the next generation like if if our our generation my husband and i we're twenty eight if we lived our lives and didn't become you know indebted like you know our generation before us that um the budget would balance and that we became accustomed to living with what we could afford which we wouldn't be destitute i mean we wouldn't be living on the street by any means but just compared to how spoiled we are we would be in our own minds but i feel like the generation after us would oh man it it would be so good it would be so much better it wouldn't be perfect but then they could learn to live with what what they could afford to save to buy and if you want a nicer car than that well you save a little longer",
+    "hypothesis": "I am glad our generation has no debt.",
+    "human_ent": 1.0677278882066603
+  },
+  "726": {
+    "label_counter": {
+      "e": 40,
+      "c": 38,
+      "n": 22
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "In short, we all got tired of clever analyses of what might happen; and throughout economics there was a shift in focus away from theorizing, toward data collection and careful statistical analysis.",
+    "hypothesis": "We all got tired of data collection and clever analyses of what might happen; economists need to change their style.",
+    "human_ent": 1.0673063239076608
+  },
+  "946": {
+    "label_counter": {
+      "e": 40,
+      "c": 38,
+      "n": 22
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "Then he sobered.",
+    "hypothesis": "He was drunk.",
+    "human_ent": 1.0673063239076608
+  },
+  "1133": {
+    "label_counter": {
+      "n": 38,
+      "c": 40,
+      "e": 22
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "because otherwise it's too it gets if you start them when it's cooler in the spring then it gets too hot in the summer",
+    "hypothesis": "You should start them during Spring if you want them to be cool during the summer.",
+    "human_ent": 1.0673063239076608
+  },
+  "164": {
+    "label_counter": {
+      "e": 25,
+      "n": 45,
+      "c": 30
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Text Box 2.1: Gross Domestic Product and Gross National Product 48Text Box 4.1: How do the NIPA and federal unified budget concepts of",
+    "hypothesis": "This text displays how GDP and GNP is calculated.",
+    "human_ent": 1.0670938948757507
+  },
+  "195": {
+    "label_counter": {
+      "n": 22,
+      "e": 41,
+      "c": 37
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The activities included in the Unified Agenda are, in general, those expected to have a regulatory action within the next 12 months, although agencies may include activities with an even longer time frame.",
+    "hypothesis": "Some actions were implemented for being shorter than 12 months. ",
+    "human_ent": 1.0665366712221327
+  },
+  "549": {
+    "label_counter": {
+      "c": 23,
+      "n": 44,
+      "e": 33
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "GAO also issued over 160 reports detailing specific findings and made over 100 recommendations to agencies and to the President's Council on Year 2000 Conversion for improving the government's readiness.",
+    "hypothesis": "The GAO issued roughly 170 reports about specific findings.",
+    "human_ent": 1.0651155821164136
+  },
+  "424": {
+    "label_counter": {
+      "n": 45,
+      "c": 31,
+      "e": 24
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The judge gave vent to a faint murmur of disapprobation, and the prisoner in the dock leant forward angrily. ",
+    "hypothesis": "The judge ordered the court to be silent.",
+    "human_ent": 1.0649031129175452
+  },
+  "173": {
+    "label_counter": {
+      "n": 22,
+      "e": 43,
+      "c": 35
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "But, as the last problem I'll outline suggests, neither of the previous two objections matters.",
+    "hypothesis": "I will not continue to outline any more problems.",
+    "human_ent": 1.0634529749797352
+  },
+  "1570": {
+    "label_counter": {
+      "n": 35,
+      "e": 43,
+      "c": 22
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "With a little practice almost anyone can flip off to an interesting rock formation and watch the multi-coloured fish pass in review.",
+    "hypothesis": "If you practice just a bit, you'd be able to somersault off a rock.",
+    "human_ent": 1.0634529749797352
+  },
+  "1475": {
+    "label_counter": {
+      "n": 40,
+      "e": 21,
+      "c": 39
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "I will some day, if you ask me, she promised him, smiling. ",
+    "hypothesis": "The corners of her mouth tightened and her brow furrowed as she promised him that she would someday. ",
+    "human_ent": 1.061479650430036
+  },
+  "69": {
+    "label_counter": {
+      "c": 44,
+      "n": 22,
+      "e": 34
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "To the northwest of the chateau, the Grand Trianon palace, surrounded by pleasantly unpompous gardens, was the home of Louis XIV's mistress, Madame de Maintenon, where the aging king increasingly took refuge.",
+    "hypothesis": "Grand Trianon palace was the residence of Louis XIV.",
+    "human_ent": 1.061134828955732
+  },
+  "1257": {
+    "label_counter": {
+      "n": 22,
+      "e": 44,
+      "c": 34
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "No, John, I said, \"it isn't one of us. ",
+    "hypothesis": "John didn't know if they were one of us.",
+    "human_ent": 1.061134828955732
+  },
+  "1030": {
+    "label_counter": {
+      "n": 36,
+      "e": 43,
+      "c": 21
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "It vibrated under his hand.",
+    "hypothesis": "It hummed quietly in his hand.",
+    "human_ent": 1.058437606473741
+  },
+  "1227": {
+    "label_counter": {
+      "c": 33,
+      "n": 45,
+      "e": 22
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A good time to visit is just at the end of the monsoon in October when you can see flocks of storks, egrets, and cormorants and it is ideally combined with a full-moon trip to the Taj, but there's plenty to see all year round.",
+    "hypothesis": "Cormorants can be seen at any time of year.",
+    "human_ent": 1.0582952305686795
+  },
+  "1575": {
+    "label_counter": {
+      "e": 47,
+      "n": 25,
+      "c": 28
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Most of it, I couldn't even begin to identify.",
+    "hypothesis": "I didn't nkow what any of it was.",
+    "human_ent": 1.0578645941182567
+  },
+  "529": {
+    "label_counter": {
+      "n": 35,
+      "e": 44,
+      "c": 21
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "That example points to an important general  Total expenditure is determined by the value of the prize, whether we're talking about presidential campaigns or state lotteries.",
+    "hypothesis": "They stated that the monetary amount of the prize was determined regardless of how the prize was used.",
+    "human_ent": 1.056405213620843
+  },
+  "994": {
+    "label_counter": {
+      "c": 44,
+      "e": 21,
+      "n": 35
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "yeah really no kidding",
+    "hypothesis": "Oh, you're just joking. ",
+    "human_ent": 1.0564052136208428
+  },
+  "54": {
+    "label_counter": {
+      "n": 32,
+      "e": 22,
+      "c": 46
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "They made little effort, despite the Jesuit presence in Asia, to convert local inhabitants to Christianity or to expand their territory into the interior.",
+    "hypothesis": "The Jesuit thought that by converting the Asian people to Christianity, it would help them to expand their territory. ",
+    "human_ent": 1.0549303149683658
+  },
+  "980": {
+    "label_counter": {
+      "c": 32,
+      "n": 46,
+      "e": 22
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Last year, they were spooked.",
+    "hypothesis": "They were spooky. ",
+    "human_ent": 1.0549303149683658
+  },
+  "618": {
+    "label_counter": {
+      "e": 20,
+      "c": 41,
+      "n": 39
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Today it is possible to buy cheap papyrus printed with gaudy Egyptian scenes in almost every souvenir shop in the country, but some of the most authentic are sold at The Pharaonic Village in Cairo where the papyrus is grown, processed, and hand-painted on site.",
+    "hypothesis": "The Pharaonic Village in Cairo is the only place where one can buy authentic papyrus.",
+    "human_ent": 1.054670141937965
+  },
+  "1424": {
+    "label_counter": {
+      "c": 20,
+      "e": 41,
+      "n": 39
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "But recently, the speculation has subsided.",
+    "hypothesis": "The speculation has been ignored recently.",
+    "human_ent": 1.054670141937965
+  },
+  "720": {
+    "label_counter": {
+      "c": 47,
+      "e": 23,
+      "n": 30
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "although the uh it's uh it we almost one day we painted the house to uh we painted we painted the whole inside and it had all this dark trim we thought uh you know we did the one wall but the other trim i'm trying to think i think i think we left most of it because it gets to be uh they don't do that in the newer houses now we don't the uh mold everything is white in a new house everything is white",
+    "hypothesis": "It took over a day to paint the house",
+    "human_ent": 1.0540779290220128
+  },
+  "61": {
+    "label_counter": {
+      "e": 38,
+      "n": 42,
+      "c": 20
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "To assist programs with implementing these web sites, the Northwest Justice Project and ProBonoNet in New York are hiring two full-time circuit riders to assist grantees with content management and to ensure that each web site supports the entire state justice community.",
+    "hypothesis": "The Northwest Justice Project and ProBonoNet in New York will hire more people to help poor residents.",
+    "human_ent": 1.053919750902252
+  },
+  "1394": {
+    "label_counter": {
+      "c": 42,
+      "n": 38,
+      "e": 20
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The m??tro (subway) is the fastest way to move around the city, but the buses, both in the capital and the other big towns, are best for taking in the sights.",
+    "hypothesis": "Taking the subway is a good way to experience big city life. ",
+    "human_ent": 1.053919750902252
+  },
+  "766": {
+    "label_counter": {
+      "n": 34,
+      "e": 21,
+      "c": 45
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "'Why isn't a lookalike good enough for them?'",
+    "hypothesis": "The look alike is plenty good.",
+    "human_ent": 1.0538597753000338
+  },
+  "1028": {
+    "label_counter": {
+      "e": 45,
+      "n": 34,
+      "c": 21
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "but i think a lot of kids it's funny get the same kind of fears like there's somebody under the bed",
+    "hypothesis": "I believe that many children think it's amusing, the similar uneasiness that there's someone beneath the bed or hiding in their closet.",
+    "human_ent": 1.0538597753000336
+  },
+  "115": {
+    "label_counter": {
+      "e": 26,
+      "n": 48,
+      "c": 26
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Possibly three months.\"",
+    "hypothesis": "It could be two months. ",
+    "human_ent": 1.052783500981133
+  },
+  "311": {
+    "label_counter": {
+      "e": 43,
+      "n": 20,
+      "c": 37
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "But the door was locked?\" These exclamations burst from us disjointedly. ",
+    "hypothesis": "We chaotically exclaimed as we all jumped up in a frenzy, \"But the door wasn't unlocked?\"",
+    "human_ent": 1.0526680538506983
+  },
+  "370": {
+    "label_counter": {
+      "e": 47,
+      "c": 31,
+      "n": 22
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "Charles Geveden has introduced legislation that will increase the Access to Justice supplement on court filing fees.",
+    "hypothesis": "Charles Geveden initiated a law that will essentially lower court filing fees.",
+    "human_ent": 1.051035440055139
+  },
+  "473": {
+    "label_counter": {
+      "c": 33,
+      "e": 21,
+      "n": 46
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The traditional opening time for many hotels is the Orthodox Easter, although some do not open until the end of April.",
+    "hypothesis": "The hotels don't open in Halloween.",
+    "human_ent": 1.0507979363972504
+  },
+  "640": {
+    "label_counter": {
+      "c": 21,
+      "e": 47,
+      "n": 32
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "did you well it's not just that are there enough jobs for people here now",
+    "hypothesis": "there still aren't enough jobs for everyone here",
+    "human_ent": 1.0472156123665326
+  },
+  "418": {
+    "label_counter": {
+      "n": 42,
+      "e": 39,
+      "c": 19
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Auditors from another country engaged to conduct audits in their country should meet the professional qualifications to practice under that country's laws and regulations or other acceptable standards, such as those issued by the International Organization of Supreme Audit Institutions.",
+    "hypothesis": "All auditors report to a globally managed governing body.",
+    "human_ent": 1.047116498276891
+  },
+  "499": {
+    "label_counter": {
+      "n": 49,
+      "e": 25,
+      "c": 26
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Tourist Information offices can be very helpful.",
+    "hypothesis": "Some Tourist Information offices are very unhelpful.",
+    "human_ent": 1.046354183811249
+  },
+  "1111": {
+    "label_counter": {
+      "n": 43,
+      "e": 38,
+      "c": 19
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Decline and Decadence",
+    "hypothesis": "Poor and rich. ",
+    "human_ent": 1.0461279895022093
+  },
+  "207": {
+    "label_counter": {
+      "e": 24,
+      "n": 49,
+      "c": 27
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "and that you're very much right but the jury may or may not see it that way so you get a little anticipate you know anxious there and go well you know",
+    "hypothesis": "Even if you're correct, I think the jury would pick up on that.",
+    "human_ent": 1.0455693668092085
+  },
+  "324": {
+    "label_counter": {
+      "c": 49,
+      "e": 27,
+      "n": 24
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "She  People are rarely indifferent to the magazines I've put out.",
+    "hypothesis": "People don't hold a strong opinion to the magazines I've put out.",
+    "human_ent": 1.0455693668092085
+  },
+  "201": {
+    "label_counter": {
+      "e": 19,
+      "n": 44,
+      "c": 37
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "In fact, the sloping shoulder was the noticeable feature of the new clothes of the Dior era, coming as it did immediately in the wake of the Joan Crawford/Rosalind Russell period and its vigorous shoulder padding.",
+    "hypothesis": "Dior was known for their exquisite blazers with thick heavy shoulder pads. ",
+    "human_ent": 1.0446437133440698
+  },
+  "1076": {
+    "label_counter": {
+      "n": 49,
+      "c": 23,
+      "e": 28
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Founded by Alexander the Great on the Mediterranean coast in 322 b.c. , Alexandria was capital of Egypt during the Ptolemaic era.",
+    "hypothesis": "Alexandria was founded more than 100 years after the great wars of the 5th century b.c.",
+    "human_ent": 1.0439973074011228
+  },
+  "1474": {
+    "label_counter": {
+      "c": 48,
+      "n": 31,
+      "e": 21
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "that doesn't seem fair does it",
+    "hypothesis": "That might possibly be fair.",
+    "human_ent": 1.0431079554399894
+  },
+  "1389": {
+    "label_counter": {
+      "c": 20,
+      "e": 33,
+      "n": 47
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "My last afternoon in Louisian was supposed to be no different- but the hotel room was small and claustrophobic, and I was utterly bored.",
+    "hypothesis": "I felt lonely and afraid on my last day in Louisian.",
+    "human_ent": 1.0426068631896273
+  },
+  "764": {
+    "label_counter": {
+      "n": 25,
+      "e": 25,
+      "c": 50
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "In Roman times a temple to Jupiter stood here, followed in the fourth century by the first Christian church, Saint-Etienne.",
+    "hypothesis": "Saint-Etienne, a Christian church, had a temple to Jupiter and performed rituals during Roman times",
+    "human_ent": 1.0397207708399179
+  },
+  "1142": {
+    "label_counter": {
+      "n": 40,
+      "e": 42,
+      "c": 18
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "In this respect, bringing Steve Jobs back to save Apple is like bringing Gen.",
+    "hypothesis": "Steve Jobs came back to Apple.",
+    "human_ent": 1.0395302482421924
+  },
+  "481": {
+    "label_counter": {
+      "c": 26,
+      "e": 24,
+      "n": 50
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "But they also don't seem to mind when the tranquillity of a Zen temple rock garden is shattered by recorded announcements blaring from loudspeakers parroting the information already contained in the leaflets provided at the ticket office; when heavy-metal pop music loudly emanates from the radio of the middle-aged owner of a corner grocery store; and when parks, gardens, and hallowed temples are ringed by garish souvenir shops whose shelves display both the tastefully understated and the hideously kitsch.",
+    "hypothesis": "A Zen temple rock garden is a a place for lots of people to gather and celebrate.",
+    "human_ent": 1.0393206641049262
+  },
+  "867": {
+    "label_counter": {
+      "c": 18,
+      "e": 39,
+      "n": 43
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "And the trunk? Big? Mother asked again to keep up appearances.",
+    "hypothesis": "Mother, trying to keep up appearances, asked if the trunk was big and shiny.",
+    "human_ent": 1.0387981778279878
+  },
+  "219": {
+    "label_counter": {
+      "c": 49,
+      "n": 30,
+      "e": 21
+    },
+    "old_label": "e",
+    "majority_label": "c",
+    "premise": "The guidelines do not apply to inpatient hospital services and hospice services and will be used by Medicare fiscal intermediaries to determine the maximum allowable costs of the therapy services.",
+    "hypothesis": "When it comes to therapy services the policies and procedures are not relevant.",
+    "human_ent": 1.038469313493319
+  },
+  "876": {
+    "label_counter": {
+      "n": 47,
+      "e": 34,
+      "c": 19
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Do you trust me, Uncle?Gauve hesitated.",
+    "hypothesis": "Jon was wondering if Gauve's uncle trusted him.",
+    "human_ent": 1.0371948287732453
+  },
+  "799": {
+    "label_counter": {
+      "n": 50,
+      "c": 22,
+      "e": 28
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "you know we keep a couple hundred dollars um if that much charged on those which isn't too bad it's just your normal",
+    "hypothesis": "We have money on there, which isn't great",
+    "human_ent": 1.0361120806861317
+  },
+  "74": {
+    "label_counter": {
+      "n": 49,
+      "e": 31,
+      "c": 20
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "and those are the people that you know can you rehabilitate them the some of the ones that are you know perpetual",
+    "hypothesis": "You wonder if it's possible to rehabilitate those types of people.",
+    "human_ent": 1.0344957518126907
+  },
+  "693": {
+    "label_counter": {
+      "n": 49,
+      "c": 20,
+      "e": 31
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "There are a number of these on Chatham Road South and around Cameron Street in Tsim Sha Tsui.",
+    "hypothesis": "Some of these are outside Tsim Sha Tsui.",
+    "human_ent": 1.0344957518126907
+  },
+  "665": {
+    "label_counter": {
+      "e": 50,
+      "c": 21,
+      "n": 29
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Or else it was administered in the brandy you gave her.",
+    "hypothesis": "It could have been administered in another way, instead of the brandy you gave her.",
+    "human_ent": 1.033293180656022
+  },
+  "360": {
+    "label_counter": {
+      "c": 24,
+      "e": 51,
+      "n": 25
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field",
+    "hypothesis": "It has rained enough to flood everything here and make rice pattys.",
+    "human_ent": 1.0324872377981282
+  },
+  "552": {
+    "label_counter": {
+      "c": 47,
+      "e": 35,
+      "n": 18
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Finish it, someone yelled.",
+    "hypothesis": "Keep going, someone yelled.",
+    "human_ent": 1.0309620752417594
+  },
+  "110": {
+    "label_counter": {
+      "c": 17,
+      "n": 43,
+      "e": 40
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "These revelations were embarrassing to Clinton's opponents, wrote the Washington Post . The Sun-Times quoted Rahm Emanuel, Stephanopoulos' successor, on the  From Day One I always thought this was politically motivated and had politics written all over it; after five years, it is nice to have the truth catch up with the president's political opponents.",
+    "hypothesis": "Clinton's supporters were pleased with how the hearings went.",
+    "human_ent": 1.0306560861047283
+  },
+  "491": {
+    "label_counter": {
+      "e": 43,
+      "c": 17,
+      "n": 40
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met.",
+    "hypothesis": "The ANC would be in charge of land reform in South Africa.",
+    "human_ent": 1.0306560861047283
+  },
+  "1302": {
+    "label_counter": {
+      "c": 17,
+      "n": 43,
+      "e": 40
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "They were inferior.",
+    "hypothesis": "He was superior.",
+    "human_ent": 1.0306560861047283
+  },
+  "299": {
+    "label_counter": {
+      "n": 49,
+      "e": 19,
+      "c": 32
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "If Washington Square is underripe, U-Turn and Devil's Advocate are rotting.",
+    "hypothesis": "Washington Square is definitely underripe, no questions asked. ",
+    "human_ent": 1.029699344976348
+  },
+  "1493": {
+    "label_counter": {
+      "n": 49,
+      "c": 32,
+      "e": 19
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "San'doro didn't make it sound hypothetical, thought Jon.",
+    "hypothesis": "San'doro's words were hollow, and Jon knew the truth of that immediately.",
+    "human_ent": 1.029699344976348
+  },
+  "970": {
+    "label_counter": {
+      "c": 38,
+      "n": 17,
+      "e": 45
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "In short, we all got tired of clever analyses of what might happen; and throughout economics there was a shift in focus away from theorizing, toward data collection and careful statistical analysis.",
+    "hypothesis": "We all got tired of data collection and clever analyses of what might happen.",
+    "human_ent": 1.0282430564058642
+  },
+  "1002": {
+    "label_counter": {
+      "e": 37,
+      "n": 46,
+      "c": 17
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "a good team but they're an underdog that's why i like them is the Philadelphia Eagles",
+    "hypothesis": "The Philadelphia Eagles is great team.",
+    "human_ent": 1.0263092474351878
+  },
+  "1307": {
+    "label_counter": {
+      "e": 29,
+      "n": 51,
+      "c": 20
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "[W]omen mocking men by calling into question their masculinity is also classified as sexual harassment, the paper added.",
+    "hypothesis": "Men possess some degree of masculinity, but it can be called into question.",
+    "human_ent": 1.0242768678918097
+  },
+  "72": {
+    "label_counter": {
+      "n": 49,
+      "c": 18,
+      "e": 33
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "CHAPTER 6: HUMAN CAPITAL",
+    "hypothesis": "Humans have capital.",
+    "human_ent": 1.0240638282086363
+  },
+  "1281": {
+    "label_counter": {
+      "n": 49,
+      "c": 33,
+      "e": 18
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "because otherwise it's too it gets if you start them when it's cooler in the spring then it gets too hot in the summer",
+    "hypothesis": "You should start them around June in order for them to not get too hot.",
+    "human_ent": 1.024063828208636
+  },
+  "682": {
+    "label_counter": {
+      "n": 47,
+      "e": 36,
+      "c": 17
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Buffet and a\u00a0 la carte available.",
+    "hypothesis": "It has table service.",
+    "human_ent": 1.0238877268506075
+  },
+  "1097": {
+    "label_counter": {
+      "e": 17,
+      "c": 47,
+      "n": 36
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "(Imagine the difference between smoking a cigarette and injecting pure nicotine directly into a vein.)",
+    "hypothesis": "Smoking a cigarette is a lot like injecting pure nicotine.",
+    "human_ent": 1.0238877268506075
+  },
+  "670": {
+    "label_counter": {
+      "n": 22,
+      "e": 52,
+      "c": 26
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Indeed, said San'doro.",
+    "hypothesis": "Indeed, they said.",
+    "human_ent": 1.0233890127013343
+  },
+  "30": {
+    "label_counter": {
+      "c": 42,
+      "n": 42,
+      "e": 16
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "For big Raj-buffs, the supreme example of Indo-Gothic style is the Victoria Terminus, affectionately abbreviated to VT nowadays, once the railway station that launched adventures inland, now handling mostly suburban traffic.",
+    "hypothesis": "The Victoria Terminus is still the main departure point for travelers heading deeper into the country.",
+    "human_ent": 1.021913511071697
+  }
+}

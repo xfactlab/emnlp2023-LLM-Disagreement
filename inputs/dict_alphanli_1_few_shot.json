@@ -1,0 +1,19 @@
+{
+  "307": {
+    "uid": "55c785c1-2ca1-472d-bc7a-4f3e9b5e6cb3-1",
+    "label_counter": {
+      "2": 65,
+      "1": 35
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Sally drives everyday to work.",
+      "Luckily she stopped in time, but almost hit the kitten."
+    ],
+    "hypothesis": [
+      "Sally hit the gas when a kitten crossed in front.",
+      "Sally's almost could not stop when she pressed her breaks."
+    ]
+  }
+}

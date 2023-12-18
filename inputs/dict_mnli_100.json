@@ -1,0 +1,1092 @@
+{
+  "287": {
+    "label_counter": {
+      "e": 88,
+      "n": 11,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The policy succeeded, and I was fortunate to have had the opportunity to make that contribution to my people.",
+    "hypothesis": "Because the policy was a success, I was able to make a contribution to my people."
+  },
+  "496": {
+    "label_counter": {
+      "e": 75,
+      "c": 7,
+      "n": 18
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Managing better requires that agencies have, and rely upon, sound financial and program information.",
+    "hypothesis": "Agencies that rely on information based on unsound financial information will have management problems."
+  },
+  "48": {
+    "label_counter": {
+      "e": 60,
+      "n": 36,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Well, we will come in and interview the brave Dorcas.\" Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap. ",
+    "hypothesis": "Dorcas is well known for her bravery. "
+  },
+  "1255": {
+    "label_counter": {
+      "n": 58,
+      "e": 38,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "In the ancestral environment a man would be likely to have more offspring if he got his pick of the most fertile-seeming women.",
+    "hypothesis": "In dominant males had access fertile females."
+  },
+  "915": {
+    "label_counter": {
+      "n": 85,
+      "c": 13,
+      "e": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Rouen is the ancient center of Normandy's thriving textile industry, and the place of Joan of Arc's martyrdom ' a national symbol of resistance to tyranny.",
+    "hypothesis": "Joan of Arc was the daughter of a textile worker."
+  },
+  "377": {
+    "label_counter": {
+      "n": 74,
+      "c": 25,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Funchal's central area boasts the best variety of shops and local products on the island.",
+    "hypothesis": "Funchal has great shops because it is a giant ski resort."
+  },
+  "1437": {
+    "label_counter": {
+      "e": 60,
+      "n": 36,
+      "c": 4
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "This is one of the reasons we're growing too weak to fight the Satheri.  \"What's wrong with a ceremony of worship, if you must worship your eggshell?\" Dave asked.",
+    "hypothesis": "Eggshell worship is the reason we're growing too weak to fight the Satheri, yet Dave asked about it."
+  },
+  "246": {
+    "label_counter": {
+      "n": 13,
+      "c": 76,
+      "e": 11
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "or just get out and walk uh or even jog a little although i don't do that regularly but Washington's a great place to do that",
+    "hypothesis": "\"I regularly go for a walk or a jog at Washington's.\""
+  },
+  "1514": {
+    "label_counter": {
+      "n": 34,
+      "e": 64,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "so well i think we've taken up at least five minutes",
+    "hypothesis": "I have taken up the last 5 minutes."
+  },
+  "1334": {
+    "label_counter": {
+      "n": 23,
+      "c": 63,
+      "e": 14
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The biography itself, which uses unpublished diaries and untapped Cuban government archives, is praised for having done a masterly job in evoking Che's complex character, in separating the man from the myth (Peter Canby, the New York Times Book Review ). The Weekly Standard 's Stephen Schwartz calls it tainted for having received official support from the Castro regime and for abetting a Che revival.",
+    "hypothesis": "The biography uses only published diaries and well known Cuban government information."
+  },
+  "707": {
+    "label_counter": {
+      "e": 62,
+      "n": 25,
+      "c": 13
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "STANDARD COSTING - A costing method that attaches costs to cost objects based on reasonable estimates or cost studies and by means of budgeted rates rather than according to actual costs incurred.",
+    "hypothesis": "This costing model is based on research and analytical activity."
+  },
+  "163": {
+    "label_counter": {
+      "n": 36,
+      "c": 52,
+      "e": 12
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "The students' reaction was swift and contentious, as if their feelings had been hurt.",
+    "hypothesis": "The students reacted with horror."
+  },
+  "474": {
+    "label_counter": {
+      "n": 72,
+      "c": 28
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Monday's Question (No.",
+    "hypothesis": "There was a question on Tuesday."
+  },
+  "551": {
+    "label_counter": {
+      "e": 66,
+      "n": 27,
+      "c": 7
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "What have we for lunch? ",
+    "hypothesis": "What did they serve for lunch?"
+  },
+  "101": {
+    "label_counter": {
+      "e": 90,
+      "n": 7,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "14 Managing for  Federal Managers' Views Show Need for Ensuring Top Leadership Skills (GAO-01-127, Oct. 20, 2000); Management  Using the Results Act and Quality Management to Improve Federal Performance (GAO/T-GGD-99-151, July 29, 1999); and Management  Elements of Successful Improvement Initiatives (GAO/T- GGD-00-26, Oct. 15, 1999).",
+    "hypothesis": "The document  Management Using the Results Act and Quality Management to Improve Federal Performance was put in place on July 29, 1999."
+  },
+  "654": {
+    "label_counter": {
+      "c": 58,
+      "n": 41,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "we were talking . Try to behave",
+    "hypothesis": "We are having an argument, come at me if you dare!"
+  },
+  "1231": {
+    "label_counter": {
+      "n": 42,
+      "e": 50,
+      "c": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "uh-huh and is it true i mean is it um",
+    "hypothesis": "It's true."
+  },
+  "366": {
+    "label_counter": {
+      "e": 78,
+      "n": 20,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "To be fair, Si doesn't pay for all such treats.",
+    "hypothesis": "Si only pays for some treats."
+  },
+  "1130": {
+    "label_counter": {
+      "n": 35,
+      "e": 64,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Oh yeah? San Barenakedino? How's he? Clarisse and Onardo both asked.",
+    "hypothesis": "After not having talked to San Barenakedino for awhile, Clarisse and Onardo wondered how he was doing."
+  },
+  "1403": {
+    "label_counter": {
+      "c": 55,
+      "n": 41,
+      "e": 4
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Sometimes it flattens entire neighbourhoods to make life easier for them.",
+    "hypothesis": "They do not mean to flatten neighborhoods."
+  },
+  "1501": {
+    "label_counter": {
+      "n": 54,
+      "c": 16,
+      "e": 30
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "but i don't know you know  maybe you could do that for a certain period of time but i mean how long does that kind of a thing take you know to to um say to question the person or to get into their head",
+    "hypothesis": "I'm sure it wouldn't take very long to question the person."
+  },
+  "880": {
+    "label_counter": {
+      "e": 71,
+      "n": 15,
+      "c": 14
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Standard screens may not perform as well in these patient subgroups that may represent a considerable part of the ED population.",
+    "hypothesis": "The subgroups may not perform well in standard screens."
+  },
+  "1450": {
+    "label_counter": {
+      "n": 47,
+      "e": 51,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "For the beginner ' and for most others, too ' Beaune is the place to buy.",
+    "hypothesis": "Beaune is the best place to buy for artists of all levels."
+  },
+  "99": {
+    "label_counter": {
+      "c": 45,
+      "n": 42,
+      "e": 13
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "The Journal put the point succinctly to  Is any publicity good publicity?",
+    "hypothesis": "The Journal asked \"Is this a good political move?\""
+  },
+  "1181": {
+    "label_counter": {
+      "c": 70,
+      "n": 30
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "The National Football League semifinals are set.",
+    "hypothesis": "They were unable to disclose when the dates would be set."
+  },
+  "43": {
+    "label_counter": {
+      "e": 74,
+      "n": 26
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Others love to see it in the middle of the heaviest monsoon, its marble translucent, its image blurred in the rain-stippled water channels of its gardens.",
+    "hypothesis": "It is especially beautiful during the monsoon season."
+  },
+  "1207": {
+    "label_counter": {
+      "e": 77,
+      "n": 20,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "We saw a whole new model develop - a holistic approach to lawyering, one-stop shopping, she said. ",
+    "hypothesis": "She discussed the convenience of holistic lawyering."
+  },
+  "540": {
+    "label_counter": {
+      "e": 16,
+      "n": 75,
+      "c": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The air is warm.",
+    "hypothesis": "The arid air permeates the surrounding land."
+  },
+  "636": {
+    "label_counter": {
+      "c": 80,
+      "e": 15,
+      "n": 5
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "1) FBI intelligence files indicate that Democratic fund-raiser Maria Hsia has been a Chinese agent.",
+    "hypothesis": "Maria Hsia is a Republican fund raiser that the FBI has information on."
+  },
+  "863": {
+    "label_counter": {
+      "n": 55,
+      "c": 35,
+      "e": 10
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.' '",
+    "hypothesis": "He won't do a big strike because of the innocent people."
+  },
+  "389": {
+    "label_counter": {
+      "n": 80,
+      "c": 17,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Pesticide concentrations should not exceed USEPA's Ambient Water Quality chronic criteria values where available.",
+    "hypothesis": "Locations available include freshwater and saltwater locations."
+  },
+  "369": {
+    "label_counter": {
+      "n": 67,
+      "c": 31,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "It lacked intelligence, introspection, and humor--it was crass, worthy of Cosmopolitan or Star . I do have a sense of humor, but can only appreciate a joke when it starts with a grain of truth.",
+    "hypothesis": "The article won a Pulitzer Prize."
+  },
+  "228": {
+    "label_counter": {
+      "e": 84,
+      "n": 13,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits.",
+    "hypothesis": "SCR technology retrofits differ from FGD systems."
+  },
+  "1193": {
+    "label_counter": {
+      "n": 46,
+      "e": 11,
+      "c": 43
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "eligible individuals and the rules that apply if a state does not substantially enforce the statutory requirements.",
+    "hypothesis": "It does not matter whether or not a state enforces the statutory requirements."
+  },
+  "1087": {
+    "label_counter": {
+      "e": 29,
+      "n": 69,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Asked about abortion the other day on CNN, Republican National Committee Chairman Jim Nicholson also invoked what is apparently the party-line  inclusive party.",
+    "hypothesis": "The Republican politicians and spokespeople rely on the party-line when it comes to abortion because their constituents insist on it."
+  },
+  "1492": {
+    "label_counter": {
+      "e": 93,
+      "n": 6,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously.",
+    "hypothesis": "Tommy was keeping a calm demeanor, though his mind was racing with thoughts of escaping."
+  },
+  "1585": {
+    "label_counter": {
+      "n": 62,
+      "e": 29,
+      "c": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Unfortunately, following the vogue of conceptualism, Kentridge has entered a film in the show, , which uses animation of sketches much cruder than the ones he usually does interspersed with documentary footage from the apartheid era.",
+    "hypothesis": "Kentridge created several documentaries in addition to that which covered the apartheid era."
+  },
+  "1159": {
+    "label_counter": {
+      "e": 76,
+      "n": 22,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "oh yeah well i play softball a couple of times a year it's they're getting ready to start up the the season again",
+    "hypothesis": "They play softball a couple of times per year"
+  },
+  "125": {
+    "label_counter": {
+      "c": 51,
+      "n": 48,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "(A bigger contribution may or may not mean, I really, really support Candidate X.) Freedom of association is an even bigger stretch--one that Justice Thomas would laugh out of court if some liberal proposed it.",
+    "hypothesis": "A bigger contribution means to support candidate Y."
+  },
+  "1430": {
+    "label_counter": {
+      "n": 64,
+      "e": 36
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Kom Ombo is an unusual temple in that it is dedicated to two gods.",
+    "hypothesis": "Rarely visited, Kom Ombo is a strange temple devoted to two gods."
+  },
+  "668": {
+    "label_counter": {
+      "n": 72,
+      "e": 25,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Eve's Apple turns out to be a sturdier book than it seems.",
+    "hypothesis": "Eve's Apple is a great book."
+  },
+  "1254": {
+    "label_counter": {
+      "e": 4,
+      "c": 63,
+      "n": 33
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "He asserted that the area was blessed with the highest concentration of exactly those natural features that, when combined, create the most pleasing and relaxing vistas possible landscapes composed of  lakes representing the source of life in water, trees offering the promise of shelter, smooth areas providing easy walking and a curved shoreline or path in the distance to stimulate curiosity.  ",
+    "hypothesis": "He did not believe his assertions of the area's beauty."
+  },
+  "685": {
+    "label_counter": {
+      "c": 48,
+      "n": 45,
+      "e": 7
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "I was to watch for an advertisement in the Times.",
+    "hypothesis": "I looked for an ad in my mailbox. "
+  },
+  "529": {
+    "label_counter": {
+      "n": 35,
+      "e": 44,
+      "c": 21
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "That example points to an important general  Total expenditure is determined by the value of the prize, whether we're talking about presidential campaigns or state lotteries.",
+    "hypothesis": "They stated that the monetary amount of the prize was determined regardless of how the prize was used."
+  },
+  "805": {
+    "label_counter": {
+      "n": 63,
+      "c": 28,
+      "e": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "uh uh yeah that well um the older you get the more convenience you try to bring with you i guess so i'm up to dragging the trailer around which is my next step is going to be probably Winnebago i hope if i only can afford one but that",
+    "hypothesis": "The older you get, the more you want to be spur of the moment."
+  },
+  "639": {
+    "label_counter": {
+      "n": 29,
+      "c": 70,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Such parties may include",
+    "hypothesis": "Parties don't include"
+  },
+  "1332": {
+    "label_counter": {
+      "c": 96,
+      "e": 3,
+      "n": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Marilyn Manson is darker, more serious, and more vicious than Alice Cooper was.",
+    "hypothesis": "Marilyn Manson was not as dark as Alice Cooper is."
+  },
+  "1055": {
+    "label_counter": {
+      "e": 64,
+      "n": 34,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "yeah maybe the maybe they'll bring their good schools with them  you know if the industry comes",
+    "hypothesis": "If the industry comes, it will foster the creation of better schools."
+  },
+  "291": {
+    "label_counter": {
+      "e": 90,
+      "n": 9,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Classic Castilian restaurant.",
+    "hypothesis": "The restaurant is based off a classic Castilian style."
+  },
+  "572": {
+    "label_counter": {
+      "e": 43,
+      "n": 51,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Critics complain that John Frankenheimer's miniseries about the Alabama governor and presidential candidate plays fast and loose with history.",
+    "hypothesis": "Critics feel Frankenheimer could have included a lot more information about the Alabama governor in the miniseries. "
+  },
+  "554": {
+    "label_counter": {
+      "n": 46,
+      "e": 51,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "GAO's recommendations are intended to improve the economy, efficiency, and effectiveness of an agency's operations and to improve the accountability of the federal government for the benefit of the American people.",
+    "hypothesis": "The American people look up to the GAO to handle and improve the economy of an agency's operations."
+  },
+  "1367": {
+    "label_counter": {
+      "n": 43,
+      "e": 55,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Because of limited resources, local legal services programs are forced to turn away tens of thousands of people with critical legal problems.",
+    "hypothesis": "If the resources were there, it would be unthinkable for these programs to be turning so many people away."
+  },
+  "1416": {
+    "label_counter": {
+      "n": 44,
+      "c": 29,
+      "e": 27
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Shall I tell you what it would be like for your soul to live in the muck of a swamp in a mandrake root?  Dave shook his head.",
+    "hypothesis": "Shall I send your soul into a mandrake root?"
+  },
+  "378": {
+    "label_counter": {
+      "n": 63,
+      "c": 24,
+      "e": 13
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "In the first instance, IRS would have no record of time before the person could get through to an agent and of discouraged callers.",
+    "hypothesis": "The callers are encouraged to call multiple times."
+  },
+  "884": {
+    "label_counter": {
+      "n": 48,
+      "c": 48,
+      "e": 4
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Other functional components of the Postal Service are presumed here not to exhibit significant scale economies, although this has not been demonstrated.",
+    "hypothesis": "The Postal Service only operates very large scale economies."
+  },
+  "100": {
+    "label_counter": {
+      "n": 66,
+      "c": 9,
+      "e": 25
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Why shouldn't he be? ",
+    "hypothesis": "He is already that way."
+  },
+  "701": {
+    "label_counter": {
+      "n": 62,
+      "e": 5,
+      "c": 33
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "i know that i didn't much uh-huh oh",
+    "hypothesis": "I might have done a bunch."
+  },
+  "1089": {
+    "label_counter": {
+      "e": 78,
+      "n": 22
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The rain had stopped, but the green glow painted everything around them.",
+    "hypothesis": "The green glow painted everything around them after the heavy rain had stopped."
+  },
+  "66": {
+    "label_counter": {
+      "n": 63,
+      "e": 21,
+      "c": 16
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The FDA solicited comments on these requirements in the notice of proposed rulemaking and has evaluated and responded to them in the preamble to the final rule.",
+    "hypothesis": "The FDA mostly received criticisms about the proposed rules and plan to use the criticism to find the plan's current flaws."
+  },
+  "858": {
+    "label_counter": {
+      "n": 38,
+      "e": 51,
+      "c": 11
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "For more than 26 centuries it has witnessed countless declines, falls, and rebirths, and today continues to resist the assaults of brutal modernity in its time-locked, color-rich historical center.",
+    "hypothesis": "Modernity has made no progress in the historical center."
+  },
+  "515": {
+    "label_counter": {
+      "c": 62,
+      "n": 37,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "She wears either revealing clothes or professional clothes (or perhaps both).",
+    "hypothesis": "She only wears short skirts."
+  },
+  "1036": {
+    "label_counter": {
+      "n": 69,
+      "e": 23,
+      "c": 8
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "ooh it's kind of tough to think of some of the others although i do watch some of some of those frivolous things uh like on Thursday nights at nine o'clock when i get home from aerobics i will watch uh Knots Landing",
+    "hypothesis": "I only watch frivolous things on Thursday nights."
+  },
+  "582": {
+    "label_counter": {
+      "n": 25,
+      "e": 72,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions.",
+    "hypothesis": "Users and system administrators both do not prioritize security."
+  },
+  "1059": {
+    "label_counter": {
+      "e": 85,
+      "n": 15
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "General Accounting Office, A Model of Strategic Human Capital Management, GAO-02-373SP (Washington, D.C.: Mar.",
+    "hypothesis": "The GAO is a model of strategic human capital management."
+  },
+  "838": {
+    "label_counter": {
+      "n": 34,
+      "e": 66
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "you know things like that But i don't follow any team i check the scores the next morning and i know how everybody's doing and that suffices me But",
+    "hypothesis": "I don't usually watch the games that are screened at night."
+  },
+  "813": {
+    "label_counter": {
+      "n": 55,
+      "e": 25,
+      "c": 20
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Therefore, many leading finance organizations have calculated and compared these percentages as a general indication of how well they supported the organization's business objectives.",
+    "hypothesis": "The data was generated based on only finance department. "
+  },
+  "1353": {
+    "label_counter": {
+      "n": 54,
+      "c": 44,
+      "e": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Twenty-eight grants targeted statewide web sites, which encompass not only all of the LSC programs in a state, but other state justice community partners.",
+    "hypothesis": "Grants aren't related to money."
+  },
+  "629": {
+    "label_counter": {
+      "e": 86,
+      "c": 6,
+      "n": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "(And yes, he has said a few things that can, with some effort, be construed as support for supply-side economics.)",
+    "hypothesis": "It would take some work to construe the things as support for supply-side economics."
+  },
+  "1153": {
+    "label_counter": {
+      "e": 69,
+      "n": 27,
+      "c": 4
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "oh you went to the dollar movie yeah yeah they show up at the dollar movie right after they get come out you know they're usually not not that great or didn't do that great anyway let me see let me see another movie i watched uh i want to see is uh that new one uh",
+    "hypothesis": "they are shown at the dollar movie theater immediately after they're released"
+  },
+  "765": {
+    "label_counter": {
+      "n": 37,
+      "e": 63
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": " The Garden Island is lush with botanical estates and Waimea Canyon, the grand Canyon of the Pacific .",
+    "hypothesis": "There are many flowers to be found on the estates on The Garden Island."
+  },
+  "51": {
+    "label_counter": {
+      "e": 21,
+      "c": 76,
+      "n": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "If you have any questions about this report, please contact Henry R. Wray, Senior Associate General Counsel, at (202) 512-8581.",
+    "hypothesis": "Henry R. Wray can be reached at (555) 512-8581."
+  },
+  "608": {
+    "label_counter": {
+      "n": 40,
+      "c": 46,
+      "e": 14
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Flying at a discount should be more dangerous.",
+    "hypothesis": "It's totally safe to take advantage of discounted flying."
+  },
+  "1178": {
+    "label_counter": {
+      "e": 78,
+      "n": 21,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The pope, suggesting that Gen.",
+    "hypothesis": "Gen is being suggested by the Pope. "
+  },
+  "1219": {
+    "label_counter": {
+      "n": 30,
+      "c": 39,
+      "e": 31
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "Of how, when tea was done, and everyone had stood,He reached for my head, put his hands over it,And gently pulled me to his chest, which smelledOf dung smoke and cinnamon and mutton grease.I could hear his wheezy breathing now, like the prophet's Last whispered word repeated by the faithful.Then he prayed for what no one had time to translate--His son interrupted the old man to tell him a groupOf snake charmers sought his blessing, and a blind thief.The saint pushed me away, took one long look,Then straightened my collar and nodded me toward the door.",
+    "hypothesis": "When tea was done, he put his hands on me romantically."
+  },
+  "1149": {
+    "label_counter": {
+      "n": 71,
+      "c": 23,
+      "e": 6
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Answer? said Julius.",
+    "hypothesis": "Julius already knew the answer."
+  },
+  "1112": {
+    "label_counter": {
+      "n": 63,
+      "c": 31,
+      "e": 6
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Or anything else you wanted and couldn't keep against magic.",
+    "hypothesis": "Magic had little power. "
+  },
+  "1079": {
+    "label_counter": {
+      "e": 53,
+      "n": 43,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "In research designs based on statistical inference, the criterion for establishing casuality is whether the findings are likely to have occurred by chance following appropriate comparisons to eliminate alternative interpretations.",
+    "hypothesis": "Research designs may be based on statistical inference in different organizations. "
+  },
+  "887": {
+    "label_counter": {
+      "c": 16,
+      "n": 8,
+      "e": 76
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Update on the Democratic fund-raising scandal : 1) President Clinton said FBI agents denied him advance warning about Chinese influence-buying efforts by telling his aides to keep the information secret.",
+    "hypothesis": "Clinton said the agents had not told him anything about the issue."
+  },
+  "1551": {
+    "label_counter": {
+      "c": 10,
+      "n": 90
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Nowadays it is bordered by ancient columns and lined with expensive shops.",
+    "hypothesis": "The shops have only been around for the last fifty years."
+  },
+  "1378": {
+    "label_counter": {
+      "c": 6,
+      "e": 51,
+      "n": 43
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Concurrent with downsizing, procurement regulations have been modified to allow agencies greater flexibility and choice in selecting contracting methods for acquiring facilities.",
+    "hypothesis": "The downsizing helped immensely in providing firms with these types of freedoms, though other factors contributed as well."
+  },
+  "1081": {
+    "label_counter": {
+      "e": 47,
+      "n": 52,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The Indigenous Project, a new program run by the Oregon Law Center, is one of only a handful of places in the United States where indigenous farmworkers from Mexico and Central America can find free and confidential legal aid.",
+    "hypothesis": "The Indigenous Project is run by the Oregon Law Center in Portland."
+  },
+  "875": {
+    "label_counter": {
+      "e": 72,
+      "n": 25,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Under the default method, eighty percent of the total amount of sulfur dioxide allowances available for allocation each year will be allocated to Acid Rain Program units with coal as their primary or secondary fuel or residual oil as their primary fuel, listed in the Administrator's Emissions Scorecard 2000, Appendix B (2000 Data for SO2, NOx, CO2, Heat Input, and Other Parameters), Table B1 (All 2000 Data for All Units).",
+    "hypothesis": "80% of the sulfur dioxide allowance for each year is in the Acid Rain Program, stemming from coal."
+  },
+  "180": {
+    "label_counter": {
+      "e": 75,
+      "n": 25
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "right well the preseason really doesn't mean anything either",
+    "hypothesis": "It is alright that they don't play well in the preseason, since it doesn't matter."
+  },
+  "185": {
+    "label_counter": {
+      "n": 9,
+      "c": 8,
+      "e": 83
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The questions may need to be tailored to",
+    "hypothesis": "There are some questions that may or may not need to be tailored to."
+  },
+  "908": {
+    "label_counter": {
+      "e": 28,
+      "c": 17,
+      "n": 55
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "But the state does arguably have an interest, compatible with the First Amendment, in stipulating the way those media are used, and Fiss' discussion of those issues is the least aggravating in his book.",
+    "hypothesis": "Fiss' argues that the state should have a greater interest in media use. "
+  },
+  "728": {
+    "label_counter": {
+      "n": 60,
+      "c": 26,
+      "e": 14
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "i can believe i can believe that",
+    "hypothesis": "It's hard to make sense of the facts otherwise."
+  },
+  "201": {
+    "label_counter": {
+      "e": 19,
+      "n": 44,
+      "c": 37
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "In fact, the sloping shoulder was the noticeable feature of the new clothes of the Dior era, coming as it did immediately in the wake of the Joan Crawford/Rosalind Russell period and its vigorous shoulder padding.",
+    "hypothesis": "Dior was known for their exquisite blazers with thick heavy shoulder pads. "
+  },
+  "824": {
+    "label_counter": {
+      "c": 53,
+      "n": 44,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Strange as it may seem to the typical household, capital gains on its existing assets do not contribute to saving as measured in NIPA.",
+    "hypothesis": "NIPA considers cat fur when it defines savings."
+  },
+  "118": {
+    "label_counter": {
+      "e": 84,
+      "n": 8,
+      "c": 8
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "For such a governmentwide review, an entrance conference is generally held with applicable central agencies, such as the Office of Management and Budget (OMB) or the Office of Personnel Management.",
+    "hypothesis": "An entrance conference is held with specialized agencies."
+  },
+  "403": {
+    "label_counter": {
+      "e": 65,
+      "n": 28,
+      "c": 7
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Improvements in architecture, regaining intimate space and scale and all the rest, won't disguise the ugliness of advertising the local bank, Chevy dealer, and chain retailer as a backdrop for baseball.",
+    "hypothesis": "Local advertisements are ugly."
+  },
+  "1048": {
+    "label_counter": {
+      "e": 36,
+      "n": 56,
+      "c": 8
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "But is the Internet so miraculous an advertising vehicle that Gross will be able to siphon off $400 per person from total ad spending of $1,000 per family--or persuade advertisers to spend an additional $400 to reach each of his customers?",
+    "hypothesis": "The internet is so great at advertising that is saved Gross money."
+  },
+  "488": {
+    "label_counter": {
+      "n": 52,
+      "c": 36,
+      "e": 12
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "In that case, price discrimination can survive.",
+    "hypothesis": "Right now, no leeway is possible with the price."
+  },
+  "820": {
+    "label_counter": {
+      "n": 26,
+      "c": 72,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Said we was a-staying at the inn.",
+    "hypothesis": "He was not staying at the inn."
+  },
+  "13": {
+    "label_counter": {
+      "n": 57,
+      "c": 42,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "substitute my my yeah my kid'll do uh four or five hours this week for me no problem",
+    "hypothesis": "I just can't make the time because of my job."
+  },
+  "197": {
+    "label_counter": {
+      "c": 49,
+      "n": 50,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Agency officials stated that copies of both the initial and the final analysis were submitted to the Chief Counsel for Advocacy at the Small Business Administration as required by section 605(b).",
+    "hypothesis": "The Chief Counsel for Advocacy at the Small Business Administration did not actually receive either of these analyses."
+  },
+  "939": {
+    "label_counter": {
+      "c": 11,
+      "n": 87,
+      "e": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The Wither's eldest boy, one of the four of the town militia, saluted in the old style with his stick sword.",
+    "hypothesis": "The boy carved the sword by hand. "
+  },
+  "396": {
+    "label_counter": {
+      "e": 45,
+      "n": 46,
+      "c": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Mortifyingly enough, it is all  the difficulty, the laziness, the pathetic formlessness in youth, the round peg in the square hole, the whatever do you want?",
+    "hypothesis": "Youth are always formless and lazy."
+  },
+  "351": {
+    "label_counter": {
+      "n": 47,
+      "e": 41,
+      "c": 12
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "I didn't get it at the time.\" The thought saddened him a little, for it seemed to prove that Mrs. Vandemeyer and the girl were on intimate terms.",
+    "hypothesis": "It was proven that Mrs. Vandemeyer and the girl had an affair"
+  },
+  "61": {
+    "label_counter": {
+      "e": 38,
+      "n": 42,
+      "c": 20
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "To assist programs with implementing these web sites, the Northwest Justice Project and ProBonoNet in New York are hiring two full-time circuit riders to assist grantees with content management and to ensure that each web site supports the entire state justice community.",
+    "hypothesis": "The Northwest Justice Project and ProBonoNet in New York will hire more people to help poor residents."
+  },
+  "1119": {
+    "label_counter": {
+      "e": 3,
+      "n": 52,
+      "c": 45
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "PROGRAM ACCOUNT -The budget account into which an appropriation to cover the subsidy cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.",
+    "hypothesis": "Funds should never be transferred between program accounts and financing accounts."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "307": {
+    "uid": "4545817148.jpg#2r1n",
+    "label_counter": {
+      "n": 84,
+      "e": 12,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "An outside wedding ceremony for an asian couple under an umbrella, shielded from the blaring sun.",
+    "hypothesis": "Asian people getting married by the beach."
+  },
+  "528": {
+    "uid": "1255599434.jpg#0r1n",
+    "label_counter": {
+      "n": 82,
+      "e": 17,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Two young boys in swimming trunks are in the water looking at each other.",
+    "hypothesis": "The brothers look at each other"
+  },
+  "52": {
+    "uid": "4265806100.jpg#0r1n",
+    "label_counter": {
+      "n": 77,
+      "c": 23
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Two men sitting on a subway are reading, with coats and scarves on, but have seemed to have lost their pants.",
+    "hypothesis": "There are women on the subway."
+  }
+}

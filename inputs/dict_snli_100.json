@@ -1,0 +1,1065 @@
+{
+  "287": {
+    "label_counter": {
+      "n": 71,
+      "c": 29
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "A well dressed man and woman wearing floral dress dancing.",
+    "hypothesis": "the man is actually a woman."
+  },
+  "496": {
+    "label_counter": {
+      "c": 30,
+      "n": 69,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A woman watching six televisions, while sitting on a hardwood floor in a beautiful room made of bricks with large windows, while a dark-haired man leaning on a windowsill is watching her.",
+    "hypothesis": "The woman is editing a video."
+  },
+  "48": {
+    "label_counter": {
+      "c": 34,
+      "n": 66
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Two male police officers on patrol, wearing the normal gear and bright green reflective shirts.",
+    "hypothesis": "The officers have shot an unarmed black man and will not go to prison for it."
+  },
+  "1255": {
+    "label_counter": {
+      "n": 88,
+      "e": 12
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The girl in yellow shorts and white jacket has a tennis ball in her left pocket.",
+    "hypothesis": "A girl about to play tennis"
+  },
+  "915": {
+    "label_counter": {
+      "c": 60,
+      "n": 38,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Children standing and climbing near a fountain.",
+    "hypothesis": "Children running around playing tag."
+  },
+  "377": {
+    "label_counter": {
+      "c": 5,
+      "e": 53,
+      "n": 42
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Row of plastic horses that form a childrens ride with one child riding.",
+    "hypothesis": "one child is on a marry go round"
+  },
+  "1437": {
+    "label_counter": {
+      "c": 15,
+      "n": 85
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Seven women stand and sit around a waters edge and one of them women sitting in the middle with her bare feet in the water drinks from a water bottle.",
+    "hypothesis": "The water bottle contains soda."
+  },
+  "246": {
+    "label_counter": {
+      "e": 83,
+      "n": 15,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Reflections of people walking in a big city.",
+    "hypothesis": "Several folks stroll through the city."
+  },
+  "1334": {
+    "label_counter": {
+      "n": 88,
+      "e": 11,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Performers wearing bright robes, one with a long necklace and some masks.",
+    "hypothesis": "The people are in a play"
+  },
+  "707": {
+    "label_counter": {
+      "n": 23,
+      "e": 77
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A person wearing jeans, a blue shirt and a helmet is riding a four-wheeler in a sandy area.",
+    "hypothesis": "A person is riding outside."
+  },
+  "163": {
+    "label_counter": {
+      "e": 90,
+      "c": 3,
+      "n": 7
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A guy with long brown curly hair wearing a white t-shirt is looking into the camera with something in his mouth. a",
+    "hypothesis": "A person looks at something"
+  },
+  "474": {
+    "label_counter": {
+      "e": 99,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "In a Little League baseball game, the batter watches as the ball he has just hit flies off toward right field, with the catcher looking on.",
+    "hypothesis": "The batter watches the ball fly towards right field"
+  },
+  "551": {
+    "label_counter": {
+      "n": 73,
+      "c": 22,
+      "e": 5
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "A guy is standing in front of a toilet with a coffee cup in one hand and a toilet brush in the other.",
+    "hypothesis": "A man may have created a monster too unwilling to be flushed."
+  },
+  "101": {
+    "label_counter": {
+      "n": 85,
+      "e": 15
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Three children play with a giant sphere on a playground while an adult sits on a bench reading the newspaper.",
+    "hypothesis": "Some kids are playing outside on a playground while their mother is sitting down."
+  },
+  "654": {
+    "label_counter": {
+      "c": 84,
+      "n": 13,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "A man wearing a top-hat, blue plaid pajama pants, a white shirt, and gold embroidered vest stands in front of an American Flag under a colorfully painted street-front, and speaks to a crowd from a microphone.",
+    "hypothesis": "A man has on a sombrero"
+  },
+  "1231": {
+    "label_counter": {
+      "e": 80,
+      "n": 20
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A tattooed boxer is punching his opponent in a boxing arena.",
+    "hypothesis": "A boxer is competing in a fight."
+  },
+  "366": {
+    "label_counter": {
+      "e": 32,
+      "n": 67,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Sheep farmers are crouching and preparing to feed their animals as the sheepdog watches closely by.",
+    "hypothesis": "Farmers prepare to feed their animals in a large field."
+  },
+  "1130": {
+    "label_counter": {
+      "c": 90,
+      "n": 10
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "A man wearing a blue jacket is looking at a glass bottle while the person next to him enjoys his food.",
+    "hypothesis": "The man is looking at a painting."
+  },
+  "1403": {
+    "label_counter": {
+      "c": 1,
+      "e": 90,
+      "n": 9
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A young man is using gloves to control a device with wires in it.",
+    "hypothesis": "A gloved young man is working on a wired device."
+  },
+  "1501": {
+    "label_counter": {
+      "n": 93,
+      "e": 7
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "A woman in a tan top and jeans is sitting on a bench wearing headphones.",
+    "hypothesis": "A woman is listening to music."
+  },
+  "880": {
+    "label_counter": {
+      "e": 23,
+      "n": 75,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A gymnast in a blue and pink leotard is standing on her right foot with her left foot in the air and waving a ribbon.",
+    "hypothesis": "An olympic gymnast is waving a ribbon."
+  },
+  "1450": {
+    "label_counter": {
+      "n": 39,
+      "e": 61
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A group of uniformed men carrying a cross adorned with a white ribbon in formation walking down the street on Easter.",
+    "hypothesis": "Several service men are carrying a cross on Easter."
+  },
+  "99": {
+    "label_counter": {
+      "c": 83,
+      "n": 16,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "A cyclist in neon yellow uniform rides past spectators behind a yellow banner reading \"Lotos.\"",
+    "hypothesis": "A cyclist is taking a water break."
+  },
+  "1181": {
+    "label_counter": {
+      "n": 95,
+      "e": 4,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A guy looking out over the scenic forest.",
+    "hypothesis": "A guy is camping in the forest."
+  },
+  "43": {
+    "label_counter": {
+      "n": 31,
+      "e": 62,
+      "c": 7
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A couple bows their head as a man in a decorative robe reads from a scroll in Asia with a black late model station wagon in the background.",
+    "hypothesis": "A light black late model station wagon is in the background."
+  },
+  "1207": {
+    "label_counter": {
+      "n": 94,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "People in helmets wait in a long line.",
+    "hypothesis": "they are standing in the rain"
+  },
+  "540": {
+    "label_counter": {
+      "n": 85,
+      "c": 14,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A man jumps in front of a palace in China.",
+    "hypothesis": "The street is crowded."
+  },
+  "636": {
+    "label_counter": {
+      "n": 83,
+      "e": 8,
+      "c": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A man in a dark suit talks with a middle-aged man and woman on a stage in front of a large logo of the letter \"D\" with the numeral five within it.",
+    "hypothesis": "A couple of people are presenting at a conference."
+  },
+  "863": {
+    "label_counter": {
+      "n": 81,
+      "c": 18,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Two young boys have a conversation with one and other.",
+    "hypothesis": "Two boys are laughing."
+  },
+  "389": {
+    "label_counter": {
+      "e": 22,
+      "n": 77,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A man is carrying a child while holding a red and blue umbrella.",
+    "hypothesis": "A father carries his child, holding an umbrella to keep the rain away."
+  },
+  "369": {
+    "label_counter": {
+      "n": 54,
+      "e": 44,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "A fire hydrant with a face painted on it.",
+    "hypothesis": "A fire hydrant is not just yellow or red."
+  },
+  "228": {
+    "label_counter": {
+      "c": 29,
+      "n": 70,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A bunch of people are walking in a crowded area.",
+    "hypothesis": "A bunch of people are walking in a field."
+  },
+  "1193": {
+    "label_counter": {
+      "e": 91,
+      "n": 9
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A person in a hooded shirt is photographing a tree near some mountains and a lake.",
+    "hypothesis": "A photographer in a hoodie takes pictures of nature."
+  },
+  "1087": {
+    "label_counter": {
+      "n": 65,
+      "e": 34,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A boy is carrying a black body board across the sand.",
+    "hypothesis": "The boy is near the ocean."
+  },
+  "1492": {
+    "label_counter": {
+      "n": 41,
+      "c": 48,
+      "e": 11
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "a redheaded lady is reading a book while waiting for the train.",
+    "hypothesis": "a woman is reading a book on her ride home."
+  },
+  "1159": {
+    "label_counter": {
+      "c": 20,
+      "n": 80
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A girl is working on some sort of lab experiment while another girl watches with a bored expression.",
+    "hypothesis": "A girl is trying to reconstruct her dead puppy while her cousin watches."
+  },
+  "125": {
+    "label_counter": {
+      "e": 34,
+      "n": 66
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Two people with bags next to a street at night.",
+    "hypothesis": "The people are together"
+  },
+  "1430": {
+    "label_counter": {
+      "n": 94,
+      "e": 5,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A girl in black is sitting on the ledge of a balcony, and she is speaking with a group of chefs.",
+    "hypothesis": "The group of chefs that happened to be passing by attempting to talk a girl dressed in black on the ledge of a balcony into not jumping."
+  },
+  "668": {
+    "label_counter": {
+      "n": 58,
+      "c": 7,
+      "e": 35
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "A guy pointing at a giant Blackberry.",
+    "hypothesis": "A man near a Blackberry display."
+  },
+  "1254": {
+    "label_counter": {
+      "e": 80,
+      "n": 20
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "A man drawing pictures of individuals sits under an umbrella with previous works such as justin beiber around him.",
+    "hypothesis": "an artist works"
+  },
+  "685": {
+    "label_counter": {
+      "n": 51,
+      "e": 49
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "An old man is sitting down in the street.",
+    "hypothesis": "The old man takes a rest."
+  },
+  "529": {
+    "label_counter": {
+      "e": 56,
+      "n": 43,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A man is throwing a big stick into the water so his two dogs and go fetch it.",
+    "hypothesis": "Two large dogs are fetching for their master."
+  },
+  "805": {
+    "label_counter": {
+      "n": 40,
+      "e": 54,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The motorcyclist race on the course.",
+    "hypothesis": "The man on the motorcycle road across the course."
+  },
+  "639": {
+    "label_counter": {
+      "e": 63,
+      "n": 37
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A woman has just completed her release in a game of bowling.",
+    "hypothesis": "A woman is bowling at a bowling alley."
+  },
+  "1332": {
+    "label_counter": {
+      "e": 88,
+      "c": 6,
+      "n": 6
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Two men making dance moves as a woman films the event in the living room of a house or apartment.",
+    "hypothesis": "The men are moving."
+  },
+  "1055": {
+    "label_counter": {
+      "n": 65,
+      "e": 33,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Many people standing around a silver car with the hood raised while a young girl in a yellow shirt and blue jeans drinks from a bottle.",
+    "hypothesis": "A group of people are interested in a vehicle."
+  },
+  "291": {
+    "label_counter": {
+      "n": 89,
+      "e": 10,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Indian women playing musical chairs with white woman.",
+    "hypothesis": "indian women playing musical chairs with white woman in out door"
+  },
+  "572": {
+    "label_counter": {
+      "n": 64,
+      "e": 36
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "There are a lot of people in front of a tan building with colorful squares hanging from the top.",
+    "hypothesis": "Men and women stand in front of a building"
+  },
+  "554": {
+    "label_counter": {
+      "n": 45,
+      "e": 50,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The crew shells are passing under marker 7, with the nearest shell in front by a good margin.",
+    "hypothesis": "a race of some sort is underway"
+  },
+  "1367": {
+    "label_counter": {
+      "n": 87,
+      "e": 13
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Torch-bearing runner, about to be photographed by onlooker, enjoys the smiles and shouts of the crowd.",
+    "hypothesis": "The runner is an olympian."
+  },
+  "1416": {
+    "label_counter": {
+      "c": 17,
+      "n": 82,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "A little boy is kneeling on the floor, scribbling with an orange and blue crayon on a paper, at a little table with the arm of a man resting on the table.",
+    "hypothesis": "the boy and man are talking among themselves"
+  },
+  "378": {
+    "label_counter": {
+      "c": 74,
+      "n": 26
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Row of plastic horses that form a childrens ride with one child riding.",
+    "hypothesis": "the ride is broken"
+  },
+  "884": {
+    "label_counter": {
+      "n": 85,
+      "e": 14,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A male gymnast from Romania, wearing all red, holding himself vertically while upside-down on rings suspended in the air.",
+    "hypothesis": "The gymnast is a professional."
+  },
+  "100": {
+    "label_counter": {
+      "e": 86,
+      "n": 14
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "A white-haired man in a white shirt looks at information in an orange-red binder.",
+    "hypothesis": "A man is reading documents in a binder."
+  },
+  "701": {
+    "label_counter": {
+      "e": 77,
+      "n": 22,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A woman hanging the laundry outside.",
+    "hypothesis": "A woman is putting her clothes out to dry."
+  },
+  "1089": {
+    "label_counter": {
+      "e": 33,
+      "c": 61,
+      "n": 6
+    },
+    "old_label": "e",
+    "majority_label": "c",
+    "premise": "Young child is falling through the air from a swing.",
+    "hypothesis": "the child is on a swing"
+  },
+  "66": {
+    "label_counter": {
+      "n": 61,
+      "e": 38,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A child is looking out of a door.",
+    "hypothesis": "The door is open."
+  },
+  "858": {
+    "label_counter": {
+      "e": 95,
+      "n": 5
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "What appears to be a taller bald white man sitting next to a shorter black man in a reception area.",
+    "hypothesis": "The tall bald white man is sitting down."
+  },
+  "515": {
+    "label_counter": {
+      "n": 94,
+      "e": 5,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A child in red is guided by an adult.",
+    "hypothesis": "They are child and parent."
+  },
+  "1036": {
+    "label_counter": {
+      "n": 82,
+      "e": 17,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Boys on a field playing flag football with one boy wearing the red flag clutching the football while a boy with a yellow flag dives to get his red flag.",
+    "hypothesis": "A boy dives to get the flag to end the game of flag football"
+  },
+  "582": {
+    "label_counter": {
+      "e": 15,
+      "n": 81,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A group of Chinese people are relaxing in the water.",
+    "hypothesis": "A group of Chinese people at standing in water."
+  },
+  "1059": {
+    "label_counter": {
+      "n": 97,
+      "e": 3
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A woman watches a child play near a small pool.",
+    "hypothesis": "A mother watchers her daughter."
+  },
+  "838": {
+    "label_counter": {
+      "n": 99,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Two men are addressing a group of onlookers behind a row of houses.",
+    "hypothesis": "The men are selling something to onlookers."
+  },
+  "813": {
+    "label_counter": {
+      "e": 41,
+      "n": 41,
+      "c": 18
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "A baby in an indoor pool is using an inflatable tube on it's on",
+    "hypothesis": "The baby is swimming"
+  },
+  "1353": {
+    "label_counter": {
+      "n": 26,
+      "e": 74
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A man sitting at a desk, repairing antique typewriters.",
+    "hypothesis": "a repair man works"
+  },
+  "629": {
+    "label_counter": {
+      "e": 84,
+      "n": 15,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "An elderly man sleeping in a outdoor chair while another woman sits next to him.",
+    "hypothesis": "Two people are outside."
+  },
+  "1153": {
+    "label_counter": {
+      "c": 23,
+      "n": 58,
+      "e": 19
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Several people with parachutes are overlooking a beautiful view of fields and hills.",
+    "hypothesis": "Paragliders survey their flight options."
+  },
+  "765": {
+    "label_counter": {
+      "e": 88,
+      "n": 12
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A trainer runs next to his dog as it jumps through multiple hoops.",
+    "hypothesis": "A trainer and his pooch."
+  },
+  "51": {
+    "label_counter": {
+      "e": 68,
+      "n": 30,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "A goalie in white runs for an approaching ball while the opponent in red who kicked it waits.",
+    "hypothesis": "The goalie is running out to catch the ball before it passes him into the goal."
+  },
+  "608": {
+    "label_counter": {
+      "c": 97,
+      "e": 2,
+      "n": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "A man in a green Celtics hat and a woman wearing a black sweater display identical tattoos on their right wrists.",
+    "hypothesis": "Two men show off identical tats"
+  },
+  "1178": {
+    "label_counter": {
+      "e": 94,
+      "n": 6
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The exhaustion in the woman's face while she continues to ride her bicycle in the competition.",
+    "hypothesis": "A person on a bike"
+  },
+  "1219": {
+    "label_counter": {
+      "n": 13,
+      "e": 85,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A woman with red dyed hair standing and walking with her purse among a group of seated people.",
+    "hypothesis": "The woman is making her way by the group of seated people."
+  },
+  "1149": {
+    "label_counter": {
+      "c": 75,
+      "n": 25
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "A man in a gray shirt, standing outdoors, holds something in his mouth and is passing it to the mouth of another man, who is dressed in a black shirt.",
+    "hypothesis": "The man is sitting by down drinking coffee."
+  },
+  "1112": {
+    "label_counter": {
+      "e": 87,
+      "n": 13
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Old man crafting something in his workshop.",
+    "hypothesis": "An old man is working."
+  },
+  "1079": {
+    "label_counter": {
+      "n": 83,
+      "e": 16,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A person in a blue and yellow snowsuit is snowboarding and snow is coming up in the air around the board.",
+    "hypothesis": "A snowboarder is performing tricks."
+  },
+  "887": {
+    "label_counter": {
+      "c": 27,
+      "n": 73
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Two men climb onto tires while sitting in the muddy water.",
+    "hypothesis": "two men are looking for a lost ring"
+  },
+  "1378": {
+    "label_counter": {
+      "n": 83,
+      "c": 16,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A black dog leaps from the water near a wooded shoreline",
+    "hypothesis": "dog leaping from a snake"
+  },
+  "1081": {
+    "label_counter": {
+      "c": 69,
+      "e": 30,
+      "n": 1
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "A man lies in an alley next to two plastic bags, wearing one shoe and no shirt.",
+    "hypothesis": "A man lies near an alley."
+  },
+  "875": {
+    "label_counter": {
+      "e": 48,
+      "n": 52
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A parade of people is marching in Santa costumes on a city street.",
+    "hypothesis": "A group is walking in a christmas parade"
+  },
+  "180": {
+    "label_counter": {
+      "n": 89,
+      "e": 9,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "An older man looks over a younger man wielding an ax chopping wood in a fall setting.",
+    "hypothesis": "Father and son get firewood for the winter."
+  },
+  "185": {
+    "label_counter": {
+      "e": 84,
+      "n": 7,
+      "c": 9
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "This is a picture of three young men, dressed in suits with one on a bike, and of a young lady wearing a white dress.",
+    "hypothesis": "three guys in suits"
+  },
+  "908": {
+    "label_counter": {
+      "n": 93,
+      "e": 2,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "a woman walks with her big purse.",
+    "hypothesis": "Crowded street with a woman moving around"
+  },
+  "728": {
+    "label_counter": {
+      "e": 62,
+      "n": 36,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Black greyhound dog racing down a track.",
+    "hypothesis": "The dog is in a race."
+  },
+  "201": {
+    "label_counter": {
+      "n": 70,
+      "e": 7,
+      "c": 23
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A girl is posing outside.",
+    "hypothesis": "A girl is taking a picture."
+  },
+  "824": {
+    "label_counter": {
+      "c": 94,
+      "e": 5,
+      "n": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Three people are outside walking up a set of wooden stairs.",
+    "hypothesis": "Three people are walking outside down a set of stairs."
+  },
+  "118": {
+    "label_counter": {
+      "c": 92,
+      "n": 8
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "A girl climbing a rock face.",
+    "hypothesis": "A girl sitting at the edge of a cliff."
+  },
+  "403": {
+    "label_counter": {
+      "n": 79,
+      "e": 20,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A man in a navy polo shirt snaps photos at a golf course while a crowd of spectators looks on in the background.",
+    "hypothesis": "A photographer is taking photos at the golf championship."
+  },
+  "1048": {
+    "label_counter": {
+      "n": 61,
+      "e": 37,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "An african american runs with a basketball as a caucasion tries to take the ball from him.",
+    "hypothesis": "The white basketball player tries to get the ball from the black player, but he cannot get it."
+  },
+  "488": {
+    "label_counter": {
+      "n": 83,
+      "c": 9,
+      "e": 8
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "A man in a black shirt sits next to an old woman in a pink shirt on a train.",
+    "hypothesis": "A man is sitting on the train talking to a woman."
+  },
+  "820": {
+    "label_counter": {
+      "e": 45,
+      "c": 1,
+      "n": 54
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "An older man dressed in blue is sitting on the sidewalk surrounded by tools to polish shoes.",
+    "hypothesis": "He waited to shine shoes outside."
+  },
+  "13": {
+    "label_counter": {
+      "e": 82,
+      "n": 18
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.",
+    "hypothesis": "The man stumbles stumbles in rollerskates."
+  },
+  "197": {
+    "label_counter": {
+      "e": 44,
+      "c": 24,
+      "n": 32
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Three women, two wearing red shirts and one wearing a purple shirt, and a man, wearing a light blue shirt, jump on a basketball court with balls in their hands.",
+    "hypothesis": "Three people's are playing basketball and holds and ball in their hands"
+  },
+  "939": {
+    "label_counter": {
+      "e": 18,
+      "n": 79,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Man in gray zippered jacket and red shirt pets a brown dog and holds a young girl in pink shirt, while a woman next to him holds an infant boy and a gray dog.",
+    "hypothesis": "A man holds a small child while petting his dog with his girlfriend is holding her son and her dog."
+  },
+  "396": {
+    "label_counter": {
+      "n": 50,
+      "e": 48,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "A girl prepares herself for the swim meet.",
+    "hypothesis": "The girl has swam before."
+  },
+  "351": {
+    "label_counter": {
+      "n": 58,
+      "c": 41,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "A large man dressed in black on a street corner by a red brick building.",
+    "hypothesis": "A man got shot on the street corner."
+  },
+  "61": {
+    "label_counter": {
+      "c": 15,
+      "n": 84,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Three men in a science lab watch one of them hold a burning object, one man on the side is reaching for the ground.",
+    "hypothesis": "The men in the science lab are performing a science experiment on fruit flies."
+  },
+  "1119": {
+    "label_counter": {
+      "n": 51,
+      "e": 47,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Two young men sitting at the end of a long table eating; there are 3 plates full of food, two glasses with a yellow colored drink and a small orange case on the table.",
+    "hypothesis": "A small light orange case is on the table."
+  },
+  "770": {
+    "label_counter": {
+      "e": 98,
+      "n": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A girl in a green jersey top and blue shorts is getting ready to kick the soccer ball near the goal.",
+    "hypothesis": "a girl gets ready to kick a ball"
+  },
+  "715": {
+    "label_counter": {
+      "n": 60,
+      "c": 40
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "a boy and girl hold hands walking down a railroad track",
+    "hypothesis": "The boy and girl are arguing."
+  },
+  "672": {
+    "label_counter": {
+      "n": 93,
+      "e": 7
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Three men sit on a bench outside.",
+    "hypothesis": "Three businessmen sit on a bench discussing capital gains taxes."
+  }
+}

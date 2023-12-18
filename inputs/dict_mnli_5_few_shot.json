@@ -1,0 +1,62 @@
+{
+  "307": {
+    "uid": "142729c",
+    "label_counter": {
+      "c": 79,
+      "n": 12,
+      "e": 9
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "What Ellison is doing here, as Hemingway did, is equating the process of becoming an artist with that of becoming a man.",
+    "hypothesis": "Ellison and Hemingway took different ways to compare becoming a man."
+  },
+  "528": {
+    "uid": "45605n",
+    "label_counter": {
+      "e": 50,
+      "n": 48,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "They have prominent red protuberances and may have been named after the British redcoats.",
+    "hypothesis": "They were named after the redcoats because they are the same bright red color on their bodies."
+  },
+  "52": {
+    "uid": "55561n",
+    "label_counter": {
+      "e": 61,
+      "n": 23,
+      "c": 16
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Cultural festivals are one opportunity, but the better way is at a private wedding or feast day when the performances are set in their true context.",
+    "hypothesis": "Cultural festivals are out of context and do not feel as authentic as genuine feast day or wedding performances."
+  },
+  "1342": {
+    "uid": "37287n",
+    "label_counter": {
+      "e": 85,
+      "c": 9,
+      "n": 6
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "They just don't like it as much as men do.",
+    "hypothesis": "Guys seem to like it way more than them."
+  },
+  "978": {
+    "uid": "13263n",
+    "label_counter": {
+      "c": 67,
+      "n": 29,
+      "e": 4
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Cultural transitions of major organizations are never easy to accomplish, and I would certainly not claim that it will be easy for GAO.",
+    "hypothesis": "GAO will likely have an easier time achieving cultural transitions than other organizations of similar size."
+  }
+}

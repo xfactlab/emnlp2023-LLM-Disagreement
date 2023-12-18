@@ -1,0 +1,5109 @@
+{
+  "0": {
+    "uid": "50830c",
+    "label_counter": {
+      "c": 20,
+      "e": 12,
+      "n": 68
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "um-hum um-hum yeah well uh i can see you know it's it's it's it's kind of funny because we it seems like we loan money you know we money with strings attached and if the government changes and the country that we loan the money to um i can see why the might have a different attitude towards paying it back it's a lot us that  you know we don't really loan money to to countries we loan money to governments and it's the",
+    "hypothesis": "We don't loan a lot of money.",
+    "pairID": "50830c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "8": {
+    "uid": "41636e",
+    "label_counter": {
+      "n": 42,
+      "e": 57,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Look, there's a legend here.",
+    "hypothesis": "See, there is a well known hero here.",
+    "pairID": "41636e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "21": {
+    "uid": "48908e",
+    "label_counter": {
+      "n": 20,
+      "c": 11,
+      "e": 69
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "This town, which flourished between 6500 and 5500 b.c. , had flat-roofed houses of mud and timber decorated with wall-paintings, some of which show patterns that still appear on Anatolian kilims.",
+    "hypothesis": "This town is over 8000 years old.",
+    "pairID": "48908e",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "26": {
+    "uid": "17473n",
+    "label_counter": {
+      "e": 51,
+      "n": 45,
+      "c": 4
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "at least i'm going to give it a try cause you can see i mean the oil filters i mean you can touch it it's right there",
+    "hypothesis": "It seems like it's worth trying to get the oil filter out.",
+    "pairID": "17473n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "28": {
+    "uid": "5783c",
+    "label_counter": {
+      "c": 80,
+      "n": 17,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The WP runs a piece inside reporting that during a church service last Sunday, Cardinal John O'Connor of New York criticized President Clinton from the pulpit for taking Catholic communion while in South Africa.",
+    "hypothesis": "The WP runs a piece outside reporting ",
+    "pairID": "5783c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "32": {
+    "uid": "121172c",
+    "label_counter": {
+      "n": 28,
+      "c": 69,
+      "e": 3
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "He pulled his cloak tighter and wished for a moment that he had not shaved his head.",
+    "hypothesis": "The man pulled his super hero cape around himself to show off.",
+    "pairID": "121172c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "39": {
+    "uid": "130629n",
+    "label_counter": {
+      "e": 63,
+      "n": 37
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "With their fluent Vietnamese and Mandarin, they help Tran understand her family's eligibility for Medi-Cal and food stamps, assist the 70-year-old woman in finding a place to live and advise abused women how they can stay in the country while staying away from their husbands.",
+    "hypothesis": "Tran spoke Mandarin. ",
+    "pairID": "130629n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "46": {
+    "uid": "18428c",
+    "label_counter": {
+      "n": 17,
+      "c": 78,
+      "e": 5
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Companies that were foreign had to accept Indian financial participation and management.",
+    "hypothesis": "Foreign companies had to take Italian money.",
+    "pairID": "18428c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "65": {
+    "uid": "134827e",
+    "label_counter": {
+      "e": 79,
+      "n": 18,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "As for the divisive issue of whether the Mass is a sacrifice for the remission of sins, the statement affirms that Christ's death upon the cross ...",
+    "hypothesis": "The matter of whether or not the Mass is a sacrifice for the remission of sins is controversial.",
+    "pairID": "134827e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "69": {
+    "uid": "131216n",
+    "label_counter": {
+      "c": 44,
+      "n": 22,
+      "e": 34
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "To the northwest of the chateau, the Grand Trianon palace, surrounded by pleasantly unpompous gardens, was the home of Louis XIV's mistress, Madame de Maintenon, where the aging king increasingly took refuge.",
+    "hypothesis": "Grand Trianon palace was the residence of Louis XIV.",
+    "pairID": "131216n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "77": {
+    "uid": "96448n",
+    "label_counter": {
+      "e": 58,
+      "n": 41,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Once they know their Social Security benefits promised under current law, workers can calculate how much they can expect from employer-sponsored pension plans and how much they need to save on their own for retirement.",
+    "hypothesis": "Social Security benefits are useful for the worker in securing their retirement and financial freedom when they reach seniority.",
+    "pairID": "96448n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "85": {
+    "uid": "85064c",
+    "label_counter": {
+      "c": 60,
+      "e": 32,
+      "n": 8
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "NONFEDERAL PHYSICAL PROPERTY ANNUAL STEWARDSHIP INFORMATION For the Fiscal Year Ended September",
+    "hypothesis": "The report details federal physical property",
+    "pairID": "85064c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "86": {
+    "uid": "54454n",
+    "label_counter": {
+      "n": 83,
+      "c": 15,
+      "e": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Participate in the postaward audit for assessing thedegree of success of the acquisition.",
+    "hypothesis": "The award is given to different people every year.",
+    "pairID": "54454n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "90": {
+    "uid": "116713e",
+    "label_counter": {
+      "e": 72,
+      "c": 7,
+      "n": 21
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Two economists at Virginia Commonwealth University--yes, here are the economists again, but this time making a more plausible argument--studied millions of auto-accident claims filed between 1989 and 1993.",
+    "hypothesis": "Two qualified researchers looked into vehicular accident insurance claims.",
+    "pairID": "116713e",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "94": {
+    "uid": "29843e",
+    "label_counter": {
+      "e": 63,
+      "n": 31,
+      "c": 6
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "He took the wicked blade as well.",
+    "hypothesis": "He took the fierce looking blade.",
+    "pairID": "29843e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "95": {
+    "uid": "58357c",
+    "label_counter": {
+      "n": 76,
+      "c": 20,
+      "e": 4
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "What changed?",
+    "hypothesis": "Nothing changed.",
+    "pairID": "58357c",
+    "a1": [
+      "Lexical",
+      "Presupposition"
+    ]
+  },
+  "101": {
+    "uid": "105962c",
+    "label_counter": {
+      "e": 90,
+      "n": 7,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "14 Managing for  Federal Managers' Views Show Need for Ensuring Top Leadership Skills (GAO-01-127, Oct. 20, 2000); Management  Using the Results Act and Quality Management to Improve Federal Performance (GAO/T-GGD-99-151, July 29, 1999); and Management  Elements of Successful Improvement Initiatives (GAO/T- GGD-00-26, Oct. 15, 1999).",
+    "hypothesis": "The document  Management Using the Results Act and Quality Management to Improve Federal Performance was put in place on July 29, 1999.",
+    "pairID": "105962c",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "107": {
+    "uid": "130680e",
+    "label_counter": {
+      "e": 91,
+      "n": 9
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes.",
+    "hypothesis": "Leading organizations want to be sure their processes are successful.",
+    "pairID": "130680e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "112": {
+    "uid": "21810n",
+    "label_counter": {
+      "e": 46,
+      "n": 43,
+      "c": 11
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "you can get a hard copy of it and that's about it",
+    "hypothesis": "An email won't cut it.",
+    "pairID": "21810n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "117": {
+    "uid": "131623c",
+    "label_counter": {
+      "c": 57,
+      "n": 40,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "In the depths of the Cold War, many Americans suspected Communists had infiltrated Washington and were about to subvert our democracy.",
+    "hypothesis": "Communists assisted America's government during the Cold War.",
+    "pairID": "131623c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "118": {
+    "uid": "52171c",
+    "label_counter": {
+      "e": 84,
+      "n": 8,
+      "c": 8
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "For such a governmentwide review, an entrance conference is generally held with applicable central agencies, such as the Office of Management and Budget (OMB) or the Office of Personnel Management.",
+    "hypothesis": "An entrance conference is held with specialized agencies.",
+    "pairID": "52171c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "123": {
+    "uid": "11618c",
+    "label_counter": {
+      "c": 89,
+      "n": 11
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Enlarging the village was not desirable and most knew that Severn only desired wealth and a seat on the council of elders.",
+    "hypothesis": "Severn was happy being poor.",
+    "pairID": "11618c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "125": {
+    "uid": "124839c",
+    "label_counter": {
+      "c": 51,
+      "n": 48,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "(A bigger contribution may or may not mean, I really, really support Candidate X.) Freedom of association is an even bigger stretch--one that Justice Thomas would laugh out of court if some liberal proposed it.",
+    "hypothesis": "A bigger contribution means to support candidate Y.",
+    "pairID": "124839c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "130": {
+    "uid": "3707c",
+    "label_counter": {
+      "e": 21,
+      "c": 67,
+      "n": 12
+    },
+    "old_label": "e",
+    "majority_label": "c",
+    "premise": "This number represents the most reliable, albeit conservative, estimate of cases closed in 1999 by LSC grantees.",
+    "hypothesis": "This is an actual verified number of closed cases.",
+    "pairID": "3707c",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "134": {
+    "uid": "103559e",
+    "label_counter": {
+      "n": 23,
+      "e": 64,
+      "c": 13
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "A martini should be gin and vermouth and a twist.",
+    "hypothesis": "A martini must be composed by gin and vermouth.",
+    "pairID": "103559e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "135": {
+    "uid": "77875c",
+    "label_counter": {
+      "e": 25,
+      "n": 39,
+      "c": 36
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "As legal scholar Randall Kennedy wrote in his book Race, Crime, and the Law , Even if race is only one of several factors behind a decision, tolerating it at all means tolerating it as potentially the decisive factor.",
+    "hypothesis": "Race should always be considered in judicial decisions.",
+    "pairID": "77875c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "141": {
+    "uid": "85860e",
+    "label_counter": {
+      "e": 75,
+      "c": 19,
+      "n": 6
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The Passaic office is refusing to join in that reconfiguration, which goes into effect Jan.",
+    "hypothesis": "It will be reconfigured in January. ",
+    "pairID": "85860e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "157": {
+    "uid": "116970c",
+    "label_counter": {
+      "c": 25,
+      "n": 70,
+      "e": 5
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": ", number of parks or acres of land) rather than in terms of historical cost.",
+    "hypothesis": "Land owned by parks does not have a value.",
+    "pairID": "116970c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "162": {
+    "uid": "134217n",
+    "label_counter": {
+      "e": 31,
+      "n": 52,
+      "c": 17
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "uh-huh and is it true i mean is it um",
+    "hypothesis": "It is absolutely correct.",
+    "pairID": "134217n",
+    "a1": [
+      "Presupposition"
+    ]
+  },
+  "173": {
+    "uid": "134616e",
+    "label_counter": {
+      "n": 22,
+      "e": 43,
+      "c": 35
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "But, as the last problem I'll outline suggests, neither of the previous two objections matters.",
+    "hypothesis": "I will not continue to outline any more problems.",
+    "pairID": "134616e",
+    "a1": [
+      "Lexical",
+      "Temporal"
+    ]
+  },
+  "174": {
+    "uid": "72721e",
+    "label_counter": {
+      "e": 41,
+      "n": 54,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "no i i i don't i it completely beyond me i went to my under graduate uh education",
+    "hypothesis": "I can't remember, I did my undergraduate education.",
+    "pairID": "72721e",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "175": {
+    "uid": "135876n",
+    "label_counter": {
+      "n": 29,
+      "e": 65,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "they ought to take all them little misdemeanor people let them go let them go",
+    "hypothesis": "they should let go all non-violent offenders",
+    "pairID": "135876n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "184": {
+    "uid": "136770c",
+    "label_counter": {
+      "n": 61,
+      "c": 38,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "The Lake District is not the place to come if you want lots of action into the early morning hours.",
+    "hypothesis": "The lake district is open 24/7.",
+    "pairID": "136770c",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "185": {
+    "uid": "136752e",
+    "label_counter": {
+      "n": 9,
+      "c": 8,
+      "e": 83
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The questions may need to be tailored to",
+    "hypothesis": "There are some questions that may or may not need to be tailored to.",
+    "pairID": "136752e",
+    "a1": [
+      "Coreference",
+      "Implicature"
+    ]
+  },
+  "188": {
+    "uid": "56258c",
+    "label_counter": {
+      "c": 77,
+      "n": 20,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "I feel, though, that I should like to point out to you once more the risks you are running, especially if you pursue the course you indicate.",
+    "hypothesis": "I want to join you on this course and forget about the risks.",
+    "pairID": "56258c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "200": {
+    "uid": "34872n",
+    "label_counter": {
+      "n": 54,
+      "e": 42,
+      "c": 4
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "We have taken a number of steps to empower and invest in our employees.",
+    "hypothesis": "The steps we have taken put programs for the employees in place.",
+    "pairID": "34872n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "205": {
+    "uid": "43245n",
+    "label_counter": {
+      "n": 73,
+      "e": 13,
+      "c": 14
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Ceter of the national aerosece industry, with a vigorous local culture and bright and breezy street life, this university city has an infectious enthusiasm to it.",
+    "hypothesis": "Design of military aircraft is one of the town's biggest industries.",
+    "pairID": "43245n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "206": {
+    "uid": "135449n",
+    "label_counter": {
+      "e": 26,
+      "n": 57,
+      "c": 17
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "We are concerned that the significant emissions reductions are required too quickly.",
+    "hypothesis": "Fast emission reduction is bad. ",
+    "pairID": "135449n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "210": {
+    "uid": "109443n",
+    "label_counter": {
+      "n": 66,
+      "e": 28,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Waterloo.",
+    "hypothesis": "The defeat of Napoleon.",
+    "pairID": "109443n",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "211": {
+    "uid": "103455e",
+    "label_counter": {
+      "e": 52,
+      "c": 27,
+      "n": 21
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "Now they're telling mothers to deny food to infants all night long once the kids are a few months old.",
+    "hypothesis": "Infants are allowed to feed at night during their first months.",
+    "pairID": "103455e",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "217": {
+    "uid": "80220c",
+    "label_counter": {
+      "c": 57,
+      "n": 43
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The streets are crammed with vendors selling shrine offerings of sweets, curds, and coconut, as well as garlands and holy images.",
+    "hypothesis": "Vendors have lined the streets with torches and fires.",
+    "pairID": "80220c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "219": {
+    "uid": "86136e",
+    "label_counter": {
+      "c": 49,
+      "n": 30,
+      "e": 21
+    },
+    "old_label": "e",
+    "majority_label": "c",
+    "premise": "The guidelines do not apply to inpatient hospital services and hospice services and will be used by Medicare fiscal intermediaries to determine the maximum allowable costs of the therapy services.",
+    "hypothesis": "When it comes to therapy services the policies and procedures are not relevant.",
+    "pairID": "86136e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "222": {
+    "uid": "144753e",
+    "label_counter": {
+      "e": 62,
+      "n": 36,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "When he's ready for a major strike, how many innocents do you suppose are going to suffer? To quote one of your contemporaries; 'The needs of the many outweigh the needs of the few.' '",
+    "hypothesis": "If he does a big strike, many people will suffer.",
+    "pairID": "144753e",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "228": {
+    "uid": "140782n",
+    "label_counter": {
+      "e": 84,
+      "n": 13,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits.",
+    "hypothesis": "SCR technology retrofits differ from FGD systems.",
+    "pairID": "140782n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "234": {
+    "uid": "26143n",
+    "label_counter": {
+      "e": 24,
+      "c": 39,
+      "n": 37
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "However, the associated cost is primarily some of the costs of assessing and collecting duties on imported merchandise, such as the salaries of import specialists (who classify merchandise) and the costs of processing paperwork.",
+    "hypothesis": "the associated cost is how much people spend relative to this amount",
+    "pairID": "26143n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "235": {
+    "uid": "46300n",
+    "label_counter": {
+      "e": 35,
+      "n": 65
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Its scorecard included measures for accuracy, speed and timeliness, unit cost, customer satisfaction, and employee development and satisfaction.",
+    "hypothesis": "Accuracy and speed are the first measurements listed on the scorecard.",
+    "pairID": "46300n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "241": {
+    "uid": "117576e",
+    "label_counter": {
+      "e": 69,
+      "n": 28,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "but i don't know you know  maybe you could do that for a certain period of time but i mean how long does that kind of a thing take you know to to um say to question the person or to get into their head",
+    "hypothesis": "It might take a long time to do that because getting inside a person's head takes time.",
+    "pairID": "117576e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "243": {
+    "uid": "103155e",
+    "label_counter": {
+      "e": 63,
+      "n": 35,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "It's absurd but I can't help it. Sir James nodded again.",
+    "hypothesis": "Sir James thinks it's absurd.",
+    "pairID": "103155e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "260": {
+    "uid": "135449e",
+    "label_counter": {
+      "e": 46,
+      "c": 39,
+      "n": 15
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "We are concerned that the significant emissions reductions are required too quickly.",
+    "hypothesis": "We're concerned about emissions reducing too quickly. ",
+    "pairID": "135449e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "271": {
+    "uid": "74377e",
+    "label_counter": {
+      "n": 29,
+      "e": 69,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "no chemicals and plus then you can use it as a fertilizer and not have to worry about spreading those chemicals like on your lawn or your bushes or whatever",
+    "hypothesis": "We don't want to use chemicals on our lawn",
+    "pairID": "74377e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "284": {
+    "uid": "101253c",
+    "label_counter": {
+      "c": 62,
+      "e": 22,
+      "n": 16
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "In his effort to build nationalism across Turkey in the 1920s, Ataterk instituted a campaign to suppress Kurdish identity that continues today.",
+    "hypothesis": "In 1942, Ataterk tried to build nationalism in Turkey.",
+    "pairID": "101253c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "289": {
+    "uid": "135779c",
+    "label_counter": {
+      "n": 55,
+      "c": 44,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Judge Bailey was chosen because he should be looked at as the representative of all future winners.",
+    "hypothesis": "Nobody liked Judge Bailey.",
+    "pairID": "135779c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "294": {
+    "uid": "46257n",
+    "label_counter": {
+      "n": 18,
+      "e": 82
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "huh-uh i don't even want to go anywhere yeah that's about it",
+    "hypothesis": "I prefer not to travel.",
+    "pairID": "46257n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "297": {
+    "uid": "54043c",
+    "label_counter": {
+      "e": 40,
+      "c": 50,
+      "n": 10
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": " \"So your girl writes that your little farewell activity didn't fare so well, eh?\" he chortled.",
+    "hypothesis": "Your little girl wrote about how well your farewell activity went.",
+    "pairID": "54043c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "301": {
+    "uid": "27559n",
+    "label_counter": {
+      "c": 35,
+      "n": 64,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The island's burgeoning economic significance propelled population growth, and by the middle of the 15th century Madeira was home to 800 families.",
+    "hypothesis": "The population of Madeira was devastated by illness in 1475.",
+    "pairID": "27559n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "315": {
+    "uid": "133005n",
+    "label_counter": {
+      "c": 43,
+      "n": 49,
+      "e": 8
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "In May 1967, Gallup found that the number of people who said they intensely disliked RFK--who was also probably more intensely liked than any other practicing politician--was twice as high as the number who intensely disliked Johnson, the architect of the increasingly unpopular war in Vietnam.",
+    "hypothesis": "Due to his attitudes on cheesecake, RFK was more disliked than Johnson.",
+    "pairID": "133005n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "316": {
+    "uid": "19208c",
+    "label_counter": {
+      "c": 52,
+      "n": 47,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "Hearty Sabbath meals.",
+    "hypothesis": "Hearty meals will only be offered to Buddhists ",
+    "pairID": "19208c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "317": {
+    "uid": "134769n",
+    "label_counter": {
+      "n": 38,
+      "c": 61,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "But of course the DSM is informed by social values.",
+    "hypothesis": "The DSM is mostly concerned with medical inputs rather than social values.",
+    "pairID": "134769n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "324": {
+    "uid": "69907e",
+    "label_counter": {
+      "c": 49,
+      "e": 27,
+      "n": 24
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "She  People are rarely indifferent to the magazines I've put out.",
+    "hypothesis": "People don't hold a strong opinion to the magazines I've put out.",
+    "pairID": "69907e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "325": {
+    "uid": "38527n",
+    "label_counter": {
+      "e": 39,
+      "n": 47,
+      "c": 14
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "will never be doused (Brit Hume, Fox News Sunday ; Tony Blankley, Late Edition ; Robert Novak, Capital Gang ; Tucker Carlson, The McLaughlin Group ). The middle way is best expressed by Howard Kurtz (NBC's Meet the Press )--he scolds Brill for undisclosed campaign contributions and for overstretching his legal case against Kenneth Starr but applauds him for casting light on the media.",
+    "hypothesis": "They wanted the public to know where the funds came from.",
+    "pairID": "38527n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "327": {
+    "uid": "138337e",
+    "label_counter": {
+      "c": 32,
+      "n": 32,
+      "e": 36
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Also, why Princess Di was like President  The public cared more about her empathy than about her actions.",
+    "hypothesis": "They scared more about empathy than actions.",
+    "pairID": "138337e",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "328": {
+    "uid": "100768n",
+    "label_counter": {
+      "e": 85,
+      "n": 15
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "well in a way you can travel light",
+    "hypothesis": "You won't need to pack much. ",
+    "pairID": "100768n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "329": {
+    "uid": "2508n",
+    "label_counter": {
+      "n": 80,
+      "e": 16,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "His voice was even and calm, not a hint of rage.",
+    "hypothesis": "He was not at all concerned about what was happening.",
+    "pairID": "2508n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "331": {
+    "uid": "134514c",
+    "label_counter": {
+      "c": 80,
+      "e": 7,
+      "n": 13
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "However, co-requesters cannot approve additional co-requesters or restrict the timing of the release of the product after it is issued.",
+    "hypothesis": "They will restrict timing of the release of the product.",
+    "pairID": "134514c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "333": {
+    "uid": "21912e",
+    "label_counter": {
+      "e": 73,
+      "c": 6,
+      "n": 21
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "um i've visited the Wyoming area i'm not sure exactly where Dances with Wolves was filmed",
+    "hypothesis": "I don't know even though I visited the area.",
+    "pairID": "21912e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "343": {
+    "uid": "103431n",
+    "label_counter": {
+      "e": 83,
+      "n": 16,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "In addition, the senior executives at these organizations demonstrated their sustained commitment to financerelated improvement initiatives by using key business/line managers to drive improvement efforts, attending key meetings, ensuring that the necessary resources are made available, and creating a system of rewards and incentives to recognize those who support improvement initiatives.",
+    "hypothesis": "This system of rewards and incentives will hopefully improve company performance.",
+    "pairID": "103431n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "352": {
+    "uid": "96410e",
+    "label_counter": {
+      "e": 81,
+      "n": 6,
+      "c": 13
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Unfortunately, the magnet schools began the undoing of desegregation in Charlotte.",
+    "hypothesis": "Desegregation was becoming disbanded in Charlotte thanks to the magnet schools.",
+    "pairID": "96410e",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "353": {
+    "uid": "135021e",
+    "label_counter": {
+      "e": 65,
+      "n": 34,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "you know we keep a couple hundred dollars um if that much charged on those which isn't too bad it's just your normal",
+    "hypothesis": "We have some money on there",
+    "pairID": "135021e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "365": {
+    "uid": "105196n",
+    "label_counter": {
+      "e": 49,
+      "n": 50,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Indeed, said San'doro.",
+    "hypothesis": "They were certain.",
+    "pairID": "105196n",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "366": {
+    "uid": "113913e",
+    "label_counter": {
+      "e": 78,
+      "n": 20,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "To be fair, Si doesn't pay for all such treats.",
+    "hypothesis": "Si only pays for some treats.",
+    "pairID": "113913e",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "371": {
+    "uid": "143760n",
+    "label_counter": {
+      "n": 58,
+      "c": 38,
+      "e": 4
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "uh and i think even Electric Light Orchestra had some some real um influences by classical music and i'm still still my favorite in fact most of my CDs that i got are classical music",
+    "hypothesis": "I have some CDs of barney songs, but those aren't most of my CDs. ",
+    "pairID": "143760n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "375": {
+    "uid": "62238e",
+    "label_counter": {
+      "e": 61,
+      "n": 38,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Clearly, GAO needs assistance to meet its looming human capital challenges.",
+    "hypothesis": "GAO will soon be suffering from a shortage of qualified personnel.",
+    "pairID": "62238e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "387": {
+    "uid": "48150c",
+    "label_counter": {
+      "c": 55,
+      "n": 31,
+      "e": 14
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "and I'm not a Negro tonight!",
+    "hypothesis": "I'm black.",
+    "pairID": "48150c",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "397": {
+    "uid": "1575n",
+    "label_counter": {
+      "n": 78,
+      "e": 9,
+      "c": 13
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": " the winged Victory of Samothrace and the beautifully proportioned Venus de Milo.",
+    "hypothesis": "The Venus de Milo has better proportions than the Victory of Samothrace.",
+    "pairID": "1575n",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "399": {
+    "uid": "99194n",
+    "label_counter": {
+      "n": 58,
+      "c": 33,
+      "e": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "After the high emotion of de Gaulle's march down the Champs-Elys??es, the business of post-war reconstruction, though boosted by the generous aid of the Americans' Mar?\u00adshall Plan, proved arduous, and the wartime alliance of de Gaulle's conservatives and the Communist Party soon broke down.",
+    "hypothesis": "After the split, war followed between the two countries.",
+    "pairID": "99194n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "409": {
+    "uid": "28601n",
+    "label_counter": {
+      "e": 78,
+      "n": 21,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Three more days went by in dreary inaction.",
+    "hypothesis": "The days passed by slowly.",
+    "pairID": "28601n",
+    "a1": [
+      "Coreference",
+      "Lexical"
+    ]
+  },
+  "412": {
+    "uid": "18189c",
+    "label_counter": {
+      "n": 32,
+      "c": 34,
+      "e": 34
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The important thing is to realize that it's way past time to move it.",
+    "hypothesis": "It cannot be moved, now or ever.",
+    "pairID": "18189c",
+    "a1": [
+      "Lexical",
+      "Presupposition"
+    ]
+  },
+  "416": {
+    "uid": "105769e",
+    "label_counter": {
+      "n": 25,
+      "e": 71,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it",
+    "hypothesis": "I was going to major in algebra or french but I ended falling in love with chemistry. ",
+    "pairID": "105769e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "417": {
+    "uid": "124839e",
+    "label_counter": {
+      "n": 19,
+      "e": 7,
+      "c": 74
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "(A bigger contribution may or may not mean, I really, really support Candidate X.) Freedom of association is an even bigger stretch--one that Justice Thomas would laugh out of court if some liberal proposed it.",
+    "hypothesis": "Justice Thomas wanted to have freedom of association.",
+    "pairID": "124839e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "421": {
+    "uid": "53923c",
+    "label_counter": {
+      "n": 85,
+      "c": 14,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "The opportunity",
+    "hypothesis": "Opportunities do not matter.",
+    "pairID": "53923c",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "424": {
+    "uid": "102563n",
+    "label_counter": {
+      "n": 45,
+      "c": 31,
+      "e": 24
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The judge gave vent to a faint murmur of disapprobation, and the prisoner in the dock leant forward angrily. ",
+    "hypothesis": "The judge ordered the court to be silent.",
+    "pairID": "102563n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "425": {
+    "uid": "9557n",
+    "label_counter": {
+      "e": 24,
+      "c": 39,
+      "n": 37
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "Tommy Thompson of Wisconsin and Mayor Rudolph Giuliani of New York, the conservative vanguard on the issue, show no inclination to exploit research that says, in effect, Why care about day-care quality?",
+    "hypothesis": "Thompson and Giuliani might care about day cares.",
+    "pairID": "9557n",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "427": {
+    "uid": "126486n",
+    "label_counter": {
+      "n": 33,
+      "e": 67
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The entire setup has an anti-competitive, anti-entrepreneurial flavor that rewards political lobbying rather than good business practices.",
+    "hypothesis": "The setup has lead to increases in political lobbying.",
+    "pairID": "126486n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "430": {
+    "uid": "48553c",
+    "label_counter": {
+      "n": 53,
+      "c": 44,
+      "e": 3
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Keep your eyes open for Renaissance details, grand doorways, and views into lovely courtyards.",
+    "hypothesis": "All of the doorways and courtyards have been completely remodeled since the Renaissance.",
+    "pairID": "48553c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "445": {
+    "uid": "28285c",
+    "label_counter": {
+      "c": 58,
+      "n": 42
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Allow time in Thirasia to explore Santorini's smaller sibling islands.",
+    "hypothesis": "Allow time in Thirasia to visit the famous Guy Fieri restaurant.",
+    "pairID": "28285c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "456": {
+    "uid": "135898c",
+    "label_counter": {
+      "c": 44,
+      "n": 44,
+      "e": 12
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The end is near!  Then a shout went up, and Hanson jerked his eyes from the gears to focus on a group of rocs that were landing at the far end of the camp.",
+    "hypothesis": "It's all over, Hanson whispered as he stared at the gears. ",
+    "pairID": "135898c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "459": {
+    "uid": "55205n",
+    "label_counter": {
+      "n": 76,
+      "c": 24
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "I've got it down in my notes if you want to see them.\" She extended the woven cords.",
+    "hypothesis": "She was unsure of how accurate her notes were.",
+    "pairID": "55205n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "462": {
+    "uid": "106390e",
+    "label_counter": {
+      "e": 70,
+      "n": 17,
+      "c": 13
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Mykonos has had a head start as far as diving is concerned because it was never banned here (after all, there are no ancient sites to protect).",
+    "hypothesis": "Diving was banned in places other than Mykonos.",
+    "pairID": "106390e",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "471": {
+    "uid": "134655c",
+    "label_counter": {
+      "n": 15,
+      "c": 77,
+      "e": 8
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Catch up on the Indian avant-garde and the bohemian people of Caletta at the Academy of Fine Arts on the southeast corner of the Maidan.",
+    "hypothesis": "The Academy of Fine Arts is located in Northern Maidan.",
+    "pairID": "134655c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "474": {
+    "uid": "101525c",
+    "label_counter": {
+      "n": 72,
+      "c": 28
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Monday's Question (No.",
+    "hypothesis": "There was a question on Tuesday.",
+    "pairID": "101525c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "476": {
+    "uid": "40100e",
+    "label_counter": {
+      "e": 95,
+      "c": 2,
+      "n": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Linda Tripp was indicted for illegally taping telephone conversations with Monica Lewinsky.",
+    "hypothesis": "Monica Lewinsky was illegally taped by Linda Tripp.",
+    "pairID": "40100e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "482": {
+    "uid": "97394n",
+    "label_counter": {
+      "e": 63,
+      "n": 32,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "I think it is important for everyone to understand the extent to which First-Class mail is already carrying a disproportionate share of the institutional cost or overhead burden of the postal system.",
+    "hypothesis": "First class mail is too busy with the burden.",
+    "pairID": "97394n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "486": {
+    "uid": "123027n",
+    "label_counter": {
+      "e": 72,
+      "n": 26,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "uh high humidity",
+    "hypothesis": "Warm, sweaty temperatures.",
+    "pairID": "123027n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "488": {
+    "uid": "10080c",
+    "label_counter": {
+      "n": 52,
+      "c": 36,
+      "e": 12
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "In that case, price discrimination can survive.",
+    "hypothesis": "Right now, no leeway is possible with the price.",
+    "pairID": "10080c",
+    "a1": [
+      "Coreference",
+      "Temporal"
+    ]
+  },
+  "495": {
+    "uid": "142816c",
+    "label_counter": {
+      "c": 34,
+      "n": 62,
+      "e": 4
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "a good team but they're an underdog that's why i like them is the Philadelphia Eagles",
+    "hypothesis": "The Philadelphia Eagles are the most well known team.",
+    "pairID": "142816c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "510": {
+    "uid": "116665n",
+    "label_counter": {
+      "e": 42,
+      "n": 57,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": " Many restaurants and cafes welcome children.",
+    "hypothesis": "Children are great to take along with you to the many restaurants and cafes.",
+    "pairID": "116665n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "513": {
+    "uid": "54383c",
+    "label_counter": {
+      "c": 50,
+      "n": 47,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "He knew how the Simulacra was supposed to develop.",
+    "hypothesis": "He didn't know about Sims.",
+    "pairID": "54383c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "516": {
+    "uid": "125225e",
+    "label_counter": {
+      "n": 15,
+      "e": 67,
+      "c": 18
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Five years ago, Speaker-elect Newt Gingrich promised to make important information available online at the same moment that it is available to the highest-paid Washington lobbyist.",
+    "hypothesis": "Newt Gingrich promised to make information available to loyalists and online at the same time. ",
+    "pairID": "125225e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "522": {
+    "uid": "63100n",
+    "label_counter": {
+      "e": 26,
+      "n": 35,
+      "c": 39
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "And it needs work too, you know, in case I have to jump out with this parachute from my lil' blue sports plane for real.'",
+    "hypothesis": "It needs to work Incase he needs to jump out of a small window.",
+    "pairID": "63100n",
+    "a1": [
+      "Coreference",
+      "Lexical"
+    ]
+  },
+  "529": {
+    "uid": "100409e",
+    "label_counter": {
+      "n": 35,
+      "e": 44,
+      "c": 21
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "That example points to an important general  Total expenditure is determined by the value of the prize, whether we're talking about presidential campaigns or state lotteries.",
+    "hypothesis": "They stated that the monetary amount of the prize was determined regardless of how the prize was used.",
+    "pairID": "100409e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "539": {
+    "uid": "81038c",
+    "label_counter": {
+      "c": 49,
+      "n": 51
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Cruises are available from the Bhansi Ghat, which is near the CityPalace.",
+    "hypothesis": "You can take cruises from Phoenix Arizona.",
+    "pairID": "81038c",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "561": {
+    "uid": "76020e",
+    "label_counter": {
+      "e": 86,
+      "n": 2,
+      "c": 12
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The city was founded in the third millennium b.c. on the north shore of the bay, and reached a peak during the tenth century b.c. , when it was one of the most important cities in the Ionian Federation the poet Homer was born in S myrna during this period.",
+    "hypothesis": "The city was founded in the third millennium",
+    "pairID": "76020e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "568": {
+    "uid": "50314c",
+    "label_counter": {
+      "c": 73,
+      "n": 18,
+      "e": 9
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "audits and other reviews, including those showing deficiencies and recommendations reported by auditors and others who evaluate agencies' operations, (2) determine proper actions in response to findings and recommendations from audits and reviews, and (3) complete, within established time frames, all actions that correct or otherwise resolve the matters brought to management's attention.",
+    "hypothesis": "The findings of the audits and reviews do not lead to further action.",
+    "pairID": "50314c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "570": {
+    "uid": "32197e",
+    "label_counter": {
+      "n": 57,
+      "e": 40,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "facilitate suits for benefits by using the State and Federal courts and the independent bar on which those courts depend for the proper performance of their duties and responsibilities.",
+    "hypothesis": "The State and Federal courts are part of the government judiciary system.",
+    "pairID": "32197e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "576": {
+    "uid": "102708c",
+    "label_counter": {
+      "n": 87,
+      "c": 8,
+      "e": 5
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Cases in Comparative",
+    "hypothesis": "Cases care not related to law.",
+    "pairID": "102708c",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "578": {
+    "uid": "10547c",
+    "label_counter": {
+      "c": 91,
+      "e": 3,
+      "n": 6
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "He jumped up, planting one hand on the charging horse, and came at the brute with the axe.",
+    "hypothesis": "He swung at the brute with his sword.",
+    "pairID": "10547c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "583": {
+    "uid": "134446n",
+    "label_counter": {
+      "e": 50,
+      "n": 47,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "On the second point, Judge Newton said in a recent interview, I've heard this complaint a hundred times.",
+    "hypothesis": "Judge Newton was not convinced by the second point.",
+    "pairID": "134446n",
+    "a1": [
+      "Implicature",
+      "Probabilistic"
+    ]
+  },
+  "596": {
+    "uid": "126286c",
+    "label_counter": {
+      "n": 51,
+      "c": 43,
+      "e": 6
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "more than anything else in this day and age that's got to be a big factor in your decision's just the the cost of how much you're gonna pay",
+    "hypothesis": "In your decisions age is not a big factor at all",
+    "pairID": "126286c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "607": {
+    "uid": "2870n",
+    "label_counter": {
+      "e": 74,
+      "n": 26
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": " Most menu prices include taxes and a service charge, but it's customary to leave a tip if you were served satisfactorily.",
+    "hypothesis": "Most customers will tip in addition to the tax on the menus.",
+    "pairID": "2870n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "615": {
+    "uid": "92730e",
+    "label_counter": {
+      "e": 65,
+      "n": 34,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": ": Adrin's Third Lesson",
+    "hypothesis": "Adrin had three lessons.",
+    "pairID": "92730e",
+    "a1": [
+      "Presupposition"
+    ]
+  },
+  "616": {
+    "uid": "62332n",
+    "label_counter": {
+      "c": 40,
+      "n": 57,
+      "e": 3
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "There would be little benefit to national saving from allowing early access to mandatory accounts with set contribution levels-which has been proposed for Social Security (see Q4.",
+    "hypothesis": "There would be happier people to national saving.",
+    "pairID": "62332n",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "618": {
+    "uid": "144408n",
+    "label_counter": {
+      "e": 20,
+      "c": 41,
+      "n": 39
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Today it is possible to buy cheap papyrus printed with gaudy Egyptian scenes in almost every souvenir shop in the country, but some of the most authentic are sold at The Pharaonic Village in Cairo where the papyrus is grown, processed, and hand-painted on site.",
+    "hypothesis": "The Pharaonic Village in Cairo is the only place where one can buy authentic papyrus.",
+    "pairID": "144408n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "620": {
+    "uid": "13137n",
+    "label_counter": {
+      "n": 57,
+      "e": 23,
+      "c": 20
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "But they persevered, she said, firm and optimistic in their search, until they were finally allowed by a packed restaurant to eat their dinner off the floor.",
+    "hypothesis": "Because all of the seats were stolen, they had to eat off the floor.",
+    "pairID": "13137n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "631": {
+    "uid": "106431e",
+    "label_counter": {
+      "e": 81,
+      "n": 16,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Maybe in that sense, the behavior of the Pippens and Iversons of the world is defensible.",
+    "hypothesis": "In one sense their antics are justifiable.",
+    "pairID": "106431e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "636": {
+    "uid": "5329c",
+    "label_counter": {
+      "c": 80,
+      "e": 15,
+      "n": 5
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "1) FBI intelligence files indicate that Democratic fund-raiser Maria Hsia has been a Chinese agent.",
+    "hypothesis": "Maria Hsia is a Republican fund raiser that the FBI has information on.",
+    "pairID": "5329c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "641": {
+    "uid": "104805e",
+    "label_counter": {
+      "n": 72,
+      "c": 16,
+      "e": 12
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "California is high",
+    "hypothesis": "California is hyped up!",
+    "pairID": "104805e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "644": {
+    "uid": "40179n",
+    "label_counter": {
+      "n": 76,
+      "e": 18,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "oh for heaven sakes for the drugs yeah uh-huh",
+    "hypothesis": "I don't really believe that.",
+    "pairID": "40179n",
+    "a1": [
+      "Coreference",
+      "Lexical"
+    ]
+  },
+  "646": {
+    "uid": "101253n",
+    "label_counter": {
+      "e": 55,
+      "n": 37,
+      "c": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "In his effort to build nationalism across Turkey in the 1920s, Ataterk instituted a campaign to suppress Kurdish identity that continues today.",
+    "hypothesis": "His campaign to suppress the identity of the Kurds was successful.",
+    "pairID": "101253n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "666": {
+    "uid": "133597n",
+    "label_counter": {
+      "n": 52,
+      "e": 32,
+      "c": 16
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document.",
+    "hypothesis": "The only things that signatures in manual systems show are attestations, verifications, or approvals.",
+    "pairID": "133597n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "670": {
+    "uid": "105196e",
+    "label_counter": {
+      "n": 22,
+      "e": 52,
+      "c": 26
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Indeed, said San'doro.",
+    "hypothesis": "Indeed, they said.",
+    "pairID": "105196e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "677": {
+    "uid": "11299e",
+    "label_counter": {
+      "e": 65,
+      "n": 30,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "'Not part of your biography.",
+    "hypothesis": "What is being shown is not part of my biography.",
+    "pairID": "11299e",
+    "a1": [
+      "Coreference",
+      "Imperfection"
+    ]
+  },
+  "680": {
+    "uid": "97011c",
+    "label_counter": {
+      "c": 31,
+      "n": 31,
+      "e": 38
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met.",
+    "hypothesis": "The ANC would not be in charge of land reform.",
+    "pairID": "97011c",
+    "a1": [
+      "Temporal"
+    ]
+  },
+  "689": {
+    "uid": "137499n",
+    "label_counter": {
+      "n": 66,
+      "e": 6,
+      "c": 28
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "His plan was to drive straight up to the house.",
+    "hypothesis": "Driving directly to the house was no longer an option with the roadblock.",
+    "pairID": "137499n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "693": {
+    "uid": "63602n",
+    "label_counter": {
+      "n": 49,
+      "c": 20,
+      "e": 31
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "There are a number of these on Chatham Road South and around Cameron Street in Tsim Sha Tsui.",
+    "hypothesis": "Some of these are outside Tsim Sha Tsui.",
+    "pairID": "63602n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "695": {
+    "uid": "100319e",
+    "label_counter": {
+      "e": 40,
+      "n": 53,
+      "c": 7
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Kill chickens.",
+    "hypothesis": "Kill feathered animals.",
+    "pairID": "100319e",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "699": {
+    "uid": "106013c",
+    "label_counter": {
+      "c": 75,
+      "n": 16,
+      "e": 9
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Ca'daan heard the Kal grunt and felt the horse lift.",
+    "hypothesis": "The Kal heard Ca'daan grunt.",
+    "pairID": "106013c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "721": {
+    "uid": "109254n",
+    "label_counter": {
+      "n": 90,
+      "e": 3,
+      "c": 7
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "profit rather",
+    "hypothesis": "Our profit has not been good.",
+    "pairID": "109254n",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "724": {
+    "uid": "36811c",
+    "label_counter": {
+      "e": 7,
+      "n": 40,
+      "c": 53
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "This having come to his stepmother's ears, she taxed him with it on the afternoon before her death, and a quarrel ensued, part of which was overheard. ",
+    "hypothesis": "A love affair sparked just moments before her death.",
+    "pairID": "36811c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "735": {
+    "uid": "32814n",
+    "label_counter": {
+      "n": 44,
+      "e": 16,
+      "c": 40
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "There is.",
+    "hypothesis": "There was.",
+    "pairID": "32814n",
+    "a1": [
+      "Temporal"
+    ]
+  },
+  "738": {
+    "uid": "49396e",
+    "label_counter": {
+      "e": 72,
+      "n": 24,
+      "c": 4
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The road along the coastline to the south travels through busy agricultural towns and fishing villages untouched by tourism.",
+    "hypothesis": "There are no tourists on the road through the agricultural towns and fishing villages.",
+    "pairID": "49396e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "747": {
+    "uid": "1073c",
+    "label_counter": {
+      "n": 83,
+      "e": 4,
+      "c": 13
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "News ' cover says the proliferation of small computer devices and the ascendance of Web-based applications are eroding Microsoft's dominance.",
+    "hypothesis": "Microsoft is a more profitable company than Apple.",
+    "pairID": "1073c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "751": {
+    "uid": "119065n",
+    "label_counter": {
+      "n": 75,
+      "e": 2,
+      "c": 23
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "but you know they kids seem like when they get ten or twelve years old they fall out of that and and they don't follow it at all you know there're very few scouts go on and become Eagle Scouts and and i don't know what the high rank is for the gals but",
+    "hypothesis": "The highest rank for Girl Scouts is Hawk Scout.",
+    "pairID": "119065n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "754": {
+    "uid": "65879c",
+    "label_counter": {
+      "c": 89,
+      "n": 8,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "After the recovery of Jerusalem in 1099, it took four hundred years of sieges and battles, treaties, betrayals, and yet more battles, before Christian kings and warlords succeeded in subduing the Moors.",
+    "hypothesis": "The Moors were able to subdue the Christian kings after just a decade of war.",
+    "pairID": "65879c",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "755": {
+    "uid": "100136e",
+    "label_counter": {
+      "n": 31,
+      "e": 68,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Challenges to Restore Public Confidence in",
+    "hypothesis": "Public confidence can be difficult to reestablish.",
+    "pairID": "100136e",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "762": {
+    "uid": "102647c",
+    "label_counter": {
+      "c": 66,
+      "e": 17,
+      "n": 17
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "This was built 15 years earlier by Jahangir's wife, Nur Jahan, for her father, who served as Mughal Prime Minister.",
+    "hypothesis": "Nur Jahan's husband Jahangir served as Mughal Prime Minister. ",
+    "pairID": "102647c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "763": {
+    "uid": "48970n",
+    "label_counter": {
+      "c": 9,
+      "e": 67,
+      "n": 24
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Here's the  439 feet + (59 feet x 0.6) = 474 feet.",
+    "hypothesis": "This math equation might be correct.",
+    "pairID": "48970n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "765": {
+    "uid": "120274e",
+    "label_counter": {
+      "n": 37,
+      "e": 63
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": " The Garden Island is lush with botanical estates and Waimea Canyon, the grand Canyon of the Pacific .",
+    "hypothesis": "There are many flowers to be found on the estates on The Garden Island.",
+    "pairID": "120274e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "766": {
+    "uid": "27076c",
+    "label_counter": {
+      "n": 34,
+      "e": 21,
+      "c": 45
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "'Why isn't a lookalike good enough for them?'",
+    "hypothesis": "The look alike is plenty good.",
+    "pairID": "27076c",
+    "a1": [
+      "Lexical",
+      "Presupposition",
+      "Probabilistic"
+    ]
+  },
+  "775": {
+    "uid": "103400e",
+    "label_counter": {
+      "e": 49,
+      "c": 43,
+      "n": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "In Roman times a temple to Jupiter stood here, followed in the fourth century by the first Christian church, Saint-Etienne.",
+    "hypothesis": "Saint-Etienne, a Christian church, had a temple to Jupiter during Roman times.",
+    "pairID": "103400e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "778": {
+    "uid": "12870c",
+    "label_counter": {
+      "c": 89,
+      "n": 5,
+      "e": 6
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "so he donates a lot not everything but a lot of the material then what he doesn't donate we just go out and buy",
+    "hypothesis": "He donates all of the material.",
+    "pairID": "12870c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "779": {
+    "uid": "106390n",
+    "label_counter": {
+      "n": 32,
+      "e": 60,
+      "c": 8
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Mykonos has had a head start as far as diving is concerned because it was never banned here (after all, there are no ancient sites to protect).",
+    "hypothesis": "Protection of ancient sites is the reason for diving bans in other places.",
+    "pairID": "106390n",
+    "a1": [
+      "Implicature",
+      "Probabilistic"
+    ]
+  },
+  "782": {
+    "uid": "105769c",
+    "label_counter": {
+      "n": 36,
+      "c": 56,
+      "e": 8
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it",
+    "hypothesis": "You are required to sign up for a major freshman year. ",
+    "pairID": "105769c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "783": {
+    "uid": "103169n",
+    "label_counter": {
+      "e": 72,
+      "n": 26,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "'Dave Hanson, to whom nothing was impossible.' Well, we have a nearly impossible task: a task of engineering and building.",
+    "hypothesis": "This building job is almost impossible, even for an experienced engineer.",
+    "pairID": "103169n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "786": {
+    "uid": "135779e",
+    "label_counter": {
+      "e": 73,
+      "n": 23,
+      "c": 4
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Judge Bailey was chosen because he should be looked at as the representative of all future winners.",
+    "hypothesis": "Judge Bailey was the chosen winner.",
+    "pairID": "135779e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "789": {
+    "uid": "88605e",
+    "label_counter": {
+      "e": 82,
+      "n": 17,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The remaining parts of the north, although enticing, are difficult to explore.",
+    "hypothesis": "The rest of the north presents a steep challenge.",
+    "pairID": "88605e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "791": {
+    "uid": "42983c",
+    "label_counter": {
+      "c": 63,
+      "n": 37
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "The town is also known for its sparkling wine and for the caves where about 70 per?\u00adcent of France's cultivated mushrooms are grown.",
+    "hypothesis": "The town only makes red wine.",
+    "pairID": "42983c",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "792": {
+    "uid": "100613n",
+    "label_counter": {
+      "n": 37,
+      "e": 63
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Coast Guard rules establishing bridgeopening schedules).",
+    "hypothesis": "The Coast Guard has firm rules in place when it comes to bridgeopening.",
+    "pairID": "100613n",
+    "a1": [
+      "Probabilistic",
+      "Temporal"
+    ]
+  },
+  "793": {
+    "uid": "29632n",
+    "label_counter": {
+      "e": 65,
+      "n": 33,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "In fact, European nations need to do some serious fiscal housecleaning.",
+    "hypothesis": "European nations have a lot of wasteful spending practices.",
+    "pairID": "29632n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "799": {
+    "uid": "135021n",
+    "label_counter": {
+      "n": 50,
+      "c": 22,
+      "e": 28
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "you know we keep a couple hundred dollars um if that much charged on those which isn't too bad it's just your normal",
+    "hypothesis": "We have money on there, which isn't great",
+    "pairID": "135021n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "801": {
+    "uid": "109443e",
+    "label_counter": {
+      "n": 77,
+      "e": 18,
+      "c": 5
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Waterloo.",
+    "hypothesis": "In the Battle of Waterloo.",
+    "pairID": "109443e",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "803": {
+    "uid": "135401n",
+    "label_counter": {
+      "e": 58,
+      "n": 31,
+      "c": 11
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Although, in this case the equipment did not have to be erected adjacent to an operating boiler, the erection included demolishing and erecting a complete boiler island and demolishing the existing electrostatic precipitator.",
+    "hypothesis": "Although it was unnecessary, some of the equipment was adjacent.",
+    "pairID": "135401n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "810": {
+    "uid": "49123n",
+    "label_counter": {
+      "c": 43,
+      "n": 47,
+      "e": 10
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Several of the individuals and organizations that we contacted also suggested that agencies move to a more consistent organization, content, and presentation of information to allow for a more common look and feel to agencies' ITbased public participation mechanisms in rulemaking.",
+    "hypothesis": "Agencies believe that their current practices are sufficient to serve their function.",
+    "pairID": "49123n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "816": {
+    "uid": "26766c",
+    "label_counter": {
+      "c": 60,
+      "n": 17,
+      "e": 23
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.",
+    "hypothesis": " if pH of scrubbing liquor becomes above a range of 5.0 to 6.0, additional reagent is required",
+    "pairID": "26766c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "832": {
+    "uid": "46063n",
+    "label_counter": {
+      "e": 86,
+      "n": 13,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "[W]e have a book worthy of its subject--graceful, astonishingly well researched, yet imbued with a sense of flow that is rarely achieved at this level of scholarship, says Daphne Merkin in the New York Times Book Review . (See Sarah Kerr's review in Slate.)",
+    "hypothesis": "The woman gave the book a high rating with her review.",
+    "pairID": "46063n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "834": {
+    "uid": "113628e",
+    "label_counter": {
+      "e": 65,
+      "c": 11,
+      "n": 24
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "5 The share of gross national saving used to replace depreciated capital has increased over the past 40 years.",
+    "hypothesis": "Depreciated capital is replaced using national saving funds.",
+    "pairID": "113628e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "835": {
+    "uid": "121910e",
+    "label_counter": {
+      "c": 63,
+      "n": 18,
+      "e": 19
+    },
+    "old_label": "e",
+    "majority_label": "c",
+    "premise": "If ancient writings give only a romanticized view, they do offer a more precise picture of Indo-Aryan society.",
+    "hypothesis": "Ancient writings don't show an accurate picture of Indo-Anryan society.",
+    "pairID": "121910e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "840": {
+    "uid": "143751e",
+    "label_counter": {
+      "n": 45,
+      "e": 50,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Now then, Miss Tuppence, said Sir James, \"you know this place better than I do.",
+    "hypothesis": "Sir James expected Miss Tuppence to give him directions.",
+    "pairID": "143751e",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "843": {
+    "uid": "106091e",
+    "label_counter": {
+      "n": 15,
+      "e": 76,
+      "c": 9
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "'Pardon me for saying so, but I really don't think this is the time for an entree,' I said.",
+    "hypothesis": "This isn't the time for a main course I didn't think. ",
+    "pairID": "106091e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "845": {
+    "uid": "18892n",
+    "label_counter": {
+      "c": 10,
+      "n": 35,
+      "e": 55
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "All these sites will automatically lead into George Dubbawya's Web site (www.georgewbush.com).",
+    "hypothesis": "These sites are all themed around George W. Bush.",
+    "pairID": "18892n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "848": {
+    "uid": "105566e",
+    "label_counter": {
+      "e": 51,
+      "n": 48,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "it's the very same type of paint and everything",
+    "hypothesis": "It's the same paint formula, it's great!",
+    "pairID": "105566e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "851": {
+    "uid": "95883n",
+    "label_counter": {
+      "e": 48,
+      "n": 43,
+      "c": 9
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Charles Geveden has introduced legislation that will increase the Access to Justice supplement on court filing fees.",
+    "hypothesis": "Fortunately, Charles Geveden was able to make the government increase the budget for court filing fees.",
+    "pairID": "95883n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "852": {
+    "uid": "136360n",
+    "label_counter": {
+      "e": 57,
+      "n": 42,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "I can FEEL him.\"",
+    "hypothesis": "I know he is near by.",
+    "pairID": "136360n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "854": {
+    "uid": "134356n",
+    "label_counter": {
+      "e": 74,
+      "n": 24,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "You will remember my saying that it was wise to beware of people who were not telling you the truth.\"",
+    "hypothesis": "There might be dishonest people around here.",
+    "pairID": "134356n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "868": {
+    "uid": "36469e",
+    "label_counter": {
+      "n": 14,
+      "c": 20,
+      "e": 66
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "I should put it this way. ",
+    "hypothesis": "I should phrase it differently.",
+    "pairID": "36469e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "874": {
+    "uid": "101809c",
+    "label_counter": {
+      "c": 44,
+      "n": 47,
+      "e": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "For example, if Ovitz's five-year deal was worth, say, $100 million, and if the compensation committee had added to that a front-end grant of free Disney shares worth, say, $50 million, then--assuming that Ovitz finished his five-year contract period--the cost to Disney would be $150 million.",
+    "hypothesis": "This is not conjecture.",
+    "pairID": "101809c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "881": {
+    "uid": "73235n",
+    "label_counter": {
+      "e": 9,
+      "n": 86,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "It hopes to bring on another 25 or 35 people when the new building opens next fall.",
+    "hypothesis": "They already have a waiting list for the new building.",
+    "pairID": "73235n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "896": {
+    "uid": "13387e",
+    "label_counter": {
+      "e": 70,
+      "n": 28,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "yeah i can believe that",
+    "hypothesis": "I agree with what you said.",
+    "pairID": "13387e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "902": {
+    "uid": "10015n",
+    "label_counter": {
+      "n": 73,
+      "e": 15,
+      "c": 12
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "What am I to do with them afterwards?\"",
+    "hypothesis": "It is the narrator's responsibility to take care of them.",
+    "pairID": "10015n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "905": {
+    "uid": "113967e",
+    "label_counter": {
+      "n": 73,
+      "c": 19,
+      "e": 8
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "'I don't know what happened, exactly.' I said.",
+    "hypothesis": "You aren't making sense.",
+    "pairID": "113967e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "906": {
+    "uid": "47714e",
+    "label_counter": {
+      "e": 92,
+      "n": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "I could've afforded a much swankier, up-town place- or at least, a slightly swankier, mid-town place- but all that space would just encourage me to clutter.",
+    "hypothesis": "I could have had a bigger place but then I would have clutter.",
+    "pairID": "47714e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "911": {
+    "uid": "102923n",
+    "label_counter": {
+      "e": 81,
+      "n": 19
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The movie doesn't come to much, though.",
+    "hypothesis": "This movie did not exceed my expectations.",
+    "pairID": "102923n",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "921": {
+    "uid": "47798n",
+    "label_counter": {
+      "n": 72,
+      "c": 28
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "On the west side of the square is Old King's House (built in 1762), which was the official residence of the British governor; it was here that the proclamation of emancipation was issued in 1838.",
+    "hypothesis": "The Old King's House had an incident where the King was murdered inside of it.",
+    "pairID": "47798n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "928": {
+    "uid": "66225e",
+    "label_counter": {
+      "e": 39,
+      "n": 26,
+      "c": 35
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "uh but you could fill a whole bunch of uh holes with these things i used to i used to advertise buying wheat pennies um i'd give a dollar a roll which two cents a piece which is basically overpriced",
+    "hypothesis": "I used to try to sell wheat pennies.",
+    "pairID": "66225e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "929": {
+    "uid": "100613c",
+    "label_counter": {
+      "c": 69,
+      "n": 22,
+      "e": 9
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Coast Guard rules establishing bridgeopening schedules).",
+    "hypothesis": "The Navy creates bridgeopening schedules.",
+    "pairID": "100613c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "931": {
+    "uid": "105790n",
+    "label_counter": {
+      "n": 33,
+      "e": 60,
+      "c": 7
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "well so okay you need to get married and have kids and then when they're big enough you can have them go do the yard  and you can do what you want to do",
+    "hypothesis": "The reason to have children is so that they can do yardwork.",
+    "pairID": "105790n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "935": {
+    "uid": "94000c",
+    "label_counter": {
+      "n": 82,
+      "c": 17,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Trial of Galileo",
+    "hypothesis": "Galileo's Trial was cancelled.",
+    "pairID": "94000c",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "936": {
+    "uid": "101809n",
+    "label_counter": {
+      "n": 36,
+      "e": 29,
+      "c": 35
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "For example, if Ovitz's five-year deal was worth, say, $100 million, and if the compensation committee had added to that a front-end grant of free Disney shares worth, say, $50 million, then--assuming that Ovitz finished his five-year contract period--the cost to Disney would be $150 million.",
+    "hypothesis": "The five-year deal will be worth $100 million",
+    "pairID": "101809n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "938": {
+    "uid": "47090c",
+    "label_counter": {
+      "c": 37,
+      "n": 39,
+      "e": 24
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "'Upload him into his body? What body?'",
+    "hypothesis": "He has a body.",
+    "pairID": "47090c",
+    "a1": [
+      "Presupposition",
+      "Probabilistic"
+    ]
+  },
+  "941": {
+    "uid": "102817n",
+    "label_counter": {
+      "e": 17,
+      "n": 50,
+      "c": 33
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "yes they would they just wouldn't be able to own the kind of automobiles that they think they deserve to own or the kind of homes that we think we deserve to own we might have to you know just be able to i think if we a generation went without debt then the next generation like if if our our generation my husband and i we're twenty eight if we lived our lives and didn't become you know indebted like you know our generation before us that um the budget would balance and that we became accustomed to living with what we could afford which we wouldn't be destitute i mean we wouldn't be living on the street by any means but just compared to how spoiled we are we would be in our own minds but i feel like the generation after us would oh man it it would be so good it would be so much better it wouldn't be perfect but then they could learn to live with what what they could afford to save to buy and if you want a nicer car than that well you save a little longer",
+    "hypothesis": "Society would be perfect and there would be no more war if we could just rid ourselves of our debt.",
+    "pairID": "102817n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "942": {
+    "uid": "124590c",
+    "label_counter": {
+      "c": 87,
+      "e": 4,
+      "n": 9
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The great attraction of the church is the splendid exterior, which is crowned by golden onion-shaped cupolas.",
+    "hypothesis": "The outside of the church isn't much to look at, but the inside is intricately decorated.",
+    "pairID": "124590c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "943": {
+    "uid": "11303n",
+    "label_counter": {
+      "e": 67,
+      "n": 31,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "'I see.'",
+    "hypothesis": "It was clear",
+    "pairID": "11303n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "944": {
+    "uid": "93623e",
+    "label_counter": {
+      "n": 25,
+      "e": 60,
+      "c": 15
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "'You've double-crossed me about four times in one afternoon.",
+    "hypothesis": "You've stepped over me more than one time today alone.",
+    "pairID": "93623e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "946": {
+    "uid": "82415n",
+    "label_counter": {
+      "e": 40,
+      "c": 38,
+      "n": 22
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "Then he sobered.",
+    "hypothesis": "He was drunk.",
+    "pairID": "82415n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "951": {
+    "uid": "33291n",
+    "label_counter": {
+      "c": 25,
+      "n": 71,
+      "e": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Other attractions include hot springs, a market, and the forests and ski-slopes of nearby Uluda .",
+    "hypothesis": "Along with those attractions are some of the most beautiful beaches in the world.",
+    "pairID": "33291n",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "953": {
+    "uid": "108562c",
+    "label_counter": {
+      "n": 87,
+      "c": 12,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Most of the Clinton women were in their 20s at the time of their Clinton encounter",
+    "hypothesis": "Bill Clinton isn't a rapist",
+    "pairID": "108562c",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "964": {
+    "uid": "128542e",
+    "label_counter": {
+      "e": 82,
+      "n": 18
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "There should be someone here who knew more of what was going on in this world than he did now.",
+    "hypothesis": "He knew things, but hoped someone else knew more. ",
+    "pairID": "128542e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "968": {
+    "uid": "48557c",
+    "label_counter": {
+      "c": 91,
+      "n": 8,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "It shows clearly enough that my poor old friend had just found out she'd been made a fool of!",
+    "hypothesis": "I was relieved that my friend was feeling so well and happy.",
+    "pairID": "48557c",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "969": {
+    "uid": "47011e",
+    "label_counter": {
+      "n": 17,
+      "e": 82,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Oh, sorry, wrong church.",
+    "hypothesis": "He or she entered the wrong church.",
+    "pairID": "47011e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "972": {
+    "uid": "73191n",
+    "label_counter": {
+      "n": 34,
+      "e": 61,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "To get a wonderful view of the whole stretch of river, and to stretch your legs in a beautiful parklike setting, climb up to the Ceteau de Marqueyssac and its jardins suspendus (hanging gardens).",
+    "hypothesis": "You will enjoy stretching your legs as you climb the Ceteau de Marqueyssac.",
+    "pairID": "73191n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "977": {
+    "uid": "45108n",
+    "label_counter": {
+      "n": 46,
+      "e": 54
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "'Don't worry,' he whispered.",
+    "hypothesis": "He was very calm and said not to worry.",
+    "pairID": "45108n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "978": {
+    "uid": "13263n",
+    "label_counter": {
+      "c": 67,
+      "n": 29,
+      "e": 4
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Cultural transitions of major organizations are never easy to accomplish, and I would certainly not claim that it will be easy for GAO.",
+    "hypothesis": "GAO will likely have an easier time achieving cultural transitions than other organizations of similar size.",
+    "pairID": "13263n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "982": {
+    "uid": "86886n",
+    "label_counter": {
+      "c": 36,
+      "n": 64
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Tommy had a healthy and vigorous appetite.",
+    "hypothesis": "Tommy hadn't eaten all day.",
+    "pairID": "86886n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "988": {
+    "uid": "56138c",
+    "label_counter": {
+      "n": 59,
+      "e": 16,
+      "c": 25
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "The case law is a whole body unto itself.",
+    "hypothesis": "The criminal law is a whole body unto itself.",
+    "pairID": "56138c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "992": {
+    "uid": "75320c",
+    "label_counter": {
+      "e": 17,
+      "n": 56,
+      "c": 27
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "They encourage us to indulge ourselves, and they exhort us to worry about our competence at work.",
+    "hypothesis": "There are no consequences to indulging ourselves. ",
+    "pairID": "75320c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "994": {
+    "uid": "22235c",
+    "label_counter": {
+      "c": 44,
+      "e": 21,
+      "n": 35
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "yeah really no kidding",
+    "hypothesis": "Oh, you're just joking. ",
+    "pairID": "22235c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "997": {
+    "uid": "83774c",
+    "label_counter": {
+      "c": 85,
+      "n": 12,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "agencies' operating trust, enterprise and internal service funds) are required to produce auditable financial statements.",
+    "hypothesis": "Agencies have no operating trust and produce little to no auditable financial statements.",
+    "pairID": "83774c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1005": {
+    "uid": "82915n",
+    "label_counter": {
+      "c": 1,
+      "e": 66,
+      "n": 33
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Starting from Scratch",
+    "hypothesis": "Leaving everything behind.",
+    "pairID": "82915n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1011": {
+    "uid": "137715c",
+    "label_counter": {
+      "c": 42,
+      "n": 56,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "We still espouse a God-given right of human beings to use the environment for their benefit, says Barrett Duke of the Southern Baptists.",
+    "hypothesis": "Barrett Duke is a terrorist of the Southern Baptists.",
+    "pairID": "137715c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1012": {
+    "uid": "46059n",
+    "label_counter": {
+      "c": 41,
+      "n": 53,
+      "e": 6
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The results of even the most well designed epidemiological studies are characterized by this type of uncertainty, though well-designed studies typically report narrower uncertainty bounds around the best estimate than do studies of lesser quality.",
+    "hypothesis": "Most studies are not planned well.",
+    "pairID": "46059n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1015": {
+    "uid": "110061n",
+    "label_counter": {
+      "n": 73,
+      "e": 26,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "If you have the energy to climb the 387 steps to the top of the south tower, you will be rewarded with a stunning view over the city.",
+    "hypothesis": "The south tower has the best view in the city.",
+    "pairID": "110061n",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "1016": {
+    "uid": "32754e",
+    "label_counter": {
+      "n": 18,
+      "e": 80,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed.",
+    "hypothesis": "Clinton shuttered the DOE to move against waste.",
+    "pairID": "32754e",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "1021": {
+    "uid": "140440c",
+    "label_counter": {
+      "n": 53,
+      "c": 47
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Table 2: Examples of BLM's, FHWA's, IRS's, and VBA's Customer Satisfaction Expectations for Senior Executive Performance",
+    "hypothesis": "Senior Executives do not care about the customer satisfaction.",
+    "pairID": "140440c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1030": {
+    "uid": "138530e",
+    "label_counter": {
+      "n": 36,
+      "e": 43,
+      "c": 21
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "It vibrated under his hand.",
+    "hypothesis": "It hummed quietly in his hand.",
+    "pairID": "138530e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1039": {
+    "uid": "103616e",
+    "label_counter": {
+      "n": 32,
+      "e": 67,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "There may be a small savings at the factory showrooms in Manacor, where you'll have the biggest choice.",
+    "hypothesis": "The factory show rooms are cheaper.",
+    "pairID": "103616e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1041": {
+    "uid": "103482c",
+    "label_counter": {
+      "n": 50,
+      "c": 49,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Although it is a significant part of the poverty population, Asians historically have not been able to participate in the services and programs available to the poor, he said.",
+    "hypothesis": "Asians are always poor.",
+    "pairID": "103482c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1048": {
+    "uid": "53468n",
+    "label_counter": {
+      "e": 36,
+      "n": 56,
+      "c": 8
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "But is the Internet so miraculous an advertising vehicle that Gross will be able to siphon off $400 per person from total ad spending of $1,000 per family--or persuade advertisers to spend an additional $400 to reach each of his customers?",
+    "hypothesis": "The internet is so great at advertising that is saved Gross money.",
+    "pairID": "53468n",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1054": {
+    "uid": "119758c",
+    "label_counter": {
+      "c": 53,
+      "n": 42,
+      "e": 5
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "uh-huh so do you have to get a shade tolerant grass is that what you're",
+    "hypothesis": "All grass seed needs full sun to grow.",
+    "pairID": "119758c",
+    "a1": [
+      "Presupposition"
+    ]
+  },
+  "1057": {
+    "uid": "134103n",
+    "label_counter": {
+      "e": 75,
+      "n": 22,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "He walked out into the street and I followed.",
+    "hypothesis": "I followed him down the street.",
+    "pairID": "134103n",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "1060": {
+    "uid": "6105e",
+    "label_counter": {
+      "n": 22,
+      "e": 74,
+      "c": 4
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Asked about abortion the other day on CNN, Republican National Committee Chairman Jim Nicholson also invoked what is apparently the party-line  inclusive party.",
+    "hypothesis": "The Republican National Committee Chairman gave the party's standard answer on the subject of abortion when he was asked about it on CNN.",
+    "pairID": "6105e",
+    "a1": [
+      "Imperfection",
+      "Lexical"
+    ]
+  },
+  "1061": {
+    "uid": "130315n",
+    "label_counter": {
+      "n": 73,
+      "c": 9,
+      "e": 18
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "yeah now do Indian are Indian foods kosher",
+    "hypothesis": "Indian foods are kosher now too, I ate indian kosher yesterday.",
+    "pairID": "130315n",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1064": {
+    "uid": "23642n",
+    "label_counter": {
+      "n": 91,
+      "c": 5,
+      "e": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": " The second half of the book dealt with the use of the true name.",
+    "hypothesis": "The first part dealt with the use of false names.",
+    "pairID": "23642n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1065": {
+    "uid": "6804e",
+    "label_counter": {
+      "e": 63,
+      "n": 37
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "But if you take it seriously, the anti-abortion position is definitive by definition.",
+    "hypothesis": "Some people take the anti-abortion position very seriously.",
+    "pairID": "6804e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1067": {
+    "uid": "141642n",
+    "label_counter": {
+      "e": 82,
+      "n": 16,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Most of France went enthusiastically into World War I, and came out of it victorious yet bled white.",
+    "hypothesis": "Most of France felt patriotic and supportive of WWI.",
+    "pairID": "141642n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1069": {
+    "uid": "84055n",
+    "label_counter": {
+      "n": 52,
+      "c": 29,
+      "e": 19
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Even if auditors do not follow such other standards and methodologies, they may still serve as a useful source of guidance to auditors in planning their work under GAGAS.",
+    "hypothesis": "GAGAS requires strict compliance for auditors to follow.",
+    "pairID": "84055n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1070": {
+    "uid": "100349e",
+    "label_counter": {
+      "e": 64,
+      "n": 35,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "He touched it and felt his skin swelling and growing hot.",
+    "hypothesis": "His skin was burning.",
+    "pairID": "100349e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1077": {
+    "uid": "82156e",
+    "label_counter": {
+      "n": 41,
+      "e": 54,
+      "c": 5
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The great breathtaking Italian adventure remains the road.",
+    "hypothesis": "The road remains the Italy people want to see. ",
+    "pairID": "82156e",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "1079": {
+    "uid": "143608n",
+    "label_counter": {
+      "e": 53,
+      "n": 43,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "In research designs based on statistical inference, the criterion for establishing casuality is whether the findings are likely to have occurred by chance following appropriate comparisons to eliminate alternative interpretations.",
+    "hypothesis": "Research designs may be based on statistical inference in different organizations. ",
+    "pairID": "143608n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1085": {
+    "uid": "115224n",
+    "label_counter": {
+      "n": 18,
+      "e": 82
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "For the upcoming world championships in microhockey, a super-vaccine was to be developed, which would be administered to all participants and audience members.",
+    "hypothesis": "A super-vaccine was being developed to keep people attending the world championships from falling ill with the disease.",
+    "pairID": "115224n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1091": {
+    "uid": "105911n",
+    "label_counter": {
+      "n": 41,
+      "c": 52,
+      "e": 7
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "and to have children and just get a day care or someone to take care of it and not really have the bonding process that takes place with babies and stuff you know",
+    "hypothesis": "The day care is perfect for the children.",
+    "pairID": "105911n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1100": {
+    "uid": "101104n",
+    "label_counter": {
+      "e": 79,
+      "n": 19,
+      "c": 2
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "It must also report the information to the employee's home agency promptly to facilitate disbursement of pay by the home agency.",
+    "hypothesis": "The home agency will take care of the financial aspects.",
+    "pairID": "101104n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1111": {
+    "uid": "133433e",
+    "label_counter": {
+      "n": 43,
+      "e": 38,
+      "c": 19
+    },
+    "old_label": "e",
+    "majority_label": "n",
+    "premise": "Decline and Decadence",
+    "hypothesis": "Poor and rich. ",
+    "pairID": "133433e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1116": {
+    "uid": "139640n",
+    "label_counter": {
+      "n": 28,
+      "e": 71,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": " There was food for all, and houses had been conjured hastily to shelter the people.",
+    "hypothesis": "Housed were haphazardly built to accommodate people.",
+    "pairID": "139640n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1122": {
+    "uid": "53545c",
+    "label_counter": {
+      "c": 44,
+      "n": 54,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Emergency physician attitudes concerning intervention for alcohol abuse/dependence in the emergency department.",
+    "hypothesis": "Physicians were never consulted about substance abuse interventions in the ER.",
+    "pairID": "53545c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1138": {
+    "uid": "96516e",
+    "label_counter": {
+      "e": 73,
+      "n": 22,
+      "c": 5
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "As Ben Yagoda writes in the New York Times Book Review , somewhere along the way, Kidder must have decided not to write a book about Tommy O'Connor.",
+    "hypothesis": "A book was not written about Tommy O'Connor.",
+    "pairID": "96516e",
+    "a1": [
+      "Coreference",
+      "Lexical"
+    ]
+  },
+  "1142": {
+    "uid": "113039e",
+    "label_counter": {
+      "n": 40,
+      "e": 42,
+      "c": 18
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "In this respect, bringing Steve Jobs back to save Apple is like bringing Gen.",
+    "hypothesis": "Steve Jobs came back to Apple.",
+    "pairID": "113039e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1146": {
+    "uid": "73817e",
+    "label_counter": {
+      "e": 76,
+      "n": 23,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "oh i enjoyed it i mean it was just more for my money",
+    "hypothesis": "It was worth the money for the time.",
+    "pairID": "73817e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1148": {
+    "uid": "103168n",
+    "label_counter": {
+      "e": 82,
+      "n": 17,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Technological advances generally come in waves that crest and eventually subside.",
+    "hypothesis": "Advances in electronics come in waves.",
+    "pairID": "103168n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1150": {
+    "uid": "26142n",
+    "label_counter": {
+      "e": 88,
+      "n": 9,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The importer pays duties that are required by law",
+    "hypothesis": "Imported goods have duties",
+    "pairID": "26142n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1162": {
+    "uid": "129201n",
+    "label_counter": {
+      "n": 69,
+      "c": 29,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "36 million could mean the state's legal services for the poor will lose six of their 21 regional offices, the head of a poverty-law resource center said.",
+    "hypothesis": "LSC could lose 80% of their funding.",
+    "pairID": "129201n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1164": {
+    "uid": "808n",
+    "label_counter": {
+      "e": 80,
+      "n": 18,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "He felt the off-hand dagger's weight in the small of his back.",
+    "hypothesis": "The knife was poking into his back.",
+    "pairID": "808n",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "1170": {
+    "uid": "96583n",
+    "label_counter": {
+      "n": 78,
+      "c": 22
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Mack Lee, Body Servant of General Robert E. Lee Through the Civil War , published in 1918.",
+    "hypothesis": "The book was first drafted in early 1915.",
+    "pairID": "96583n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1178": {
+    "uid": "111243n",
+    "label_counter": {
+      "e": 78,
+      "n": 21,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The pope, suggesting that Gen.",
+    "hypothesis": "Gen is being suggested by the Pope. ",
+    "pairID": "111243n",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1181": {
+    "uid": "72389c",
+    "label_counter": {
+      "c": 70,
+      "n": 30
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "The National Football League semifinals are set.",
+    "hypothesis": "They were unable to disclose when the dates would be set.",
+    "pairID": "72389c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1189": {
+    "uid": "43225n",
+    "label_counter": {
+      "e": 61,
+      "n": 34,
+      "c": 5
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Sue me, Royko wrote.",
+    "hypothesis": "Royko was over their crap. ",
+    "pairID": "43225n",
+    "a1": [
+      "Implicature"
+    ]
+  },
+  "1194": {
+    "uid": "101467n",
+    "label_counter": {
+      "n": 38,
+      "e": 56,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Horwitz makes us see that the pinched circumstances of their lives are not so different from the conditions of their ancestors, dirt-poor yeoman farmers who seldom saw, much less owned, a slave.",
+    "hypothesis": "Horwitz says that they are as unhappy as their ancestors.",
+    "pairID": "101467n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1197": {
+    "uid": "8257n",
+    "label_counter": {
+      "e": 74,
+      "n": 24,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "'But if White has any designs at all on living, he'll be as far from Little as he can possibly get by now.'",
+    "hypothesis": "White should be afraid to come back to Little.",
+    "pairID": "8257n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1210": {
+    "uid": "57163n",
+    "label_counter": {
+      "e": 67,
+      "n": 33
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "While documenting the basis for judgments can be more difficult than documenting nonjudgmental information, overall the chain of evidence or audit trail techniques should not pose any greater difficulty for GAO evaluators than our documentation procedures for other evaluation methods.",
+    "hypothesis": "GAO evaluators are trained to analyze and document the chain of evidence.",
+    "pairID": "57163n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1212": {
+    "uid": "142630n",
+    "label_counter": {
+      "n": 51,
+      "c": 47,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Do you think Mrs. Inglethorp made a will leaving all her money to Miss Howard? I asked in a low voice, with some curiosity. ",
+    "hypothesis": "I tried to speak up but fear prevented me.",
+    "pairID": "142630n",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "1213": {
+    "uid": "124037e",
+    "label_counter": {
+      "e": 36,
+      "n": 34,
+      "c": 30
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The park was established in 1935 and was given Corbett's name after India became independent.",
+    "hypothesis": "The park used to be named after Corbett.",
+    "pairID": "124037e",
+    "a1": [
+      "Implicature",
+      "Temporal"
+    ]
+  },
+  "1214": {
+    "uid": "45443n",
+    "label_counter": {
+      "e": 85,
+      "n": 12,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "This confluence of a bad tax, a $1 billion reserve, a botched opposition campaign, and voters willing to call a bluff resulted in the I-695 victory.",
+    "hypothesis": "Bad tax and a $1 billion reserve lead to the I-695 victory.",
+    "pairID": "45443n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1219": {
+    "uid": "56124n",
+    "label_counter": {
+      "n": 30,
+      "c": 39,
+      "e": 31
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "Of how, when tea was done, and everyone had stood,He reached for my head, put his hands over it,And gently pulled me to his chest, which smelledOf dung smoke and cinnamon and mutton grease.I could hear his wheezy breathing now, like the prophet's Last whispered word repeated by the faithful.Then he prayed for what no one had time to translate--His son interrupted the old man to tell him a groupOf snake charmers sought his blessing, and a blind thief.The saint pushed me away, took one long look,Then straightened my collar and nodded me toward the door.",
+    "hypothesis": "When tea was done, he put his hands on me romantically.",
+    "pairID": "56124n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1220": {
+    "uid": "34776c",
+    "label_counter": {
+      "c": 30,
+      "n": 60,
+      "e": 10
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "We did not study the reasons for these deviations specifically, but they likely result from the context in which federal CIOs operate.",
+    "hypothesis": "The Context in which federal CIOs operate is no different from other CIOs.",
+    "pairID": "34776c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1229": {
+    "uid": "100623n",
+    "label_counter": {
+      "n": 61,
+      "e": 39
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "On Menorca, search for more elusive prehistoric sites, or take the cliff paths of the northwest or south coasts.",
+    "hypothesis": "The cliff paths are a pleasant place to walk of Menorca.",
+    "pairID": "100623n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1230": {
+    "uid": "11534n",
+    "label_counter": {
+      "e": 51,
+      "n": 45,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": " He found himself thinking in circles of worry and pulled himself back to his problem.",
+    "hypothesis": "He could not afford to get distracted from his problem.",
+    "pairID": "11534n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1231": {
+    "uid": "134217e",
+    "label_counter": {
+      "n": 42,
+      "e": 50,
+      "c": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "uh-huh and is it true i mean is it um",
+    "hypothesis": "It's true.",
+    "pairID": "134217e",
+    "a1": [
+      "Presupposition"
+    ]
+  },
+  "1235": {
+    "uid": "10015e",
+    "label_counter": {
+      "e": 94,
+      "n": 6
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "What am I to do with them afterwards?\"",
+    "hypothesis": "The narrator doesn't know what to do with them afterwards.",
+    "pairID": "10015e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1237": {
+    "uid": "120226c",
+    "label_counter": {
+      "c": 71,
+      "n": 27,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "But in 1799 doom was signaled for the cane monopoly with the appearance of the cheaper sugar beet.",
+    "hypothesis": "There was never any cane grown at all in 1799.",
+    "pairID": "120226c",
+    "a1": [
+      "Presupposition"
+    ]
+  },
+  "1245": {
+    "uid": "142964n",
+    "label_counter": {
+      "n": 82,
+      "c": 14,
+      "e": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "These two accounts are commonly combined in discussing the Social Security program.",
+    "hypothesis": "If the accounts were to be taken individually, the program would not work.",
+    "pairID": "142964n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1251": {
+    "uid": "141293e",
+    "label_counter": {
+      "n": 31,
+      "e": 64,
+      "c": 5
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "oh wow no i just started about well five years ago i think",
+    "hypothesis": "It had started five years ago.",
+    "pairID": "141293e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1260": {
+    "uid": "133456n",
+    "label_counter": {
+      "e": 61,
+      "n": 39
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "This tax preference allows state and local governments to borrow at lower rates to build highways, schools, mass transit facilities, and water systems.",
+    "hypothesis": "This will tax preference will help our communities develop faster.",
+    "pairID": "133456n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1265": {
+    "uid": "61429c",
+    "label_counter": {
+      "n": 41,
+      "c": 57,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "In this enclosed but airy building, you'll find ladies with large machetes expertly chopping off hunks of kingfish, tuna, or shark for eager buyers.",
+    "hypothesis": "You'll find small lepers chopping of chunks of tuna, its the only place they can work.",
+    "pairID": "61429c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1271": {
+    "uid": "103909n",
+    "label_counter": {
+      "e": 59,
+      "n": 33,
+      "c": 8
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Watergate remains for many an unhealed wound, and Clinton's critics delight in needling him with Watergate comparisons--whether to Whitewater or Flytrap.",
+    "hypothesis": "Clinton has several similarities to Whitewater or Flytrap.",
+    "pairID": "103909n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1275": {
+    "uid": "101195n",
+    "label_counter": {
+      "c": 48,
+      "n": 45,
+      "e": 7
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "These traditional low-drafted craft ply effortlessly and quietly through the water guided by their experienced pilots.",
+    "hypothesis": "There is a lack of experienced pilots for these low-drafted craft.  ",
+    "pairID": "101195n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1282": {
+    "uid": "122197n",
+    "label_counter": {
+      "n": 64,
+      "e": 6,
+      "c": 30
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Oh, my friend, have I not said to you all along that I have no proofs. ",
+    "hypothesis": "I will be able to find some proof soon.",
+    "pairID": "122197n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1285": {
+    "uid": "105561n",
+    "label_counter": {
+      "e": 50,
+      "n": 43,
+      "c": 7
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "and they just put instructors out there and you you sign up for instruction and they just give you an arm band and if you see an instructor who's not doing anything you just tap him on the shoulder and ask him questions and they'll show you things",
+    "hypothesis": "The instructors are really good at helping, and are always available. ",
+    "pairID": "105561n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1291": {
+    "uid": "14556n",
+    "label_counter": {
+      "e": 80,
+      "n": 17,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Criminal discovered in last chapter. ",
+    "hypothesis": "Criminal identified in the closing pages of the book.",
+    "pairID": "14556n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1292": {
+    "uid": "135247c",
+    "label_counter": {
+      "c": 57,
+      "n": 38,
+      "e": 5
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "The original wax models of the river gods are on display in the Civic Museum.",
+    "hypothesis": "They have models made out of clay.",
+    "pairID": "135247c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1297": {
+    "uid": "50484c",
+    "label_counter": {
+      "c": 64,
+      "n": 28,
+      "e": 8
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "All of our many earnest experiments produced results in line with random chance, they conclude.",
+    "hypothesis": "The experiments proved it was a much better predictor.",
+    "pairID": "50484c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1298": {
+    "uid": "42860n",
+    "label_counter": {
+      "n": 17,
+      "e": 75,
+      "c": 8
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "That's why we tried to kill you.",
+    "hypothesis": "That's one of the reasons we wanted to kill you.",
+    "pairID": "42860n",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "1300": {
+    "uid": "114074e",
+    "label_counter": {
+      "e": 82,
+      "n": 15,
+      "c": 3
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "You wake up one bright autumn morning and you're halfway to the subway when you decide to walk to work instead.",
+    "hypothesis": "You wake up early an decide to walk instead of take the subway.",
+    "pairID": "114074e",
+    "a1": [
+      "Temporal"
+    ]
+  },
+  "1301": {
+    "uid": "61466n",
+    "label_counter": {
+      "e": 70,
+      "n": 29,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "he's not a starter",
+    "hypothesis": "He always plays in the middle or towards the end.",
+    "pairID": "61466n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1304": {
+    "uid": "137708c",
+    "label_counter": {
+      "n": 38,
+      "c": 51,
+      "e": 11
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "(In the short run, higher-income taxpayers may pay more taxes, not less, if a capgains rate cut leads them to sell more assets than they otherwise would have done.)",
+    "hypothesis": "A capgains tax would make people buy more assets.",
+    "pairID": "137708c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1306": {
+    "uid": "82182e",
+    "label_counter": {
+      "e": 18,
+      "n": 70,
+      "c": 12
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "A lack of sleep can always be remedied later, a Madrile??o might tell you, as he tops off a late night with early-morning chocolate con curros (a fried-dough and chocolate snack ideal for absorbing alcohol) on the way home for a shower and then continues on to work.",
+    "hypothesis": "The citizens of Madrid are eager to party creating a city that is also active at night.",
+    "pairID": "82182e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1313": {
+    "uid": "41975c",
+    "label_counter": {
+      "n": 70,
+      "c": 16,
+      "e": 14
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "Tommy realized perfectly that in his own wits lay the only chance of escape, and behind his casual manner he was racking his brains furiously.",
+    "hypothesis": "He'd been stuck for hours, starting to feel doubt crawl into his mind.",
+    "pairID": "41975c",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1317": {
+    "uid": "121910c",
+    "label_counter": {
+      "c": 17,
+      "e": 60,
+      "n": 23
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "If ancient writings give only a romanticized view, they do offer a more precise picture of Indo-Aryan society.",
+    "hypothesis": "Ancient writings  show an accurate picture of Indo-Anryan society.",
+    "pairID": "121910c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1328": {
+    "uid": "102817c",
+    "label_counter": {
+      "c": 43,
+      "e": 23,
+      "n": 34
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "yes they would they just wouldn't be able to own the kind of automobiles that they think they deserve to own or the kind of homes that we think we deserve to own we might have to you know just be able to i think if we a generation went without debt then the next generation like if if our our generation my husband and i we're twenty eight if we lived our lives and didn't become you know indebted like you know our generation before us that um the budget would balance and that we became accustomed to living with what we could afford which we wouldn't be destitute i mean we wouldn't be living on the street by any means but just compared to how spoiled we are we would be in our own minds but i feel like the generation after us would oh man it it would be so good it would be so much better it wouldn't be perfect but then they could learn to live with what what they could afford to save to buy and if you want a nicer car than that well you save a little longer",
+    "hypothesis": "I am glad our generation has no debt.",
+    "pairID": "102817c",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1330": {
+    "uid": "13607n",
+    "label_counter": {
+      "e": 90,
+      "n": 10
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Now it's my turn, and even if I'm walking in a dead man's shoes, I can make my way afresh.",
+    "hypothesis": "It's my turn to change things for myself.",
+    "pairID": "13607n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1332": {
+    "uid": "130518n",
+    "label_counter": {
+      "c": 96,
+      "e": 3,
+      "n": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Marilyn Manson is darker, more serious, and more vicious than Alice Cooper was.",
+    "hypothesis": "Marilyn Manson was not as dark as Alice Cooper is.",
+    "pairID": "130518n",
+    "a1": [
+      "Temporal"
+    ]
+  },
+  "1333": {
+    "uid": "128176e",
+    "label_counter": {
+      "n": 39,
+      "e": 55,
+      "c": 6
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The chart to which Reich refers was actually presented during Saxton's opening statement, hours before Reich testified, and did not look as Reich claims it did.",
+    "hypothesis": "Reich refers to a chart that he misunderstood.",
+    "pairID": "128176e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1350": {
+    "uid": "136752n",
+    "label_counter": {
+      "e": 43,
+      "n": 54,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "The questions may need to be tailored to",
+    "hypothesis": "A majority of the questions referenced will need to be tailored to.",
+    "pairID": "136752n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1359": {
+    "uid": "122397c",
+    "label_counter": {
+      "n": 25,
+      "c": 67,
+      "e": 8
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "On the days I go to my office, I wear a flannel shirt with no necktie if the weather is cool.",
+    "hypothesis": "On hot days, I wear a flannel shirt to the office. ",
+    "pairID": "122397c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1365": {
+    "uid": "30592n",
+    "label_counter": {
+      "e": 82,
+      "n": 17,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "'Of course.'",
+    "hypothesis": "Yes, that's absolutely true.",
+    "pairID": "30592n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1374": {
+    "uid": "81469n",
+    "label_counter": {
+      "e": 80,
+      "n": 19,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Should we invite these young wealthies back to our comparatively humble, small home?",
+    "hypothesis": "The wealthies' have a much larger home than us. ",
+    "pairID": "81469n",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1376": {
+    "uid": "42983e",
+    "label_counter": {
+      "e": 72,
+      "n": 28
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "The town is also known for its sparkling wine and for the caves where about 70 per?\u00adcent of France's cultivated mushrooms are grown.",
+    "hypothesis": "The town has a lot of sparkling wine.",
+    "pairID": "42983e",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1382": {
+    "uid": "107252c",
+    "label_counter": {
+      "n": 80,
+      "c": 17,
+      "e": 3
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "On the northwestern Alpine frontier, a new state had appeared on the scene, destined to lead the movement to a united Italy.",
+    "hypothesis": "The alpine frontier was separated from Italy by glaciers.",
+    "pairID": "107252c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1384": {
+    "uid": "45957e",
+    "label_counter": {
+      "n": 32,
+      "e": 43,
+      "c": 25
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Bauerstein had been at Styles on the fatal night, and added: \"He said twice: 'That alters everything.' And I've been thinking. ",
+    "hypothesis": "The fact that Styles was at Bauerstein changes everything.",
+    "pairID": "45957e",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1387": {
+    "uid": "13531e",
+    "label_counter": {
+      "e": 53,
+      "n": 26,
+      "c": 21
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "I felt like a rat.",
+    "hypothesis": "I felt very weasily.",
+    "pairID": "13531e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1392": {
+    "uid": "10289n",
+    "label_counter": {
+      "c": 9,
+      "n": 25,
+      "e": 66
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "Most produce is locally grown, with some from the restaurant's own organic garden.",
+    "hypothesis": "Most produce is local and some is grown inside the restaurant.",
+    "pairID": "10289n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1396": {
+    "uid": "30139n",
+    "label_counter": {
+      "e": 62,
+      "n": 35,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "oh that's not really important the the other stuff is just you know window dressing because we we've never ordered anything fact the the van that we've got we bought uh from an estate it was an estate trade uh it was almost brand new the the gentlemen who owned it had died",
+    "hypothesis": "We were very lucky to get the van given how new it was.",
+    "pairID": "30139n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1401": {
+    "uid": "93357c",
+    "label_counter": {
+      "n": 47,
+      "c": 53
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "So is the salt, drying in the huge, square pans at Las Salinas in the south.",
+    "hypothesis": "Pepper is made wet in Las Salinas.",
+    "pairID": "93357c",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "1405": {
+    "uid": "102708e",
+    "label_counter": {
+      "n": 81,
+      "e": 8,
+      "c": 11
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Cases in Comparative",
+    "hypothesis": "Cases can be part of a legal matter.",
+    "pairID": "102708e",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1408": {
+    "uid": "139377c",
+    "label_counter": {
+      "n": 43,
+      "e": 4,
+      "c": 53
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The credibility of the United States working with its European partners in NATO is on the line.",
+    "hypothesis": "The United States currently enjoys high favorability among its European allies who trust it completely.",
+    "pairID": "139377c",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "1409": {
+    "uid": "100637e",
+    "label_counter": {
+      "c": 23,
+      "e": 59,
+      "n": 18
+    },
+    "old_label": "c",
+    "majority_label": "e",
+    "premise": "the only problem is it's not large enough it only holds about i think they squeezed when Ryan struck out his five thousandth player they they squeezed about forty thousand people in there",
+    "hypothesis": "It doesn't hold many people.",
+    "pairID": "100637e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1410": {
+    "uid": "2529c",
+    "label_counter": {
+      "c": 81,
+      "n": 17,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The following are examples of how agencies engaged employee unions.",
+    "hypothesis": "The following are examples of how agencies can eradicate employee unions.",
+    "pairID": "2529c",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "1411": {
+    "uid": "43247n",
+    "label_counter": {
+      "e": 77,
+      "c": 4,
+      "n": 19
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "So, which one of you ladies wants to go first.",
+    "hypothesis": "One of the ladies should go first.",
+    "pairID": "43247n",
+    "a1": [
+      "Lexical",
+      "Presupposition"
+    ]
+  },
+  "1417": {
+    "uid": "17950c",
+    "label_counter": {
+      "c": 69,
+      "n": 30,
+      "e": 1
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "These adaptations are not uniformly valued.",
+    "hypothesis": "Adaptions are always valued ",
+    "pairID": "17950c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1427": {
+    "uid": "23280n",
+    "label_counter": {
+      "n": 70,
+      "e": 24,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Sphinxes were guardian deitiesinEgyptianmythologyandthis was monumentalprotection,standing73 m (240 ft)longand20 m (66 feet) high.",
+    "hypothesis": "Sphinxes were put in the tombs to protect the dead.",
+    "pairID": "23280n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1429": {
+    "uid": "100248n",
+    "label_counter": {
+      "e": 26,
+      "n": 66,
+      "c": 8
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "But we don't rule out regulation in the future if industry fails to do a good job of policing itself.",
+    "hypothesis": "Regulation is a possibility because lawmakers are changing their opinions.",
+    "pairID": "100248n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1444": {
+    "uid": "103863n",
+    "label_counter": {
+      "n": 40,
+      "c": 59,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "c",
+    "premise": "for a change i i got i get sick of winter just looking everything so dead i hate that",
+    "hypothesis": "Winter is all year long.",
+    "pairID": "103863n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1445": {
+    "uid": "66689c",
+    "label_counter": {
+      "c": 87,
+      "n": 11,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "OMB issued the guidance in Memorandum M0010, dated April 25, 2000.",
+    "hypothesis": "Memorandum M0010 was issued by INS.",
+    "pairID": "66689c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1463": {
+    "uid": "14191n",
+    "label_counter": {
+      "e": 94,
+      "n": 5,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "In the other sight he saw Adrin's hands cocking back a pair of dragon-hammered pistols.",
+    "hypothesis": "He had spotted Adrin preparing to fire his pistols.",
+    "pairID": "14191n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1465": {
+    "uid": "60543n",
+    "label_counter": {
+      "e": 82,
+      "n": 17,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "and uh oh i guess an hour into my somewhat sleep a guy woke me up and uh said you'd better get out of the the tent they're they're liable to come down several of the others had already come down blown down they hadn't blown away but they had flattened",
+    "hypothesis": "The guy was worried about my safety.",
+    "pairID": "60543n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1466": {
+    "uid": "40867c",
+    "label_counter": {
+      "e": 58,
+      "n": 33,
+      "c": 9
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "so well i think we've taken up at least five minutes",
+    "hypothesis": "You've taken up the last 5 minutes.",
+    "pairID": "40867c",
+    "a1": [
+      "Coreference",
+      "Lexical"
+    ]
+  },
+  "1467": {
+    "uid": "129601e",
+    "label_counter": {
+      "e": 90,
+      "n": 10
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Took forever.",
+    "hypothesis": "Lasted too long",
+    "pairID": "129601e",
+    "a1": [
+      "Implicature",
+      "Lexical"
+    ]
+  },
+  "1472": {
+    "uid": "100792c",
+    "label_counter": {
+      "c": 38,
+      "n": 59,
+      "e": 3
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "yeah but uh do you have small kids",
+    "hypothesis": "It matters not if children are involved.",
+    "pairID": "100792c",
+    "a1": [
+      "Coreference"
+    ]
+  },
+  "1479": {
+    "uid": "30894n",
+    "label_counter": {
+      "e": 44,
+      "n": 54,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops.",
+    "hypothesis": "Pakistani poppy growers are mad at the government.",
+    "pairID": "30894n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1483": {
+    "uid": "57369n",
+    "label_counter": {
+      "n": 68,
+      "e": 25,
+      "c": 7
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "TEST ORGANISMS",
+    "hypothesis": "Trial Living Plants",
+    "pairID": "57369n",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1490": {
+    "uid": "88879n",
+    "label_counter": {
+      "c": 29,
+      "e": 2,
+      "n": 69
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Today the strait is busy with commercial shipping, ferries, and fishing boats, and its wooded shores are lined with pretty fishing villages, old Ottoman mansions, and the villas of Istanbul's wealthier citizens.",
+    "hypothesis": "Istanbul is still considered a third world country.",
+    "pairID": "88879n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1491": {
+    "uid": "32197n",
+    "label_counter": {
+      "e": 32,
+      "n": 62,
+      "c": 6
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "facilitate suits for benefits by using the State and Federal courts and the independent bar on which those courts depend for the proper performance of their duties and responsibilities.",
+    "hypothesis": "Federal refers to national and state refers to local, duties and responsibilities may vary between Federal and State levels.",
+    "pairID": "32197n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1495": {
+    "uid": "134514n",
+    "label_counter": {
+      "e": 90,
+      "c": 2,
+      "n": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "However, co-requesters cannot approve additional co-requesters or restrict the timing of the release of the product after it is issued.",
+    "hypothesis": "They cannot restrict timing of the release of the product.",
+    "pairID": "134514n",
+    "a1": [
+      "Temporal"
+    ]
+  },
+  "1508": {
+    "uid": "17950e",
+    "label_counter": {
+      "e": 65,
+      "n": 27,
+      "c": 8
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "These adaptations are not uniformly valued.",
+    "hypothesis": "Adaptions aren't always valued ",
+    "pairID": "17950e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1512": {
+    "uid": "133841c",
+    "label_counter": {
+      "n": 57,
+      "c": 42,
+      "e": 1
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "i've even heard of some people being sexually abused",
+    "hypothesis": "Some people are mentally abused.",
+    "pairID": "133841c",
+    "a1": [
+      "Coreference",
+      "Probabilistic"
+    ]
+  },
+  "1519": {
+    "uid": "24103e",
+    "label_counter": {
+      "e": 53,
+      "n": 42,
+      "c": 5
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "if the United States had used full conventional power.",
+    "hypothesis": "If the United States had maximized their potential.",
+    "pairID": "24103e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1535": {
+    "uid": "102817e",
+    "label_counter": {
+      "n": 27,
+      "e": 69,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "yes they would they just wouldn't be able to own the kind of automobiles that they think they deserve to own or the kind of homes that we think we deserve to own we might have to you know just be able to i think if we a generation went without debt then the next generation like if if our our generation my husband and i we're twenty eight if we lived our lives and didn't become you know indebted like you know our generation before us that um the budget would balance and that we became accustomed to living with what we could afford which we wouldn't be destitute i mean we wouldn't be living on the street by any means but just compared to how spoiled we are we would be in our own minds but i feel like the generation after us would oh man it it would be so good it would be so much better it wouldn't be perfect but then they could learn to live with what what they could afford to save to buy and if you want a nicer car than that well you save a little longer",
+    "hypothesis": "Life will be great for subsequent generations if our generation goes without debt.",
+    "pairID": "102817e",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1541": {
+    "uid": "56075n",
+    "label_counter": {
+      "n": 48,
+      "e": 49,
+      "c": 3
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "More detailed implementation plans also will be necessary to address business system, processes, and resource issues.",
+    "hypothesis": "Plans are complex ",
+    "pairID": "56075n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1543": {
+    "uid": "81579c",
+    "label_counter": {
+      "c": 90,
+      "n": 10
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "All were prominent nationally known organizations.",
+    "hypothesis": "Some organizations were obscure.",
+    "pairID": "81579c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1544": {
+    "uid": "73156n",
+    "label_counter": {
+      "e": 7,
+      "c": 35,
+      "n": 58
+    },
+    "old_label": "c",
+    "majority_label": "n",
+    "premise": "and once we came here it was like gosh i just miss that because it really is exciting to be around people of different",
+    "hypothesis": "This place does not surprise me anymore.  ",
+    "pairID": "73156n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1549": {
+    "uid": "135251n",
+    "label_counter": {
+      "n": 26,
+      "e": 72,
+      "c": 2
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "it's like but the time we went to Florida and needed to rent a car you know he believed in it",
+    "hypothesis": "We rented a car while we were in Florida.",
+    "pairID": "135251n",
+    "a1": [
+      "Lexical",
+      "Probabilistic"
+    ]
+  },
+  "1553": {
+    "uid": "33340e",
+    "label_counter": {
+      "c": 19,
+      "n": 17,
+      "e": 64
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "There are a number of expensive jewelry and other duty-free shops, all with goods priced in US dollars (duty-free goods must always be paid for in foreign currency).",
+    "hypothesis": "Be sure to bring currencies other than the US dollar when buying goods from the duty-free shops.",
+    "pairID": "33340e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1555": {
+    "uid": "102075c",
+    "label_counter": {
+      "c": 70,
+      "n": 30
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "um-hum with the ice yeah",
+    "hypothesis": "With the sunshine and heat wave yes.",
+    "pairID": "102075c",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1560": {
+    "uid": "78660e",
+    "label_counter": {
+      "e": 37,
+      "c": 39,
+      "n": 24
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Closed on the Sabbath.",
+    "hypothesis": "Sabbath is closed.",
+    "pairID": "78660e",
+    "a1": [
+      "Imperfection"
+    ]
+  },
+  "1567": {
+    "uid": "41052n",
+    "label_counter": {
+      "n": 31,
+      "e": 68,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "HCFA published a Notice of Proposed Rulemaking on March 28, 1997 (62 Fed.",
+    "hypothesis": "HCFA tried to keep everyone informed about the rules they were making.",
+    "pairID": "41052n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1568": {
+    "uid": "40486n",
+    "label_counter": {
+      "n": 47,
+      "e": 52,
+      "c": 1
+    },
+    "old_label": "n",
+    "majority_label": "e",
+    "premise": "The Women's Haven, which provides shelter and outreach to domestic-violence victims, already has a full-time attorney.",
+    "hypothesis": "The Haven is a useful resource in the community.",
+    "pairID": "40486n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1572": {
+    "uid": "123703c",
+    "label_counter": {
+      "c": 38,
+      "n": 29,
+      "e": 33
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "Specifically, by defining mission improvement objectives, senior executives determine whether their organization needs a CIO who is a networking/marketing specialist, business change agent, operations specialist, policy/oversight manager, or any combination thereof.",
+    "hypothesis": "A CIO does not need to be an operations specialist.",
+    "pairID": "123703c",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1573": {
+    "uid": "67938e",
+    "label_counter": {
+      "e": 69,
+      "n": 24,
+      "c": 7
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "that they don't show local",
+    "hypothesis": "The they in this sentence only show things that aren't local.",
+    "pairID": "67938e",
+    "a1": [
+      "Presupposition"
+    ]
+  },
+  "1585": {
+    "uid": "26744n",
+    "label_counter": {
+      "n": 62,
+      "e": 29,
+      "c": 9
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "Unfortunately, following the vogue of conceptualism, Kentridge has entered a film in the show, , which uses animation of sketches much cruder than the ones he usually does interspersed with documentary footage from the apartheid era.",
+    "hypothesis": "Kentridge created several documentaries in addition to that which covered the apartheid era.",
+    "pairID": "26744n",
+    "a1": [
+      "Probabilistic"
+    ]
+  },
+  "1587": {
+    "uid": "4082e",
+    "label_counter": {
+      "n": 32,
+      "e": 67,
+      "c": 1
+    },
+    "old_label": "e",
+    "majority_label": "e",
+    "premise": "Helms, who will be 81 when his fifth term ends, is increasingly frail.",
+    "hypothesis": "Helms will turn 81 soon.",
+    "pairID": "4082e",
+    "a1": [
+      "Lexical"
+    ]
+  },
+  "1589": {
+    "uid": "93236c",
+    "label_counter": {
+      "c": 68,
+      "n": 30,
+      "e": 2
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "The word itself, tapa, is translated as  lid  and derives from the old custom of offering a bite of food along with a drink, the food being served on a saucer sitting on top of the glass like a lid.",
+    "hypothesis": "Tapas are large portions and are a very filling meal.",
+    "pairID": "93236c",
+    "a1": [
+      "Probabilistic"
+    ]
+  }
+}

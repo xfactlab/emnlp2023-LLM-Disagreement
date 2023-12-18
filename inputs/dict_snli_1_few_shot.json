@@ -1,0 +1,14 @@
+{
+  "307": {
+    "uid": "4545817148.jpg#2r1n",
+    "label_counter": {
+      "n": 84,
+      "e": 12,
+      "c": 4
+    },
+    "old_label": "n",
+    "majority_label": "n",
+    "premise": "An outside wedding ceremony for an asian couple under an umbrella, shielded from the blaring sun.",
+    "hypothesis": "Asian people getting married by the beach."
+  }
+}

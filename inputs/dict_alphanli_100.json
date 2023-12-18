@@ -1,0 +1,1596 @@
+{
+  "287": {
+    "label_counter": {
+      "1": 96,
+      "2": 4
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Tom was looking through his pantry for a snack.",
+      "The bug crawled away and Tom lost his appetite."
+    ],
+    "hypothesis": [
+      "He saw a huge bug crawl near him, and he hates bugs.",
+      "Tom found a coconut, but noticed that it had a worm hole."
+    ]
+  },
+  "496": {
+    "label_counter": {
+      "1": 15,
+      "2": 85
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "My roommates put up their Christmas tree this year.",
+      "This is what it's like living with a cat."
+    ],
+    "hypothesis": [
+      "The roommates soon had to take the tree down.",
+      "The cat enjoyed the ornaments and garland and slept under the tree."
+    ]
+  },
+  "48": {
+    "label_counter": {
+      "2": 97,
+      "1": 3
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Susan was making a soup.",
+      "She did her best to cut away the bad parts."
+    ],
+    "hypothesis": [
+      "She had to put in some broth.",
+      "She had to put in some chicken."
+    ]
+  },
+  "1255": {
+    "label_counter": {
+      "1": 100
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Lily's favorite doll broke.",
+      "Finally, the doll came back in perfect condition."
+    ],
+    "hypothesis": [
+      "Lily's parents took the doll to a toy shop.",
+      "Lily's grandmother broke her doll."
+    ]
+  },
+  "915": {
+    "label_counter": {
+      "1": 95,
+      "2": 5
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Joe ordered a dining room set off of the internet for his wife.",
+      "Joe had ordered doll furniture by mistake!"
+    ],
+    "hypothesis": [
+      "Joe did not read the website correctly.",
+      "When Joe unpacked the furniture he realized it was too fancy."
+    ]
+  },
+  "377": {
+    "label_counter": {
+      "1": 94,
+      "2": 6
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Candice loves tacos.",
+      "Candice stuck to her original taco recipe."
+    ],
+    "hypothesis": [
+      "Candice tried a new taco recipe, but it tasted terrible.",
+      "Candice decided to buy some."
+    ]
+  },
+  "1437": {
+    "label_counter": {
+      "1": 99,
+      "2": 1
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "I was eating on my patio.",
+      "So, I threw a butter knife at it and it flew away."
+    ],
+    "hypothesis": [
+      "A bee landed on my food.",
+      "I tried to share my food with a bird."
+    ]
+  },
+  "246": {
+    "label_counter": {
+      "2": 94,
+      "1": 6
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "A tree fell in Ray's backyard.",
+      "Every time he opened the shed he recited the poem."
+    ],
+    "hypothesis": [
+      "Ray had to get the machine saw in the shed, but the door was hard to open.",
+      "Ray made the tree into a house and wrote a poem."
+    ]
+  },
+  "1514": {
+    "label_counter": {
+      "2": 100
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Sally needed a haircut.",
+      "The haircut was nothing like the image, Sally cried."
+    ],
+    "hypothesis": [
+      "Sally went to go get a wig.",
+      "Sally found a hairstyle online and went to a barber."
+    ]
+  },
+  "1334": {
+    "label_counter": {
+      "1": 93,
+      "2": 7
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Sam went door to door to try to sell magazines.",
+      "The old man waved Sam off and told him to go."
+    ],
+    "hypothesis": [
+      "Sam tried to persuade an old man to purchase.",
+      "Sam knocked on an old man,."
+    ]
+  },
+  "707": {
+    "label_counter": {
+      "1": 96,
+      "2": 4
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Greg never thought he'd boo-boo on himself.",
+      "One party goer thought the house pet used the bathroom on the floor."
+    ],
+    "hypothesis": [
+      "Greg made a mess at a party.",
+      "Greg ate something to calm his stomach."
+    ]
+  },
+  "163": {
+    "label_counter": {
+      "1": 99,
+      "2": 1
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Jean wanted to travel to Africa.",
+      "Jean's trip to Africa was better than she had hoped."
+    ],
+    "hypothesis": [
+      "Jean booked her trip and went.",
+      "Jean ended up having a bad time in Africa."
+    ]
+  },
+  "474": {
+    "label_counter": {
+      "1": 72,
+      "2": 28
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Thunder rumbled in the distance as the rain began to fall.",
+      "The flash of lightning threw eerie shadows on the wall."
+    ],
+    "hypothesis": [
+      "I was trying to sleep.",
+      "I went outside to watch the storm."
+    ]
+  },
+  "551": {
+    "label_counter": {
+      "2": 60,
+      "1": 40
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Mel got a summer job at the ice cream parlor.",
+      "Mel suddenly loved her summer job!"
+    ],
+    "hypothesis": [
+      "Mel got a small bonus one day.",
+      "Mel was afraid to start a job but made some new friends."
+    ]
+  },
+  "101": {
+    "label_counter": {
+      "2": 89,
+      "1": 11
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "George was about to participate in his first professional fight.",
+      "George proved his skills and won his first match."
+    ],
+    "hypothesis": [
+      "George trained hard for two days before the fight.",
+      "George was the underdog, but he had been training months to compete in this event."
+    ]
+  },
+  "654": {
+    "label_counter": {
+      "1": 93,
+      "2": 7
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Tom had a pet toad.",
+      "Unfortunately, Jimmy's snake got to Tom's toad before he could."
+    ],
+    "hypothesis": [
+      "Tom lost his toad while visiting his friend Jimmy.",
+      "one day Jimmy brought his dog over to Tom's and let it loose."
+    ]
+  },
+  "1231": {
+    "label_counter": {
+      "2": 21,
+      "1": 79
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Mary-Anne was feeling lonely and decided to adopt a cat.",
+      "She took the cat home with her."
+    ],
+    "hypothesis": [
+      "Mary-Anne found an affectionate and cute cat.",
+      "She saw a pitiful looking cat at the pet store."
+    ]
+  },
+  "366": {
+    "label_counter": {
+      "1": 97,
+      "2": 3
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Monique was finishing a new novel.",
+      "She took the copy and slapped Gary hard over the head with it."
+    ],
+    "hypothesis": [
+      "Gary snuck up behind her and scared her because she was deeply involved in reading her novel.",
+      "She was testing Gary about it."
+    ]
+  },
+  "1130": {
+    "label_counter": {
+      "2": 90,
+      "1": 10
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "A man drove while listening to the radio.",
+      "The man called the radio station to ask."
+    ],
+    "hypothesis": [
+      "The man heard a song he liked but the radio station mentioned the name of what the song was.",
+      "He wanted to know the name of a song."
+    ]
+  },
+  "1403": {
+    "label_counter": {
+      "1": 90,
+      "2": 10
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Randy was very shy and never talked much at school.",
+      "Frank and Randy became good friends through their shyness."
+    ],
+    "hypothesis": [
+      "Frank was also very shy.",
+      "One day Randy met Frank who was deaf too."
+    ]
+  },
+  "1501": {
+    "label_counter": {
+      "1": 61,
+      "2": 39
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Jan checked into a hotel after a long business workshop.",
+      "Then Jan saw the pot empty by the maker and coffee pooling around it."
+    ],
+    "hypothesis": [
+      "Jan started the coffee machine and jumped into the shower.",
+      "Jan wanted to get some coffee in her room, but the machine didn't look like it was working."
+    ]
+  },
+  "880": {
+    "label_counter": {
+      "2": 96,
+      "1": 4
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "I was walking home.",
+      "The rain made me feel even more depressed."
+    ],
+    "hypothesis": [
+      "It was a sunny day.",
+      "I was depressed because my girlfriend broke up with me. halfway through my walk it started to rain."
+    ]
+  },
+  "1450": {
+    "label_counter": {
+      "1": 31,
+      "2": 69
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Daisy was at her middle school graduation.",
+      "She decided to forget about it, and went home."
+    ],
+    "hypothesis": [
+      "Daisy dropped a bow on her graduation outfit.",
+      "she lost her hat."
+    ]
+  },
+  "99": {
+    "label_counter": {
+      "1": 62,
+      "2": 38
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Lacy and Karen got in a fight.",
+      "Karen apologized too so they could be friends again."
+    ],
+    "hypothesis": [
+      "Karen missed Lacy so much, she couldn't bear not talking to her friend.",
+      "Lacy missed Karen so much, she couldn't bear not talking to her friend."
+    ]
+  },
+  "1181": {
+    "label_counter": {
+      "2": 98,
+      "1": 2
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Danny loved baking doughnuts for his friends and family.",
+      "Danny's shop became one of the most popular places in town!"
+    ],
+    "hypothesis": [
+      "He opened up a aquarium shop.",
+      "Danny decided to open up his own doughnut shop."
+    ]
+  },
+  "43": {
+    "label_counter": {
+      "2": 84,
+      "1": 16
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Trevor went to the lake one day to fish.",
+      "Trevor was forced to go home after he lost his fishing pole."
+    ],
+    "hypothesis": [
+      "The water was perfect for all levels of fishing.",
+      "The water was spitting up poles."
+    ]
+  },
+  "1207": {
+    "label_counter": {
+      "2": 99,
+      "1": 1
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "April was not feeling well when she woke up.",
+      "The medicine worked and she went back to school the next day."
+    ],
+    "hypothesis": [
+      "April went to the Dr. and got some disease.",
+      "April took night time medicine."
+    ]
+  },
+  "540": {
+    "label_counter": {
+      "1": 93,
+      "2": 7
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Clay plays baseball for a living.",
+      "Clay cannot pitch the rest of the season due to his injury."
+    ],
+    "hypothesis": [
+      "he ended up breaking his arm.",
+      "Clay injured his refuse in a game."
+    ]
+  },
+  "636": {
+    "label_counter": {
+      "2": 60,
+      "1": 40
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Gina was so excited for prom.",
+      "Finally it was prom night, and Gina was so happy!"
+    ],
+    "hypothesis": [
+      "Gina brought a new dress and candles.",
+      "Gina got a date."
+    ]
+  },
+  "863": {
+    "label_counter": {
+      "1": 37,
+      "2": 63
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Jacob woke up at a red light.",
+      "Now Jacob only wakes up in his bed."
+    ],
+    "hypothesis": [
+      "he fell asleep in the car.",
+      "Jacob vowed to never drive drunk again."
+    ]
+  },
+  "389": {
+    "label_counter": {
+      "2": 57,
+      "1": 43
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Jeff learned how to play guitar at a very young age.",
+      "They took the band on tour and became rockstars."
+    ],
+    "hypothesis": [
+      "He clumsied everyday and became part of a band.",
+      "Jeff's parents liked listening to his band play."
+    ]
+  },
+  "369": {
+    "label_counter": {
+      "2": 99,
+      "1": 1
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Tom had too many headphones.",
+      "He never had a problem untangling headphones again."
+    ],
+    "hypothesis": [
+      "it took him no time to untangle them.",
+      "Tom chose to go with wireless equipment."
+    ]
+  },
+  "228": {
+    "label_counter": {
+      "1": 97,
+      "2": 3
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Neil had been journeying through Asia.",
+      "He had always wanted to go surfing under the California sun."
+    ],
+    "hypothesis": [
+      "Neil thought about traveling some more.",
+      "Neil decided he loved Asia so much that he stayed there."
+    ]
+  },
+  "1193": {
+    "label_counter": {
+      "2": 94,
+      "1": 6
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Sue was excited to plant her first garden.",
+      "The seed packets no longer marked the rows but lay all over the yard."
+    ],
+    "hypothesis": [
+      "She spent hours getting it perfect.",
+      "Sue left seeds outside in a storm."
+    ]
+  },
+  "1087": {
+    "label_counter": {
+      "1": 36,
+      "2": 64
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Tyler's dad took him to a baseball game.",
+      "Once he got his hotdog, he was happy."
+    ],
+    "hypothesis": [
+      "He was not impressed by the game.",
+      "Tyler is so energized and hungry."
+    ]
+  },
+  "1492": {
+    "label_counter": {
+      "2": 100
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Tim is part of the school soccer team.",
+      "Because of his good performance they won the game."
+    ],
+    "hypothesis": [
+      "He failed the team on many occasions.",
+      "He led the team on many occasions."
+    ]
+  },
+  "1159": {
+    "label_counter": {
+      "2": 4,
+      "1": 96
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "The radio DJ got into a big country music binge.",
+      "The crowd had none of it and stormed the station."
+    ],
+    "hypothesis": [
+      "The DJ wouldn't play any other type of music that was requested.",
+      "The audience wanted the DJ to return to his home country."
+    ]
+  },
+  "125": {
+    "label_counter": {
+      "1": 94,
+      "2": 6
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Fred had a job at the fair to fill the balloons.",
+      "The balloon popped in his face!"
+    ],
+    "hypothesis": [
+      "Fred saw a child come over with a pin.",
+      "Fred fill one balloon too small."
+    ]
+  },
+  "1430": {
+    "label_counter": {
+      "2": 100
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Laura decided to fly all the way to New York City.",
+      "The compliments she got made Laura think the trip was worth it."
+    ],
+    "hypothesis": [
+      "She packed her old torn clothes.",
+      "Laura got many compliments while in NYC."
+    ]
+  },
+  "668": {
+    "label_counter": {
+      "1": 98,
+      "2": 2
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Judy was going to see a movie.",
+      "Finally, she decided to just see a different movie."
+    ],
+    "hypothesis": [
+      "The movie Judy wanted to see what sold out.",
+      "Judy had to break line for the one she wanted."
+    ]
+  },
+  "1254": {
+    "label_counter": {
+      "2": 18,
+      "1": 82
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Tom saw a friendly dog while walking through the city.",
+      "He took home a great dog and made a new best friend."
+    ],
+    "hypothesis": [
+      "The dog was malnourished.",
+      "Tom befriend the dog and took him to a shelter."
+    ]
+  },
+  "685": {
+    "label_counter": {
+      "2": 80,
+      "1": 20
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Jane had a pet bird.",
+      "Jane's friend forgot to feed it."
+    ],
+    "hypothesis": [
+      "Jane lets her friend cook the bird.",
+      "Jane noticed there was food in the cage."
+    ]
+  },
+  "529": {
+    "label_counter": {
+      "2": 93,
+      "1": 7
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "I turned off my computer and picked up a notebook.",
+      "I spent most of the time staring at the blacked-out screen."
+    ],
+    "hypothesis": [
+      "I started browsing random websites.",
+      "I don't know what to write."
+    ]
+  },
+  "805": {
+    "label_counter": {
+      "2": 89,
+      "1": 11
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Amy decided to cook quinoa for her dinner.",
+      "Amy realized she needed to learn how to season food."
+    ],
+    "hypothesis": [
+      "The pie ended up tasting plain.",
+      "Amy food tasted plain."
+    ]
+  },
+  "639": {
+    "label_counter": {
+      "2": 48,
+      "1": 52
+    },
+    "old_label": 2,
+    "majority_label": 1,
+    "observation": [
+      "I finally got around to watching the movie Deadpool.",
+      "I just enjoyed the gratuitous violence and excessive profanity."
+    ],
+    "hypothesis": [
+      "It was very illicit.",
+      "I didn't think I was going to like it at all."
+    ]
+  },
+  "1332": {
+    "label_counter": {
+      "2": 83,
+      "1": 17
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Tim was coloring at home.",
+      "Tim spent the next day painting the way white."
+    ],
+    "hypothesis": [
+      "Tim painted on the walls and floor.",
+      "Tim was so careful at coloring that his dad led him help paint the walkway."
+    ]
+  },
+  "1055": {
+    "label_counter": {
+      "2": 99,
+      "1": 1
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Dan needed a new router.",
+      "The router worked excellently and Dan was happy."
+    ],
+    "hypothesis": [
+      "Dan went to the store to get a table.",
+      "Dan went to the store to get a router."
+    ]
+  },
+  "291": {
+    "label_counter": {
+      "1": 96,
+      "2": 4
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "John went on a camping trip with his brother Mark.",
+      "At that moment, a skunk walked right into their tent."
+    ],
+    "hypothesis": [
+      "At the camping site, the brothers unloaded their car, put up the tent, and rolled out the sleeping bags.",
+      "John and Mark set up with their tent left at home."
+    ]
+  },
+  "572": {
+    "label_counter": {
+      "2": 51,
+      "1": 49
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Amy was sitting on a swing at Lynn's house.",
+      "She realized at 14, they were getting too old for swing sets."
+    ],
+    "hypothesis": [
+      "The swing was too small for her to get on it.",
+      "The swingset chain nearly broke."
+    ]
+  },
+  "554": {
+    "label_counter": {
+      "2": 53,
+      "1": 47
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Patsy was in charge of lining up people to work at a football game.",
+      "Another group had to bring more to help out so that we had enough."
+    ],
+    "hypothesis": [
+      "Patsy did not have enough resources.",
+      "She realized there weren't enough hot dogs."
+    ]
+  },
+  "1367": {
+    "label_counter": {
+      "1": 96,
+      "2": 4
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Emily had a paper due for class.",
+      "The next day, Emily's paper was not done."
+    ],
+    "hypothesis": [
+      "Emily planned to pull an all-nighter but fell asleep.",
+      "Emily refused to go to a party and instead worked on it."
+    ]
+  },
+  "1416": {
+    "label_counter": {
+      "1": 19,
+      "2": 81
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "It was the summer break.",
+      "It was the first time Gina had been to that part of town."
+    ],
+    "hypothesis": [
+      "Gina and her friends decided to explore an amusement park.",
+      "Gina and her friends decided to explore the city."
+    ]
+  },
+  "378": {
+    "label_counter": {
+      "2": 98,
+      "1": 2
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Alex is a selfish man.",
+      "Now, Alex is dating the girl and is very generous and sweet."
+    ],
+    "hypothesis": [
+      "He changed his ways to find a boyfriend.",
+      "Alex met a girl that he really liked."
+    ]
+  },
+  "884": {
+    "label_counter": {
+      "2": 85,
+      "1": 15
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "There were two powerful families.",
+      "The Lance's ended up winning the war and took over."
+    ],
+    "hypothesis": [
+      "The Funkel's won every battle, year after year.",
+      "the families had a fight."
+    ]
+  },
+  "100": {
+    "label_counter": {
+      "2": 84,
+      "1": 16
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "My friend had an announcement to make.",
+      "So, I put on a smile and wished him the best of luck."
+    ],
+    "hypothesis": [
+      "My friend told us he had cancer and was expected to die in a week.",
+      "my friend usually talks about some business deal."
+    ]
+  },
+  "701": {
+    "label_counter": {
+      "1": 88,
+      "2": 12
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Bob discovered his truck had a flat tire.",
+      "Bob called someone to fix his flat tire."
+    ],
+    "hypothesis": [
+      "He didn't know how to fix it himself.",
+      "Bob called someone to fix his trucks flat tire."
+    ]
+  },
+  "1089": {
+    "label_counter": {
+      "1": 59,
+      "2": 41
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Linda was sketching in public.",
+      "But she felt devastated when she overheard comments about her sketch."
+    ],
+    "hypothesis": [
+      "People criticized Lindas sketch.",
+      "Linda prevented herself from eavesdropping on the next table over."
+    ]
+  },
+  "66": {
+    "label_counter": {
+      "2": 95,
+      "1": 5
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Scott has felt increasingly unhappy in his last few Year's in New York.",
+      "Driving out of New York, Scott feels both relieved and nostalgic."
+    ],
+    "hypothesis": [
+      "Scott found a job in New York.",
+      "The daily grind, extreme traffic and rude city dwellers left Scott longing for small town living."
+    ]
+  },
+  "858": {
+    "label_counter": {
+      "1": 98,
+      "2": 2
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Tim was struggling in math.",
+      "Ultimately, he ended up failing the test and had to repeat the course."
+    ],
+    "hypothesis": [
+      "Instead of asking for help, Tim went to a football game with his friends the night before the final exam.",
+      "Tim studied every night."
+    ]
+  },
+  "515": {
+    "label_counter": {
+      "1": 73,
+      "2": 27
+    },
+    "old_label": 2,
+    "majority_label": 1,
+    "observation": [
+      "My friends bought me a gift.",
+      "I learned to be more careful with knives."
+    ],
+    "hypothesis": [
+      "I used a knife to open the gift but ended down cutting myself.",
+      "It was knives, and I accidentally cut myself."
+    ]
+  },
+  "1036": {
+    "label_counter": {
+      "1": 39,
+      "2": 61
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "I took my pile of change to an exchange machine.",
+      "I used the money I got from the machine."
+    ],
+    "hypothesis": [
+      "I turned it in for play money.",
+      "I had saved up for a year."
+    ]
+  },
+  "582": {
+    "label_counter": {
+      "2": 100
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "I was playing guitar in my room.",
+      "I grabbed a replacement string and went back to playing."
+    ],
+    "hypothesis": [
+      "I broke a finger.",
+      "In my enthusiasm, I broke one of the strings."
+    ]
+  },
+  "1059": {
+    "label_counter": {
+      "2": 84,
+      "1": 16
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Brad stops and gets a 44 oz mountain dew every day.",
+      "Brad passes away."
+    ],
+    "hypothesis": [
+      "Brad had a really bad diabetes.",
+      "Brad suffers from diabetes at a young age, but never gives up his habit."
+    ]
+  },
+  "838": {
+    "label_counter": {
+      "1": 78,
+      "2": 22
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Bill wouldn't stop playing violent video games around his son.",
+      "Bill reluctantly stopped playing the games."
+    ],
+    "hypothesis": [
+      "One day his boy bashed his friend over the head with a rock.",
+      "Bill saw his son reenact a violent sex scene."
+    ]
+  },
+  "813": {
+    "label_counter": {
+      "2": 98,
+      "1": 2
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Georgia was checking her email.",
+      "Finally, she had a clean empty inbox."
+    ],
+    "hypothesis": [
+      "Georgia hasn't kept any of her emails in a year.",
+      "Georgia deleted the messages as she read them."
+    ]
+  },
+  "1353": {
+    "label_counter": {
+      "1": 99,
+      "2": 1
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Jimmy grew up very poor.",
+      "Jimmy called his parents and cursed at them."
+    ],
+    "hypothesis": [
+      "So he dropped out of school. And left home.",
+      "So he dropped out of the sky. And left home."
+    ]
+  },
+  "629": {
+    "label_counter": {
+      "1": 44,
+      "2": 56
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Jason woke up and went to prepare his daily cereal for breakfast.",
+      "He compromised and ate his cereal dry."
+    ],
+    "hypothesis": [
+      "When he stared pouring the milk he caught a nasty smell, the mild was sour.",
+      "Jason incompleted he was out of milk."
+    ]
+  },
+  "1153": {
+    "label_counter": {
+      "1": 52,
+      "2": 48
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "I had a date to play chess online with my friend Mick.",
+      "We never got to play."
+    ],
+    "hypothesis": [
+      "we ended up talking all night.",
+      "I ended up vomiting all night."
+    ]
+  },
+  "765": {
+    "label_counter": {
+      "2": 60,
+      "1": 40
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Bill put his dog in the fence and went out for the night.",
+      "Then he saw the lawn was filled with half-eaten mushrooms."
+    ],
+    "hypothesis": [
+      "Bill went out to get his dog.",
+      "He came back to an hindered fence gate."
+    ]
+  },
+  "51": {
+    "label_counter": {
+      "2": 97,
+      "1": 3
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "My best friend got married and moved to Hawaii.",
+      "We celebrated for days and I left for home at the end of the week."
+    ],
+    "hypothesis": [
+      "My best friend visited me on a vacation.",
+      "I went with her to celebrate."
+    ]
+  },
+  "608": {
+    "label_counter": {
+      "1": 88,
+      "2": 12
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Mother told Tommy not to play with matches.",
+      "The matches lit the paper in the trash bin and the house burned down."
+    ],
+    "hypothesis": [
+      "When Mother went to bed, Tommy got the matches.",
+      "Mother played with matches anyway."
+    ]
+  },
+  "1178": {
+    "label_counter": {
+      "1": 95,
+      "2": 5
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "My girlfriend and I messed up the bed pretty bad.",
+      "We finished by placing the pillows decoratively."
+    ],
+    "hypothesis": [
+      "We decided to make the bed and straighten the blankets.",
+      "We decided to clean the bed after work."
+    ]
+  },
+  "1219": {
+    "label_counter": {
+      "2": 95,
+      "1": 5
+    },
+    "old_label": 1,
+    "majority_label": 2,
+    "observation": [
+      "Last week I went rappelling with my friends.",
+      "However thankfully i repelled safely."
+    ],
+    "hypothesis": [
+      "we had an accident.",
+      "It was very slippery and low."
+    ]
+  },
+  "1149": {
+    "label_counter": {
+      "1": 98,
+      "2": 2
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Lucy and Rick bought a house for a good price.",
+      "Then they sold the beautifully renovated house for a huge profit."
+    ],
+    "hypothesis": [
+      "They renovated the house and flipped it.",
+      "The house burnt down the day after they bought it."
+    ]
+  },
+  "1112": {
+    "label_counter": {
+      "2": 88,
+      "1": 12
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "I get to go to the mall today.",
+      "My shopping trip was a success."
+    ],
+    "hypothesis": [
+      "I had plenty of back to school clothes.",
+      "I need some back to school clothes."
+    ]
+  },
+  "1079": {
+    "label_counter": {
+      "2": 99,
+      "1": 1
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Andrew wanted to plant an apple tree.",
+      "Andrew was glad to see the tree growing in his backyard."
+    ],
+    "hypothesis": [
+      "Andrew bought seeds but did not water the plant.",
+      "Andrew planted a seed from an apple."
+    ]
+  },
+  "887": {
+    "label_counter": {
+      "2": 98,
+      "1": 2
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Terry was going through a big issue.",
+      "He never would budge."
+    ],
+    "hypothesis": [
+      "Terry and his wife wanted the same paint for their house.",
+      "Terry stood strong on his views."
+    ]
+  },
+  "1378": {
+    "label_counter": {
+      "2": 99,
+      "1": 1
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "A friend and I were walking through a wooded area.",
+      "I threw it back down and we ran away."
+    ],
+    "hypothesis": [
+      "I picked up a rock with hieroglyphics on it.",
+      "We picked up a snake because we thought it was a stick."
+    ]
+  },
+  "1081": {
+    "label_counter": {
+      "1": 26,
+      "2": 74
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "I went to my favorite candy store",
+      "I have to decided to only eat candy in small amounts from now on."
+    ],
+    "hypothesis": [
+      "I got sick from eating not enough candy.",
+      "The price of my favorite candy was very high."
+    ]
+  },
+  "875": {
+    "label_counter": {
+      "2": 99,
+      "1": 1
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Joe loved his beard.",
+      "He decided to shave it and he got a job instantly."
+    ],
+    "hypothesis": [
+      "Joe was having a hard time picking a job.",
+      "Joe couldn't get hired because his beard looked unprofessional."
+    ]
+  },
+  "180": {
+    "label_counter": {
+      "1": 98,
+      "2": 2
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Kelly was cooking dinner for her parents for the first time.",
+      "Everyone laughed and they joked about it for years."
+    ],
+    "hypothesis": [
+      "She severely undercooked the chicken and badly burned the potatoes.",
+      "Kelly's dinner was tasty."
+    ]
+  },
+  "185": {
+    "label_counter": {
+      "1": 97,
+      "2": 3
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "When Jen is 10 years old she wants to wear makeup.",
+      "Jen learns her lesson."
+    ],
+    "hypothesis": [
+      "Jen applied her mother's makeup and looked like a clown.",
+      "Jen's mother let her put on her own makeup but Jen's friends complimented her."
+    ]
+  },
+  "908": {
+    "label_counter": {
+      "2": 95,
+      "1": 5
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Ed was making whiskey at home.",
+      "Sampling it, Ed decided his whiskey was great!"
+    ],
+    "hypothesis": [
+      "Whiskey was Ed's favorite drink.",
+      "Ed was nervous about how it would come out."
+    ]
+  },
+  "728": {
+    "label_counter": {
+      "2": 96,
+      "1": 4
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Sue's husband always talked about a gorgeous celebrity.",
+      "He took one look and said she had ruined her best feature."
+    ],
+    "hypothesis": [
+      "When she narrated about the celebrity's personal life to her husband.",
+      "His favorite celebrity got the bump removed from her nose."
+    ]
+  },
+  "201": {
+    "label_counter": {
+      "2": 33,
+      "1": 67
+    },
+    "old_label": 2,
+    "majority_label": 1,
+    "observation": [
+      "Chloe loved the book she was reading.",
+      "She went three pages without remembering what she read."
+    ],
+    "hypothesis": [
+      "One night, Chloe had the tv on while she was reading her book.",
+      "The book couldn't get her attention."
+    ]
+  },
+  "824": {
+    "label_counter": {
+      "2": 99,
+      "1": 1
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Last night my girlfriend and I got into a fight.",
+      "She hasn't answered my calls all day today her profile says single."
+    ],
+    "hypothesis": [
+      "She stormed out of my dump and I didn't talk to her all night.",
+      "She stormed out of my house and I didn't talk to her all night."
+    ]
+  },
+  "118": {
+    "label_counter": {
+      "2": 100
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Sam had to pay off his credit card debt.",
+      "Sam eventually made enough to pay off his credit card debt."
+    ],
+    "hypothesis": [
+      "Sam lost his job and could not make the payment.",
+      "Sam decided to work two jobs to pay off his debt."
+    ]
+  },
+  "403": {
+    "label_counter": {
+      "1": 85,
+      "2": 15
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Andrea's dad asked her to get firewood.",
+      "Then, she brought them inside."
+    ],
+    "hypothesis": [
+      "Andrea picked up as much wood as she could.",
+      "Andrea went and found fireflies."
+    ]
+  },
+  "1048": {
+    "label_counter": {
+      "2": 93,
+      "1": 7
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Ann loved cake.",
+      "Ann felt insulted by the lady's offer."
+    ],
+    "hypothesis": [
+      "Ann gave the lady cake.",
+      "The lady gave Ann the free cake for a favor."
+    ]
+  },
+  "488": {
+    "label_counter": {
+      "2": 94,
+      "1": 6
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Tim went on a date.",
+      "Leslie loved the date."
+    ],
+    "hypothesis": [
+      "Tim took Leslie on a romantic bear hunt.",
+      "Tim went to the movies with Leslie."
+    ]
+  },
+  "820": {
+    "label_counter": {
+      "1": 96,
+      "2": 4
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Daria wanted a new sweater.",
+      "She found a beautiful sweater and ordered it right away."
+    ],
+    "hypothesis": [
+      "She used the internet to find the perfect sweater.",
+      "She went all around town to find a sweater."
+    ]
+  },
+  "13": {
+    "label_counter": {
+      "2": 18,
+      "1": 82
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "My cousin Kory was working at the airport.",
+      "He is now serving out his sentence."
+    ],
+    "hypothesis": [
+      "Kory stole from the airport.",
+      "He got caught anti-shoplifting from passengers."
+    ]
+  },
+  "197": {
+    "label_counter": {
+      "2": 98,
+      "1": 2
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "A man was thrown out of every residence he could find.",
+      "Now he is homeless, and society at large is poorer for it."
+    ],
+    "hypothesis": [
+      "the man failed to get a job, until recently.",
+      "The man eventually gave up on looking."
+    ]
+  },
+  "939": {
+    "label_counter": {
+      "2": 96,
+      "1": 4
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Bob discovered his truck had a flat tire.",
+      "Bob drove his truck to the market."
+    ],
+    "hypothesis": [
+      "Bob had no spare tire.",
+      "He changed the flat himself."
+    ]
+  },
+  "396": {
+    "label_counter": {
+      "1": 75,
+      "2": 25
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "I took my sons to their first concert.",
+      "My sons decided they would rather go out and sit on the lawn."
+    ],
+    "hypothesis": [
+      "I bought them seats in the front row.",
+      "My sons fell asleep."
+    ]
+  },
+  "351": {
+    "label_counter": {
+      "2": 95,
+      "1": 5
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Peter had bought his dad a watch for Christmas.",
+      "But then his dad smiled and Peter knew he loved the gift!"
+    ],
+    "hypothesis": [
+      "It was a long lost family member.",
+      "When he opened the gift, he showed no emotion."
+    ]
+  },
+  "61": {
+    "label_counter": {
+      "2": 20,
+      "1": 80
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Gina's mom had taken a rap tape from her kids.",
+      "He stood smiling as his tape was smashed."
+    ],
+    "hypothesis": [
+      "The rap tape was mean and rude.",
+      "Gina  take their new tape."
+    ]
+  },
+  "1119": {
+    "label_counter": {
+      "2": 63,
+      "1": 37
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Sammy wanted to surprise his girlfriend.",
+      "It meant he remembered her talking about how much she liked them."
+    ],
+    "hypothesis": [
+      "Sammy, brought his girlfriend socks.",
+      "Sammy got his girlfriend she always talked about."
+    ]
+  },
+  "770": {
+    "label_counter": {
+      "1": 73,
+      "2": 27
+    },
+    "old_label": 2,
+    "majority_label": 1,
+    "observation": [
+      "The elementary school was have a father-daughter dance.",
+      "It was the perfect first dance."
+    ],
+    "hypothesis": [
+      "Ellie asked her dad to the concert and her dad agreed. She stood on his feet as he moved to the music.",
+      "So many fathers and daughters attended the dance."
+    ]
+  },
+  "715": {
+    "label_counter": {
+      "1": 99,
+      "2": 1
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Alissa was very stressed out.",
+      "Alissa felt very relaxed at the end of the day."
+    ],
+    "hypothesis": [
+      "So Alissa's friends took her to a spa to relax.",
+      "Alissa went home and worked more ."
+    ]
+  }
+}

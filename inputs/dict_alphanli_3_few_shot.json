@@ -1,0 +1,52 @@
+{
+  "307": {
+    "uid": "55c785c1-2ca1-472d-bc7a-4f3e9b5e6cb3-1",
+    "label_counter": {
+      "2": 65,
+      "1": 35
+    },
+    "old_label": 2,
+    "majority_label": 2,
+    "observation": [
+      "Sally drives everyday to work.",
+      "Luckily she stopped in time, but almost hit the kitten."
+    ],
+    "hypothesis": [
+      "Sally hit the gas when a kitten crossed in front.",
+      "Sally's almost could not stop when she pressed her breaks."
+    ]
+  },
+  "528": {
+    "uid": "68fac8a7-3fb6-4a4a-8f48-acf6dc336162-1",
+    "label_counter": {
+      "1": 100
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Charles still calls the party-line to meet girls.",
+      "The girl was a blond supermodel washing cars in a wet t-shirt."
+    ],
+    "hypothesis": [
+      "A girl picked up the party line.",
+      "He wanted one of them to be his brother."
+    ]
+  },
+  "52": {
+    "uid": "9fbdf16e-3cab-481a-8adf-771efc4c92c8-1",
+    "label_counter": {
+      "1": 73,
+      "2": 27
+    },
+    "old_label": 1,
+    "majority_label": 1,
+    "observation": [
+      "Tom went to an electronics store to buy earphones.",
+      "Tom decided to always buy more expensive ear phones."
+    ],
+    "hypothesis": [
+      "Tom was an elitist.",
+      "Tom bought costly ones but they broke right away."
+    ]
+  }
+}

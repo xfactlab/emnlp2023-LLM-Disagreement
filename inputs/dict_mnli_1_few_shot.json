@@ -1,0 +1,14 @@
+{
+  "307": {
+    "uid": "142729c",
+    "label_counter": {
+      "c": 79,
+      "n": 12,
+      "e": 9
+    },
+    "old_label": "c",
+    "majority_label": "c",
+    "premise": "What Ellison is doing here, as Hemingway did, is equating the process of becoming an artist with that of becoming a man.",
+    "hypothesis": "Ellison and Hemingway took different ways to compare becoming a man."
+  }
+}
